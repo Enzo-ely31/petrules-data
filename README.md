@@ -6,6 +6,9 @@ Dog and cat entry requirements per country, used by the Elysium Jet **PetRules**
 - `research/*.json` — source research by region; edit these, never `countries.json` directly.
 - `research/updates/*.json` — re-verified full entries replacing base ones (alphabetical order, later wins; weekly runs use `w-YYYY-MM-DD.json`).
 - `research/editorial/*.json` — short client-facing rewrites (`at_a_glance`, `steps`, `key_points`, `export_points`, `private_jet_note`) merged on top; no new facts.
+- `research/translations/<lang>.json` — client texts in fr, es, it, de, ar, ru. Used only while the English they were
+  translated from (`state/translate_source.json`) is unchanged; `tools/translations.py delta|commit` manages updates.
+- Only information backed by official sources is shown; low-confidence entries display "check with Elysium Jet operations".
 - `tools/build_countries.py` — validates `research/` and rebuilds `countries.json` (`python3 tools/build_countries.py`).
 - `tools/watch_sources.py` — weekly GitHub Action: hashes every official page cited and opens a
   `[source-changed] CC` issue when one changes.

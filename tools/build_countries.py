@@ -38,6 +38,7 @@ def lead_days(entry):
     return value if isinstance(value, int) and 0 < value <= 400 else None
 
 
+LOCALIZED_KEYS = ("summary", "at_a_glance", "steps", "key_points", "export_points", "private_jet_note")
 EDITORIAL_KEYS = ("at_a_glance", "steps", "key_points", "export_points", "private_jet_note")
 GLANCE_KEYS = ("microchip", "rabies_vaccine", "titer", "permit", "health_certificate", "quarantine", "parasites")
 
@@ -134,6 +135,33 @@ def main():
                 countries[cc].update(editorial_fields(entry))
                 edited.append(cc)
 
+    # research/translations/<lang>.json: client-facing texts per language. A translation is only used while
+    # the English it was made from (state/translate_source.json) is unchanged; otherwise English is shown.
+    snapshot_path = ROOT / "state" / "translate_source.json"
+    snapshot = json.loads(snapshot_path.read_text(encoding="utf-8")) if snapshot_path.exists() else {}
+    stale, translated = set(), {}
+    for path in sorted((RESEARCH / "translations").glob("*.json")):
+        lang = path.stem
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            problems.append(f"translations/{path.name}: invalid JSON ({exc})")
+            continue
+        for cc, block in data.items():
+            item = countries.get(cc)
+            if not item or not isinstance(block, dict):
+                continue
+            current = {k: item[k] for k in LOCALIZED_KEYS if item.get(k)}
+            if snapshot.get(cc) != current:
+                stale.add(cc)
+                continue
+            localized = editorial_fields(block)
+            if isinstance(block.get("summary"), str) and block["summary"].strip():
+                localized["summary"] = block["summary"].strip()
+            if localized:
+                item.setdefault("i18n", {})[lang] = localized
+                translated[lang] = translated.get(lang, 0) + 1
+
     for item in countries.values():
         item.pop("region_file", None)
 
@@ -157,6 +185,9 @@ def main():
     print(f"Low confidence ({len(low)}): {' '.join(low)}")
     print(f"Countries with airports but no entry ({len(missing)}): {' '.join(missing)}")
     print(f"Editorial rewrites: {len(set(edited))}")
+    print("Translations: " + (", ".join(f"{k}={v}" for k, v in sorted(translated.items())) or "none"))
+    if stale:
+        print(f"Translations out of date (English shown until re-translated) ({len(stale)}): {' '.join(sorted(stale))}")
     if overrides:
         print(f"Updated by research/updates ({len(overrides)}): {' '.join(overrides)}")
     if problems:
