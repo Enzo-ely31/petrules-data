@@ -38,6 +38,8 @@ def lead_days(entry):
     return value if isinstance(value, int) and 0 < value <= 400 else None
 
 
+DETAIL_KEYS = ("microchip", "vaccinations", "rabies_titer", "parasite_treatment", "documents", "import_permit",
+               "quarantine", "timeline", "restricted_breeds", "private_aviation", "export", "authority")
 LOCALIZED_KEYS = ("summary", "at_a_glance", "steps", "key_points", "export_points", "private_jet_note")
 EDITORIAL_KEYS = ("at_a_glance", "steps", "key_points", "export_points", "private_jet_note")
 GLANCE_KEYS = ("microchip", "rabies_vaccine", "titer", "permit", "health_certificate", "quarantine", "parasites")
@@ -96,6 +98,8 @@ def clean(entry, source):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--generated", default=datetime.date.today().isoformat())
+    parser.add_argument("--strict-translations", action="store_true",
+                        help="fail when any entry is missing an up-to-date translation (use before publishing)")
     args = parser.parse_args()
 
     countries, problems, overrides = {}, [], []
@@ -162,6 +166,33 @@ def main():
                 item.setdefault("i18n", {})[lang] = localized
                 translated[lang] = translated.get(lang, 0) + 1
 
+    # research/translations/details/<lang>.json: the full official fields, same staleness rule
+    # (baseline: state/translate_details_source.json).
+    details_snapshot_path = ROOT / "state" / "translate_details_source.json"
+    details_snapshot = json.loads(details_snapshot_path.read_text(encoding="utf-8")) if details_snapshot_path.exists() else {}
+    details_translated, details_stale = {}, set()
+    for path in sorted((RESEARCH / "translations" / "details").glob("*.json")):
+        lang = path.stem
+        data = json.loads(path.read_text(encoding="utf-8"))
+        for cc, block in data.items():
+            item = countries.get(cc)
+            if not item or not isinstance(block, dict):
+                continue
+            current = {k: item[k] for k in DETAIL_KEYS if item.get(k)}
+            if details_snapshot.get(cc) != current:
+                details_stale.add(cc)
+                continue
+            clean_block = {}
+            for k in DETAIL_KEYS:
+                v = block.get(k)
+                if isinstance(v, str) and v.strip():
+                    clean_block[k] = v.strip()
+                elif isinstance(v, list) and all(isinstance(x, str) for x in v) and v:
+                    clean_block[k] = [x.strip() for x in v if x.strip()]
+            if clean_block:
+                item.setdefault("i18n", {}).setdefault(lang, {}).update(clean_block)
+                details_translated[lang] = details_translated.get(lang, 0) + 1
+
     for item in countries.values():
         item.pop("region_file", None)
 
@@ -186,10 +217,29 @@ def main():
     print(f"Countries with airports but no entry ({len(missing)}): {' '.join(missing)}")
     print(f"Editorial rewrites: {len(set(edited))}")
     print("Translations: " + (", ".join(f"{k}={v}" for k, v in sorted(translated.items())) or "none"))
+    print("Detail translations: " + (", ".join(f"{k}={v}" for k, v in sorted(details_translated.items())) or "none"))
+    if details_stale:
+        print(f"Detail translations out of date ({len(details_stale)}): {' '.join(sorted(details_stale))}")
     if stale:
         print(f"Translations out of date (English shown until re-translated) ({len(stale)}): {' '.join(sorted(stale))}")
     if overrides:
         print(f"Updated by research/updates ({len(overrides)}): {' '.join(overrides)}")
+    if args.strict_translations:
+        langs = sorted({p.stem for p in (RESEARCH / "translations").glob("*.json")})
+        missing = []
+        for cc, c in countries.items():
+            needs_short = any(c.get(k) for k in LOCALIZED_KEYS) and (c["status"] != "unknown" or c.get("export_points"))
+            needs_details = any(c.get(k) for k in DETAIL_KEYS) and (c["status"] != "unknown" or c.get("export"))
+            for lang in langs:
+                block = (c.get("i18n") or {}).get(lang) or {}
+                if needs_short and not any(k in block for k in LOCALIZED_KEYS):
+                    missing.append(f"{lang}:{cc}")
+                elif needs_details and not any(k in block for k in DETAIL_KEYS):
+                    missing.append(f"{lang}:{cc}(details)")
+        if missing:
+            print(f"STRICT: {len(missing)} missing translations, not publishable: {' '.join(missing[:30])}")
+            return 2
+        print("STRICT: every entry is translated in " + ", ".join(langs))
     if problems:
         print("Problems:")
         for p in problems:
