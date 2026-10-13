@@ -1,6 +1,6 @@
 {
  "AD": {
-  "summary": "Andorra is an EU Annex I listed territory (pets from it enter the EU without titer test or point-of-entry check). No dedicated official import page was found; in practice pets arrive via Spain or France, so that country's EU entry rules apply (microchip, rabies vaccination, EU pet passport or EU health certificate; titer test from unlisted countries).",
+  "summary": "Andorra is an EU Annex I listed territory (pets from it enter the EU without a titer test or point-of-entry check). Andorra has no airport, so pets arrive via Spain or France and that country's EU entry rules apply (microchip, rabies vaccination, EU pet passport or EU health certificate; titer test from unlisted countries).",
   "at_a_glance": {
    "microchip": "ISO, before rabies shot",
    "rabies_vaccine": "Valid 21 days after primary shot",
@@ -32,8 +32,7 @@
    "Unlisted origins need a titer test and 4+ months of lead time"
   ],
   "export_points": [
-   "The EU treats Andorra as listed: pet passport or certificate, no titer, no point-of-entry check",
-   "Local export procedure not verified"
+   "The EU treats Andorra as listed: pet passport or certificate, no titer, no point-of-entry check"
   ]
  },
  "AE": {
@@ -42,7 +41,7 @@
    "microchip": "Required, must match certificate",
    "rabies_vaccine": "First dose at 12+ weeks",
    "titer": "Required unless MOCCAE low-risk origin",
-   "permit": "MOCCAE permit · plan within 30 days",
+   "permit": "MOCCAE permit, use within 30 days",
    "health_certificate": "Issued ≤10 days before (USDA)",
    "quarantine": "None if compliant",
    "parasites": "Internal + external ≤14 days before"
@@ -81,7 +80,7 @@
   ],
   "export_points": [
    "MOCCAE export health certificate after a physical inspection; valid 30 days, about 1 working day",
-   "Fee AED 100 for 2 pets or fewer; plan to present the pet about 48 hours before departure",
+   "Fee AED 100 for 2 pets or fewer",
    "Residents: get the MOCCAE certificate on departure and keep rabies valid until return"
   ],
   "private_jet_note": "Pets must be listed as manifested cargo and cleared by MOCCAE at an approved airport centre (e.g. DWC, Dubai Cargo Village). Confirm with MOCCAE and the FBO before each flight."
@@ -305,8 +304,7 @@
   "key_points": [
    "Imports banned except from Hawaii, NZ or Australia, or US mainland/Guam via Hawaii quarantine",
    "EU and other origins are not on the allowed list",
-   "Non-compliant pets are returned at the owner's cost or destroyed",
-   "Pit bull types reportedly banned (unconfirmed): check with the DOA"
+   "Non-compliant pets are returned at the owner's cost or destroyed"
   ],
   "export_points": [
    "To New Zealand: Category 2 (rabies-free); the crate needs a vet seal on departure day"
@@ -314,19 +312,20 @@
   "private_jet_note": "No direct private flight with a pet from the US mainland or Europe: US pets must quarantine in Hawaii first. Get the DOA's conditions in writing before planning."
  },
  "AT": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days after primary shot",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
-   "health_certificate": "EU certificate ≤10 days (non-EU)",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Microchip, then rabies vaccine (pet 12 weeks or older)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
     "when": "21 days after vaccine",
@@ -334,28 +333,29 @@
    },
    {
     "when": "≤10 days before",
-    "what": "Non-EU: endorsed EU health certificate; from EU: EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry a signed non-commercial owner declaration (non-EU origins)"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "Non-EU arrivals: document and identity check at a point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per movement; the owner must travel within 5 days of the pet",
-   "Young unvaccinated pets are not accepted",
    "Some Länder (e.g. Vienna) have listed-dog rules: licence, muzzle, leash",
-   "Old-model certificates accepted only if issued before 1 Oct 2026"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "Within the EU: EU pet passport; dogs to FI, IE, MT, NO or N. Ireland need tapeworm treatment",
-   "Outside the EU: meet destination rules; certificates endorsed by the official vet service"
+   "To EU/EEA countries: EU pet passport from an authorised vet",
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
-  "private_jet_note": "From outside the EU, land at a pet point of entry (Vienna, Linz, Klagenfurt, Salzburg, Graz, Innsbruck) for vet checks. Confirm the check with the FBO."
+  "private_jet_note": "From outside the EU, land at a listed point of entry (Vienna, Linz, Klagenfurt, Salzburg, Graz or Innsbruck) for the pet check. Arrange the check with the FBO."
  },
  "AU": {
   "summary": "Group 1 (New Zealand, Norfolk Island, Cocos (Keeling) Islands): no quarantine. Group 2 (rabies-free) and Group 3 (approved, rabies absent or well controlled) countries need a DAFF import permit (BICON) and Post Entry Quarantine at Mickleham, arriving into Melbourne. Pets from non-approved countries must first live in an approved country.",
@@ -375,7 +375,7 @@
    },
    {
     "when": "6+ months before",
-    "what": "Apply for the DAFF import permit (20–40+ business days)"
+    "what": "Apply for the DAFF import permit via BICON"
    },
    {
     "when": "After permit",
@@ -510,19 +510,20 @@
   "private_jet_note": "Even cabin pets are treated as cargo and handed to agents for vet and customs clearance via a broker. Give 3 working days' notice and aim for office hours."
  },
  "BE": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days after primary shot",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
-   "health_certificate": "EU certificate ≤10 days (non-EU)",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Microchip, then rabies vaccine (pet 12 weeks or older)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
     "when": "21 days after vaccine",
@@ -530,35 +531,34 @@
    },
    {
     "when": "≤10 days before",
-    "what": "Non-EU: endorsed EU health certificate; from EU: EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry a signed non-commercial owner declaration (non-EU origins)"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "Non-EU arrivals: document and identity check at a point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per movement; the owner must travel within 5 days of the pet",
-   "Young unvaccinated pets are not accepted",
-   "No national breed ban found; local dangerous-dog rules may apply to bull or molosser types",
-   "Old-model certificates accepted only if issued before 1 Oct 2026"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "Within the EU: EU pet passport; dogs to FI, IE, MT, NO or N. Ireland need tapeworm treatment",
-   "Outside the EU: meet destination rules; certificates endorsed by the official vet service"
+   "To EU/EEA countries: EU pet passport from an authorised vet",
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
-  "private_jet_note": "From outside the EU, land at an FASFC-listed point of entry for pet checks. Confirm the arrival airport is on the list and arrange the check with the FBO."
+  "private_jet_note": "From outside the EU, land only at an airport on the FASFC point-of-entry list. Confirm the arrival airport with the FASFC before routing."
  },
  "BF": {
   "summary": "For US-origin pets (APHIS): USDA-accredited vet issues the bilingual APHIS 'Veterinary Health Certificate for Export of Dogs and Cats to Burkina Faso' (valid 30 days) certifying health and rabies vaccination; USDA original ink endorsement required. French MFA travel advice (updated 15 Sep 2026): dogs and cats need a microchip, an individual passport and an international vaccination booklet, and there is no quarantine in Burkina Faso.",
   "at_a_glance": {
    "microchip": "Required",
    "rabies_vaccine": "Current vaccination required",
-   "permit": "Unconfirmed: check locally",
    "health_certificate": "APHIS form · valid 30 days",
    "quarantine": "None"
   },
@@ -585,19 +585,20 @@
   ]
  },
  "BG": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days after primary shot",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
-   "health_certificate": "EU certificate ≤10 days (non-EU)",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Microchip, then rabies vaccine (pet 12 weeks or older)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
     "when": "21 days after vaccine",
@@ -605,28 +606,28 @@
    },
    {
     "when": "≤10 days before",
-    "what": "Non-EU: endorsed EU health certificate; from EU: EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry a signed non-commercial owner declaration (non-EU origins)"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "Non-EU arrivals: document and identity check at a point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per movement; the owner must travel within 5 days of the pet",
-   "Young unvaccinated pets allowed from EU states with an owner declaration; never from non-EU",
-   "No national breed ban found; local dangerous-dog rules may apply",
-   "Old-model certificates accepted only if issued before 1 Oct 2026"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "Within the EU: EU pet passport; dogs to FI, IE, MT, NO or N. Ireland need tapeworm treatment",
-   "Outside the EU: meet destination rules; certificates endorsed by the official vet service"
+   "To EU/EEA countries: EU pet passport from an authorised vet",
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
-  "private_jet_note": "From outside the EU, land at a pet point of entry (Sofia, Varna, Burgas or Plovdiv) for vet checks. Confirm the check with the FBO."
+  "private_jet_note": "From outside the EU, land at a pet point of entry (Sofia, Varna, Burgas or Plovdiv) for the checks. Arrange the check with the FBO."
  },
  "BH": {
   "summary": "A Bahrain Veterinary Quarantine import permit (Ministry of Municipalities Affairs and Agriculture) is required. The official USDA–Bahrain certificate requires a microchip, rabies vaccination, a rabies titre of at least 0.5 IU/ml, core vaccines, and a pet aged at least 3 months.",
@@ -657,9 +658,9 @@
   ],
   "key_points": [
    "Pet must be at least 3 months old",
-   "Rules for origins other than the US are not confirmed"
+   "From origins other than the US, confirm the conditions with Bahrain Veterinary Quarantine"
   ],
-  "private_jet_note": "It is unconfirmed whether pets may stay in the cabin or must arrive as manifested cargo. Confirm with Bahrain veterinary quarantine and the FBO before the flight."
+  "private_jet_note": "Confirm with Bahrain veterinary quarantine and the FBO before the flight how the pet will be cleared on arrival."
  },
  "BI": {
   "summary": "Under Burundi's 2009 animal health police law, imported dogs and cats need a health certificate from an official vet in the country of origin, plus an international rabies vaccination certificate dated more than 15 and less than 180 days before import. A mandatory veterinary inspection on arrival happens in daytime only, at designated control posts, and inspection services must be notified at least 24 hours before arrival. Animals arriving without the certificate face a 15-day quarantine at the owner's expense.",
@@ -693,10 +694,9 @@
   "private_jet_note": "Inspection is daytime only at official entry posts with 24 hours' notice. Plan a daytime arrival at Bujumbura and pre-notify the veterinary services."
  },
  "BJ": {
-  "summary": "Rabies vaccination is mandatory for dogs and cats entering Benin. The vaccination record must show it was given more than one month and less than one year before entry (French Ministry of Foreign Affairs travel advice, updated 15 Sep 2026). Benin publishes no official rules on an import permit or the health certificate format: confirm with the Direction de l'Élevage.",
+  "summary": "Rabies vaccination is mandatory for dogs and cats entering Benin. The vaccination record must show it was given more than one month and less than one year before entry (French Ministry of Foreign Affairs travel advice, updated 15 Sep 2026). Confirm the import permit and health certificate requirements with the Direction de l'Élevage before travel.",
   "at_a_glance": {
    "rabies_vaccine": "1–12 months before entry",
-   "permit": "Unconfirmed: ask Direction de l'Élevage",
    "health_certificate": "Vet certificate, endorsed"
   },
   "steps": [
@@ -820,26 +820,26 @@
    "EU pet passports are accepted in place of the certificate"
   ],
   "export_points": [
-   "No reliable official export procedure found: check with SENASAG"
+   "Confirm the export procedure with SENASAG"
   ]
  },
  "BQ": {
-  "summary": "Under the Besluit invoer kleine dieren BES (Stb. 2010, 570), dogs and cats need a valid health certificate and valid proof of rabies vaccination. Dogs and cats coming from mainland South or Central America (except Suriname) are banned, unless they belong to someone settling on the islands who has owned them for 4+ months. Bonaire's veterinary service publishes no detailed timings, so confirm them.",
+  "summary": "Under the Besluit invoer kleine dieren BES (Stb. 2010, 570), dogs and cats need a valid health certificate and valid proof of rabies vaccination. Dogs and cats coming from mainland South or Central America (except Suriname) are banned, unless they belong to someone settling on the islands who has owned them for 4+ months. Confirm certificate timing with the Bonaire veterinary service before travel.",
   "at_a_glance": {
    "rabies_vaccine": "Valid proof required",
    "titer": "Not required",
    "permit": "Not required for your own pet",
-   "health_certificate": "Required (~10 days, unconfirmed)",
+   "health_certificate": "Required (confirm timing)",
    "quarantine": "None if compliant"
   },
   "steps": [
    {
-    "when": "2+ weeks before",
+    "when": "Before travel",
     "what": "Check the rabies vaccination is valid"
    },
    {
-    "when": "≤10 days before",
-    "what": "Official health certificate, endorsed (APHIS 7001 from the US)"
+    "when": "Shortly before",
+    "what": "Health certificate; confirm timing with the Bonaire veterinary service"
    },
    {
     "when": "On arrival",
@@ -847,8 +847,7 @@
    }
   ],
   "key_points": [
-   "Pets from mainland South/Central America (not Suriname) banned unless owner settles, 4+ months owned",
-   "ISO microchip before rabies is cited by secondary sources: confirm with Bonaire"
+   "Pets from mainland South/Central America (not Suriname) banned unless owner settles, 4+ months owned"
   ],
   "private_jet_note": "Pets from mainland South/Central America (e.g. via Colombia, Venezuela, Panama) are banned; the operator pays re-shipment and quarantine. Declare the pet at BON."
  },
@@ -924,16 +923,12 @@
   "key_points": [
    "Dogs must be 6 months or older",
    "Banned incl. crosses: Pit Bull, Presa Canario, Cane Corso, American Bully, Dogo Argentino, Staffordshire",
-   "Rabies: 1-year vaccine ≤10 months old, 3-year vaccine ≤34 months old",
-   "Requirements for EU origins were not verified"
+   "Rabies: 1-year vaccine ≤10 months old, 3-year vaccine ≤34 months old"
   ]
  },
  "BT": {
-  "summary": "Pet imports need a permit from the Bhutan Food and Drug Authority (BFDA) after document verification. Personal pets then do 15 days of quarantine at the owner's home under official monitoring. Detailed health requirements are not published in an official English checklist, so confirm with BFDA.",
+  "summary": "Pet imports need a permit from the Bhutan Food and Drug Authority (BFDA) after document verification. Personal pets then do 15 days of quarantine at the owner's home under official monitoring. Confirm the health requirements with BFDA before travel.",
   "at_a_glance": {
-   "microchip": "Advised (unconfirmed)",
-   "rabies_vaccine": "Advised ≥3 weeks before (confirm)",
-   "titer": "Advised (confirm if mandatory)",
    "permit": "BFDA permit required",
    "quarantine": "15 days at home, monitored"
   },
@@ -953,7 +948,7 @@
   ],
   "key_points": [
    "Paro (PBH) is the only international airport",
-   "No official English checklist: confirm all health requirements with BFDA"
+   "Confirm all health requirements with BFDA before travel"
   ]
  },
  "BW": {
@@ -1196,7 +1191,7 @@
   ]
  },
  "CK": {
-  "summary": "The Ministry of Agriculture publishes dog and cat import conditions only for New Zealand and Australia. Pets need a Biosecurity permit, an official government vet certificate, and must arrive by air as manifested cargo. Dogs also need a Police permit and must be desexed. No route was found for pets from other countries.",
+  "summary": "The Ministry of Agriculture publishes dog and cat import conditions only for New Zealand and Australia. Pets need a Biosecurity permit, an official government vet certificate, and must arrive by air as manifested cargo. Dogs also need a Police permit and must be desexed. No conditions are published for pets from other countries; confirm with Biosecurity before travel.",
   "at_a_glance": {
    "permit": "Biosecurity permit; Police for dogs",
    "health_certificate": "Government vet certificate",
@@ -1204,7 +1199,7 @@
    "parasites": "Dogs: treatments ≤3 days before"
   },
   "key_points": [
-   "Conditions exist only for NZ and Australia: no route found from the US or EU",
+   "Conditions are published only for NZ and Australia; for the US or EU, confirm with Biosecurity",
    "Dogs must be desexed and registered with the Police",
    "Banned dogs: Doberman, Pit Bull Terrier, Bull Dogs, Rottweiler",
    "Pets must be at least 4 months old with 6 months' residence in the origin country"
@@ -1257,7 +1252,6 @@
   "at_a_glance": {
    "microchip": "Required (US route)",
    "rabies_vaccine": "Current at export (US)",
-   "permit": "Unclear: confirm with MINEPIA",
    "health_certificate": "US: valid 30 days, ink-endorsed"
   },
   "steps": [
@@ -1477,164 +1471,185 @@
   ]
  },
  "CY": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before arrival",
-   "quarantine": "None if compliant"
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant",
+   "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the US: EU health certificate, endorsed by USDA APHIS"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry EU pet passport (from EU) and signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: present pet at customs red channel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per trip; each must travel within 5 days of the owner",
-   "From unlisted countries: titer test plus 3-month wait (plan 4+ months)",
-   "Unvaccinated young pets (under ~15 weeks) not accepted",
-   "No national breed ban found, but Cyprus breed rules are unverified: check bull/molosser types"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU countries: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; official vet service endorses certificates"
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, the pet must enter via Larnaka or Pafos airport for document checks. Route the first landing accordingly."
  },
  "CZ": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before arrival",
-   "quarantine": "None if compliant"
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant",
+   "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the US: EU health certificate, endorsed by USDA APHIS"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry EU pet passport (from EU) and signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: present pet at customs red channel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per trip; each must travel within 5 days of the owner",
-   "From unlisted countries: titer test plus 3-month wait (plan 4+ months)",
-   "Young pets from EU states allowed with owner's declaration; never from non-EU"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU countries: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; official vet service endorses certificates"
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
-  "private_jet_note": "From outside the EU, land at a point of entry listed by SVS for pet checks. Confirm the arrival airport with SVS before routing."
+  "private_jet_note": "From outside the EU, land only at a point of entry on the SVS list. Confirm the arrival airport with SVS before routing."
  },
  "DE": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry. Import ban on four bull-terrier-type breeds except for stays up to 4 weeks.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry. Import ban on four bull-terrier-type breeds except for stays up to 4 weeks.",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before arrival",
-   "quarantine": "None if compliant"
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant",
+   "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the US: EU health certificate, endorsed by USDA APHIS"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry EU pet passport (from EU) and signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: present pet at customs red channel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
    "Pit Bull, AmStaff, Staffordshire Bull and Bull Terriers banned, except visits up to 4 weeks",
-   "Max 5 pets per trip; each must travel within 5 days of the owner",
-   "Titer + 3-month wait from e.g. Türkiye, Morocco, Israel, Thailand, South Africa",
-   "Unvaccinated young pets (under ~15 weeks) not accepted"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU countries: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; official vet service endorses certificates"
-  ]
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
+  ],
+  "private_jet_note": "From outside the EU, land only at an authorised entry point on the BMLEH list. Confirm with the airport customs office before routing that a business-aviation arrival can be checked."
  },
  "DK": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry. Denmark bans 13 dog breeds (and crosses), including for visitors.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry. Denmark bans 13 dog breeds (and crosses), including for visitors.",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before arrival",
-   "quarantine": "None if compliant"
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant",
+   "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the US: EU health certificate, endorsed by USDA APHIS"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry EU pet passport (from EU) and signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: present pet at customs red channel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
    "13 breeds banned, tourists included (e.g. Pit Bull, Tosa, Dogo Argentino, Kangal, Boerboel)",
    "Banned breeds may transit only if they stay in the vehicle",
-   "Max 5 pets per trip; each must travel within 5 days of the owner",
-   "Unvaccinated young pets (under ~15 weeks) not accepted"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU countries: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; official vet service endorses certificates"
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, pets may enter only via Copenhagen, Billund or Aalborg. Any other Danish airport is not permitted."
  },
@@ -1777,47 +1792,52 @@
   "private_jet_note": "Notify the Agrocalidad office at Quito or Guayaquil airport at least 72 h before arrival. Confirm whether a private flight needs the cargo import permit."
  },
  "EE": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before arrival",
-   "quarantine": "None if compliant"
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant",
+   "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the US: EU health certificate, endorsed by USDA APHIS"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry EU pet passport (from EU) and signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: present pet at customs red channel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per trip; each must travel within 5 days of the owner",
-   "From unlisted countries: titer test plus 3-month wait (plan 4+ months)",
-   "Young pets from EU states allowed with owner's declaration; never from non-EU"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU countries: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; official vet service endorses certificates"
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, land at a listed point of entry: Tallinn, Tartu, Pärnu, Kuressaare, Kärdla or Ämari. Customs checks the pet on arrival."
  },
  "EG": {
-  "summary": "A health certificate from the origin country (valid 14 days) and a rabies vaccination given at least 30 days before entry and less than 12 months old are required. Pets are examined on arrival by the Egyptian Ministry of Agriculture.",
+  "summary": "A health certificate from the origin country (valid 14 days) and a rabies vaccination given at least 30 days and no more than 11 months before arrival are required (the pet must arrive at least 30 days before the vaccination's 12-month anniversary). Pets are examined on arrival by the Egyptian Ministry of Agriculture.",
   "at_a_glance": {
    "microchip": "Not required",
    "rabies_vaccine": "≥30 days before entry, ≤11 months old",
@@ -1847,38 +1867,42 @@
   ]
  },
  "ES": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before arrival",
-   "quarantine": "None if compliant"
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant",
+   "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the US: EU health certificate, endorsed by USDA APHIS"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry EU pet passport (from EU) and signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: present pet at customs red channel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per trip; each must travel within 5 days of the owner",
-   "Titer + 3-month wait from e.g. Türkiye, Morocco, Israel, Thailand, South Africa",
-   "Unvaccinated young pets (under ~15 weeks) not accepted",
-   "Breed rules not verified; Spain licenses 'potentially dangerous' dogs for residents"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
    "To EU countries: EU pet passport",
@@ -1924,47 +1948,51 @@
   ]
  },
  "FI": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry. Dogs also need tapeworm treatment 24-120 h before entry. Requirements apply even for short visits (e.g. from Sweden or Estonia).",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry. Dogs also need tapeworm treatment 24–120 h before entry. Requirements apply even for short visits (e.g. from Sweden or Estonia).",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before arrival",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
-   "parasites": "Dogs: tapeworm 1–5 days before"
+   "parasites": "Dogs: tapeworm 24–120 h before"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the US: EU health certificate, endorsed by USDA APHIS"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
-    "when": "1–5 days before",
-    "what": "Vet gives dogs tapeworm treatment, recorded in passport/certificate"
+    "when": "24–120 h before",
+    "what": "Dogs: tapeworm treatment by a vet, recorded in the passport or certificate"
    },
    {
     "when": "Day of travel",
-    "what": "Carry EU pet passport (from EU) and signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: present pet at customs red channel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per trip; each must travel within 5 days of the owner",
-   "From unlisted countries: titer test plus 3-month wait (plan 4+ months)",
-   "Young pets from EU states allowed with owner's declaration; never from non-EU"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU countries: EU pet passport from an authorised vet",
-   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; official vet service endorses certificates"
+   "To EU/EEA countries: EU pet passport from an authorised vet",
+   "Dogs going to Ireland, Malta, Norway or N. Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, Helsinki-Vantaa is the only airport point of entry for pets. Route the first landing there."
  },
@@ -2034,16 +2062,16 @@
    "Confirm with the Department of Agriculture how private arrivals are handled"
   ],
   "export_points": [
-   "No published export procedure: contact the Department of Agriculture Veterinary Service"
+   "Contact the Department of Agriculture Veterinary Service for export certification"
   ]
  },
  "FO": {
-  "summary": "Visitors cannot bring dogs or cats: under Faroese Executive Order 82/2021 §6, only people with permanent residence in the Faroes or people moving there may import dogs and cats. Pets may not transit the Faroes, and pets carried on an aircraft or ship from abroad may not be landed (except in approved units of authorised carriers). Residents and movers need an HFS import permit (apply at least 6 business days before departure), microchip, full vaccinations at least 4 weeks old, parasite treatments and a health certificate no older than 2 days. A rabies titer and a 12-week wait apply from group B countries. From other countries (e.g. USA), the Chief Veterinary Officer sets conditions case by case.",
+  "summary": "Visitors cannot bring dogs or cats to the Faroe Islands. Only people with permanent residence in the Faroes, or people moving there, may import dogs and cats (Executive Order 82/2021 §6), with an HFS import permit (apply at least 6 business days before departure), microchip, full vaccinations at least 4 weeks old, parasite treatments and a health certificate no older than 2 days; from group B countries (most other EU states) also a rabies titer and a 12-week wait. Pets may not transit the Faroes, and pets carried on an aircraft or ship from abroad may not be landed (except in approved units of authorised carriers).",
   "at_a_glance": {
    "microchip": "ISO chip, on permit and certificate",
    "rabies_vaccine": "≥4 weeks before arrival",
    "titer": "Required from most EU; US case by case",
-   "permit": "Residents only · apply ≥6 business days",
+   "permit": "Residents/movers only: HFS permit",
    "health_certificate": "HFS form, ≤2 days before departure",
    "parasites": "Full panel incl. tapeworm, ticks, fleas",
    "quarantine": "None if compliant"
@@ -2071,7 +2099,7 @@
    }
   ],
   "key_points": [
-   "Visitors cannot bring dogs or cats: only residents or people moving to the Faroes",
+   "Visitors cannot bring dogs or cats; residents and people moving to the Faroes can, with an HFS import permit",
    "Group B EU countries need a titer test and 12 weeks' wait; US conditions set case by case",
    "Dangerous breeds and all hybrids (wolfdogs, Bengal, Savannah cats) are banned",
    "Transit with a pet through the Faroes is prohibited"
@@ -2083,44 +2111,51 @@
   "private_jet_note": "Pets arriving by aircraft must stay on board unless carried by an HFS-authorised carrier holding the valid permit. Confirm carrier authorisation before flying."
  },
  "FR": {
-  "summary": "EU rules (Reg. (EU) 2026/131, documents Reg. 2026/705, listed countries Reg. 2026/636): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test with 3-month wait if the country is unlisted), presented to French Customs on arrival. Category 1 attack dogs are banned outright, even in transit. Imported dogs must have at least one adult tooth.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry. Pets from outside the EU are presented to French Customs on arrival. Category 1 attack dogs are banned outright, even in transit. Imported dogs must have at least one adult tooth.",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before arrival",
-   "quarantine": "None if compliant"
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant",
+   "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the US: EU health certificate, endorsed by USDA APHIS"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry EU pet passport (from EU) and signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: present pet at customs red channel"
+    "what": "From outside the EU: present the pet to French Customs (red channel)"
    }
   ],
   "key_points": [
    "Category 1 dogs (non-pedigree pit-bull, boerbull, Tosa types) banned, even in transit",
    "Rottweilers and pedigree Staffs/Tosa need pedigree proof; leash and muzzle rules apply",
    "Dogs under 16 weeks are not admitted",
-   "Bengal or Savannah cats without pedigree proof need a DREAL import permit"
+   "Bengal or Savannah cats without pedigree proof need a DREAL import permit",
+   "Max 5 pets per movement; each travels with the owner or within 5 days"
   ],
   "export_points": [
-   "To EU countries: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; official vet service endorses certificates"
-  ]
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
+  ],
+  "private_jet_note": "Pets from outside the EU are checked by French Customs at the arrival airport (e.g. Le Bourget or Nice); ask the FBO to pre-notify the customs post."
  },
  "GB": {
   "summary": "Great Britain: microchip, rabies vaccination (21-day wait), correct document (EU pet passport, GB AHC or GB pet health certificate), tapeworm treatment for dogs, entry only via an approved route/carrier (no route needed from Ireland/within UK); unlisted countries also need a titer test and 3-month wait. Northern Ireland follows EU rules (see notes).",
@@ -2166,7 +2201,7 @@
    "Then valid 6 months for onward EU travel and return to GB",
    "GB residents cannot use GB-issued EU pet passports to enter the EU"
   ],
-  "private_jet_note": "Pets may fly in the cabin only with a charter operator approved for the specific GB arrival airport. Northolt, Doncaster and Prestwick are not listed; verify on gov.uk."
+  "private_jet_note": "Pets may fly in the cabin only with a charter operator approved for the specific GB arrival airport. Northolt, Doncaster and Prestwick are not listed; check the gov.uk list before each flight."
  },
  "GD": {
   "summary": "Dogs and cats from the USA need an import permit from the Veterinary Officer, presented at the port of entry. They also need rabies vaccination within 12 months before arrival and a vet health certificate issued within 2 weeks before arrival. The Veterinary Officer must be told the port of entry and arrival time. Submit the permit form by fax with the health certificate at least 2 weeks before arrival.",
@@ -2233,40 +2268,48 @@
   ]
  },
  "GF": {
-  "summary": "French Guiana is an EU outermost region (France), so EU non-commercial pet rules (Delegated Reg. (EU) 2026/131) apply to arrivals from non-EU countries: ISO microchip, rabies vaccination, EU animal health certificate and, from countries not listed in Implementing Reg. (EU) 2026/636 (e.g. Brazil, Suriname, Guyana), a rabies titer test. USDA APHIS lists simpler rules — confirm with DAAF Guyane.",
+  "summary": "French Guiana is an EU outermost region of France, so EU pet rules under Delegated Regulation (EU) 2026/131 apply: from another EU state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate and documentary and identity checks at a travellers' point of entry, plus a rabies titer test with a 3-month wait from countries not listed in Implementing Regulation (EU) 2026/636 (e.g. Brazil, Suriname, Guyana).",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
-   "rabies_vaccine": "≥21 days before, at 12+ weeks",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US, AR, CL",
-   "health_certificate": "EU certificate ≤10 days before entry"
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "EU health certificate endorsed by the origin authority"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "Document and identity checks at the point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "From Brazil, Suriname or Guyana: titer test plus 90-day wait (plan 4+ months)",
-   "APHIS: max 3 pets per family from the US, only 1 under 6 months (EU rules say 5)",
-   "French dangerous-dog categories apply: check before travel"
+   "From Brazil, Suriname or Guyana: titer test plus 3-month wait (plan 4+ months)",
+   "APHIS: max 3 pets per family from the US, only 1 under 6 months",
+   "French dangerous-dog categories apply: check before travel",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
    "To mainland EU: intra-EU travel with an EU pet passport",
    "Other destinations: contact DAAF Guyane"
-  ]
+  ],
+  "private_jet_note": "From outside the EU, the pet needs an EU point-of-entry check: confirm with DAAF Guyane before routing that the arrival airport can carry it out for a private flight."
  },
  "GG": {
   "summary": "From the UK, Northern Ireland or the Crown Dependencies, pets travelling with their owners need no documents or vaccinations; pets from abroad must first have legally landed in the UK/Crown Dependencies. Directly from the EU, pets need a microchip, rabies vaccination (titer only if from an unlisted country), a pet passport or health certificate and tapeworm treatment for dogs. They must also be pre-notified at least 24 h ahead and arrive on an approved route/carrier. Listed restricted dog breeds need a specific licence.",
@@ -2418,7 +2461,7 @@
   "private_jet_note": "Dogs cannot land at Kangerlussuaq, Ilulissat or East Greenland airports. Use Nuuk or Narsarsuaq; the dog must stay in south-west Greenland."
  },
  "GM": {
-  "summary": "Only older UK official guidance found: obtain an import permit from the Department of Livestock Services (Abuko) and travel with an official health certificate showing microchip/tattoo ID and vaccinations including rabies. Verify current rules before booking.",
+  "summary": "UK official guidance: obtain an import permit from the Department of Livestock Services (Abuko) and travel with an official health certificate showing microchip/tattoo ID and vaccinations including rabies. Confirm the current rules with the Department of Livestock Services before booking.",
   "at_a_glance": {
    "permit": "Advised, from Livestock Services",
    "health_certificate": "Exam ≤72 h, valid 10 days",
@@ -2439,11 +2482,11 @@
    }
   ],
   "key_points": [
-   "Guidance covers dogs only (UK, 2006): no cat rules found"
+   "The UK guidance (2006) covers dogs only: confirm cat requirements with the Department of Livestock Services"
   ]
  },
  "GN": {
-  "summary": "For US-origin pets (APHIS): a USDA-endorsed bilingual health certificate (valid 30 days) certifying a clinical exam, no rabies exposure and rabies vaccination. No official import-permit information found; rules for other origins unknown.",
+  "summary": "For US-origin pets (APHIS): a USDA-endorsed bilingual health certificate (valid 30 days) certifying a clinical exam, no rabies exposure and rabies vaccination. Confirm import-permit requirements, and the rules for other origins, with Guinea's veterinary services before travel.",
   "at_a_glance": {
    "rabies_vaccine": "Required, no minimum interval",
    "permit": "Not mentioned; confirm",
@@ -2465,36 +2508,47 @@
   ]
  },
  "GP": {
-  "summary": "A French overseas department in the EU. APHIS says pets follow the requirements for France (EU rules): ISO microchip, rabies vaccination at least 21 days before entry, and an EU animal health certificate endorsed by APHIS. A titer test is needed only from non-EU-listed countries.",
+  "summary": "Guadeloupe is a French overseas department in the EU, so EU pet rules under Delegated Regulation (EU) 2026/131 apply, as for France: ISO microchip, rabies vaccination at least 21 days before entry, and an EU animal health certificate (endorsed by APHIS for US pets) checked at a travellers' point of entry. A titer test is needed only from countries that are not EU-listed.",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
-   "rabies_vaccine": "≥21 days before, at 12+ weeks",
-   "titer": "Not required from US/Canada",
-   "permit": "Not required; DAAF may ask",
-   "health_certificate": "EU certificate, entry ≤10 days"
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
+   "titer": "Not required from US/EU",
+   "permit": "Not required; ask DAAF about a declaration",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant"
   },
   "steps": [
    {
-    "when": "5+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine"
+    "when": "4+ weeks before",
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "EU health certificate, USDA ink-endorsed"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
-    "when": "Before departure",
-    "what": "Ask DAAF Guadeloupe whether a prior-import form is needed"
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
+   },
+   {
+    "when": "On arrival",
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
    "Max 5 pets; owner or authorised person within 5 days",
    "French category 1 attack-type dogs cannot be imported",
-   "From non-listed countries: titer test, add 3+ months"
-  ]
+   "From non-listed countries: titer test, add 3+ months",
+   "Ask DAAF Guadeloupe whether a prior-import declaration is needed"
+  ],
+  "private_jet_note": "From outside the EU, the pet needs an EU point-of-entry check: confirm with DAAF Guadeloupe before routing that the arrival airport can carry it out for a private flight."
  },
  "GQ": {
-  "summary": "Per the French Ministry of Foreign Affairs (updated 15 Sep 2026), pet owners must present the pet's international vaccination booklet from the country of origin on entry. Rabies vaccination is mandatory, with yearly boosters. Older UK guidance (1999) adds that dogs must be registered with the Veterinary Services on arrival. No official health-certificate or permit rules were found: confirm with the embassy.",
+  "summary": "Per the French Ministry of Foreign Affairs (updated 15 Sep 2026), pet owners must present the pet's international vaccination booklet from the country of origin on entry. Rabies vaccination is mandatory, with yearly boosters. Older UK guidance (1999) adds that dogs must be registered with the Veterinary Services on arrival. Confirm the health-certificate and permit requirements with the embassy before travel.",
   "at_a_glance": {
    "rabies_vaccine": "Annual; under 12 months old",
    "health_certificate": "Recommended, a few days before",
@@ -2519,42 +2573,47 @@
   ]
  },
  "GR": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before arrival",
-   "quarantine": "None if compliant"
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant",
+   "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the US: EU health certificate, endorsed by USDA APHIS"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry EU pet passport (from EU) and signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: present pet at customs red channel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per trip; each must travel within 5 days of the owner",
-   "Titer + 3-month wait from e.g. Türkiye, Morocco, Israel, Thailand, South Africa",
-   "Unvaccinated young pets (under ~15 weeks) not accepted"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU countries: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; official vet service endorses certificates"
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, Mykonos, Santorini and Zakynthos are not listed points of entry. Clear first at Athens or another listed airport, then fly on."
  },
@@ -2688,7 +2747,7 @@
    "Vaccine requirements are not published: they are set in the permit"
   ],
   "export_points": [
-   "No reliable official information: check with GLDA"
+   "Contact GLDA for export certification"
   ]
  },
  "HK": {
@@ -2770,44 +2829,49 @@
   ]
  },
  "HR": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
    "microchip": "ISO chip, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before arrival",
-   "quarantine": "None if compliant"
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant",
+   "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Implant ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the US: EU health certificate, endorsed by USDA APHIS"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry EU pet passport (from EU) and signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: present pet at customs red channel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per trip; each must travel within 5 days of the owner",
-   "From unlisted countries: titer test plus 3-month wait (plan 4+ months)",
-   "Young pets from EU states allowed with owner's declaration; never from non-EU"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU countries: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; official vet service endorses certificates"
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
-  "private_jet_note": "From outside the EU, land at a point of entry listed at veterinarstvo.hr for pet checks. Confirm the arrival airport before routing."
+  "private_jet_note": "From outside the EU, land only at a point of entry on the Ministry of Agriculture list (veterinarstvo.hr). Confirm the arrival airport before routing."
  },
  "HT": {
   "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
@@ -2818,59 +2882,58 @@
   ]
  },
  "HU": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry, age 12+ weeks",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU passport, or EU certificate ≤10 days",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
-    "when": "1+ month before",
-    "what": "Microchip the pet, then give the rabies vaccine (pet 12+ weeks old)"
+    "when": "4+ weeks before",
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
     "when": "21 days after vaccine",
-    "what": "Vaccine becomes valid; EU pets travel on their EU pet passport"
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
-    "when": "≤10 days before arrival",
-    "what": "From the US: EU animal health certificate, signed and government-endorsed"
+    "when": "≤10 days before",
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
-    "when": "Before departure",
-    "what": "Sign the owner's non-commercial declaration"
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: document and ID check at a pet point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets; each travels with the owner or an authorised person within 5 days",
-   "From unlisted countries: titer test, then a 3-month wait before the certificate",
-   "Young unvaccinated pets are not accepted"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
    "To EU/EEA countries: EU pet passport from an authorised vet",
-   "Dogs heading to FI, IE, MT, NO or Northern Ireland need tapeworm treatment",
-   "To non-EU countries: follow destination rules; certificate endorsed by the official vet service"
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, land at a pet point of entry: Budapest (24h), Debrecen or Sármellék (8:00–20:00). Non-compliance can mean refusal or isolation at your cost."
  },
  "ID": {
-  "summary": "The USDA certificate for Indonesia requires: a pet at least 3 months old, a killed rabies vaccine, a rabies antibody (FAVN) result of 0.5 IU/ml or more, 6 months' residence in the exporting country, no rabies in the area for the last 6 months, and a vet exam within 5 days of departure. Cats (not dogs) also need a negative SARS-CoV-2 PCR result before export. Barantin's import procedure, quarantine length and authorised entry points could not be confirmed officially. Bali has historically closed entry to dogs and cats (Governor Reg. 88/2008), so do not route pets to Bali without written confirmation.",
+  "summary": "The USDA certificate for Indonesia requires: a pet at least 3 months old, a killed rabies vaccine, a rabies antibody (FAVN) result of 0.5 IU/ml or more, 6 months' residence in the exporting country, no rabies in the area for the last 6 months, and a vet exam within 5 days of departure. Cats (not dogs) also need a negative SARS-CoV-2 PCR result before export. Confirm the import procedure, quarantine and entry airport with Barantin before travel. Bali has been closed to dogs and cats under Governor Regulation 88/2008, so do not route pets to Bali without written confirmation.",
   "at_a_glance": {
    "microchip": "Number on the USDA certificate",
    "rabies_vaccine": "Killed vaccine, pet 3+ months old",
    "titer": "FAVN ≥0.5 IU/ml required",
-   "permit": "Barantin permit · details unconfirmed",
-   "health_certificate": "USDA exam ≤5 days before departure",
-   "quarantine": "Unconfirmed · 7–14 days reported"
+   "permit": "Barantin permit (PTK Online)",
+   "health_certificate": "USDA exam ≤5 days before departure"
   },
   "steps": [
    {
@@ -2887,7 +2950,7 @@
    },
    {
     "when": "On arrival",
-    "what": "Barantin inspection; quarantine length not officially confirmed"
+    "what": "Barantin inspection"
    }
   ],
   "key_points": [
@@ -2895,46 +2958,55 @@
    "Cats need a negative SARS-CoV-2 PCR result before export",
    "Bali has historically been closed to dogs and cats: never route there without written confirmation"
   ],
-  "private_jet_note": "Unverified sources say pets must enter via designated airports such as Jakarta (CGK), not Bali (DPS). Get written Barantin confirmation before planning the route."
+  "private_jet_note": "Do not route pets to Bali (DPS): Bali has been closed to dogs and cats under Governor Regulation 88/2008. Confirm the entry airport with Barantin in writing."
  },
  "IE": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry. Dogs also need tapeworm treatment 24-120 h before entry. Non-EU arrivals (incl. from Great Britain) need advance notice and must use a TPOE (Dublin, Cork, Shannon airports).",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry. Dogs also need tapeworm treatment 24–120 h before entry. Non-EU arrivals (including from Great Britain) need advance notice and must use a travellers' point of entry (Dublin, Cork or Shannon airports).",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry, age 12+ weeks",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
-   "permit": "None · advance notice if non-EU",
-   "health_certificate": "EU passport, or EU certificate ≤10 days",
+   "permit": "None; advance notice if non-EU",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
-   "parasites": "Dogs: tapeworm 24–120 h before entry"
+   "parasites": "Dogs: tapeworm 24–120 h before"
   },
   "steps": [
    {
-    "when": "1+ month before",
-    "what": "Microchip the pet, then give the rabies vaccine (pet 12+ weeks old)"
+    "when": "4+ weeks before",
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
+   },
+   {
+    "when": "≤10 days before",
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Before travel",
-    "what": "Non-EU arrivals (incl. GB): file advance notice on the DAFM portal"
+    "what": "From outside the EU (incl. GB): complete the DAFM Advance Notice Portal"
    },
    {
-    "when": "≤10 days before arrival",
-    "what": "From the US: EU animal health certificate, signed and government-endorsed"
+    "when": "24–120 h before",
+    "what": "Dogs: tapeworm treatment by a vet, recorded in the passport or certificate"
    },
    {
-    "when": "24–120 h before arrival",
-    "what": "Dogs: vet gives tapeworm treatment and records it"
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "Non-EU arrivals: compliance check at Dublin, Cork or Shannon"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets; each travels with the owner or an authorised person within 5 days",
    "XL Bully types: import banned since 1 Oct 2024",
    "11 restricted breeds (e.g. Rottweiler, German Shepherd) must be muzzled and leashed in public",
-   "Young unvaccinated pets are not accepted"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
    "To the EU: EU pet passport; returning dogs need tapeworm treatment abroad 24–120 h before re-entry",
@@ -2983,7 +3055,8 @@
   ],
   "export_points": [
    "Israel is CDC high-risk and not EU-listed: prepare US rabies papers or the EU titer before leaving"
-  ]
+  ],
+  "private_jet_note": "Pets may enter only via Ben Gurion (TLV); Ramon and other airports are not approved ports. Email the Annex B arrival notice to vs-airport@moag.gov.il at least 2 working days before departure."
  },
  "IM": {
   "summary": "Free movement of most dogs/cats from Great Britain (no animal health requirements) and from Northern Ireland; pets from the EU cannot land directly by private plane or boat (except from Ireland with DEFA pre-notification) and generally come via GB with an approved transporter; direct import from non-EU countries is prohibited (must enter GB first).",
@@ -3066,10 +3139,11 @@
   "export_points": [
    "Apply to AQCS for the export health certificate/NOC (fee Rs 500)",
    "Keep the AQCS export certificate: it is needed to re-import the pet"
-  ]
+  ],
+  "private_jet_note": "Pets may arrive only at the six notified ports (Delhi, Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad), with an AQCS examination on arrival. Coordinate with AQCS and customs at that airport."
  },
  "IQ": {
-  "summary": "The USDA–Iraq certificate requires a health certificate from a licensed veterinarian (valid 30 days, no USDA endorsement needed) with rabies vaccination details. No Iraqi official source was found for other origins.",
+  "summary": "The USDA–Iraq certificate requires a health certificate from a licensed veterinarian (valid 30 days, no USDA endorsement needed) with rabies vaccination details. From other origins, confirm the conditions with the Iraqi veterinary authorities before travel.",
   "at_a_glance": {
    "microchip": "Recorded if present",
    "rabies_vaccine": "Required, recorded on certificate",
@@ -3077,8 +3151,8 @@
   },
   "key_points": [
    "US origin: licensed-vet certificate, no USDA endorsement needed",
-   "No official Iraqi rules found for other origins",
-   "Kurdistan Region (Erbil) arrivals may have separate, unverified procedures"
+   "From origins other than the US, confirm the conditions with the Iraqi veterinary authorities",
+   "For Erbil (Kurdistan Region) arrivals, confirm the procedure with the regional authorities"
   ]
  },
  "IR": {
@@ -3161,52 +3235,52 @@
   "private_jet_note": "Pets may only arrive at Keflavík, 06:00–17:00, on a quarantine admission date, in a hard IATA crate. Confirm a private arrival with MAST and the quarantine station."
  },
  "IT": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry, age 12+ weeks",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU passport, or EU certificate ≤10 days",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
-    "when": "1+ month before",
-    "what": "Microchip the pet, then give the rabies vaccine (pet 12+ weeks old)"
+    "when": "4+ weeks before",
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
     "when": "21 days after vaccine",
-    "what": "Vaccine becomes valid; EU pets travel on their EU pet passport"
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
-    "when": "≤10 days before arrival",
-    "what": "From the US: EU animal health certificate, endorsed by USDA APHIS"
+    "when": "≤10 days before",
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
-    "when": "Before departure",
-    "what": "Sign the owner's non-commercial declaration"
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: document and ID check at a pet point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets; each travels with the owner or an authorised person within 5 days",
-   "From Türkiye, Morocco, Israel, Saudi Arabia, Qatar, Thailand and others: titer + 3-month wait",
-   "Young unvaccinated pets are not accepted"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
    "To EU/EEA countries: EU pet passport from an authorised vet",
-   "Dogs heading to FI, IE, MT, NO or Northern Ireland need tapeworm treatment",
-   "To non-EU countries: follow destination rules; certificate endorsed by the official vet service"
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, land at one of about 40 designated airports (e.g. Rome, Milan, Venice, Naples, Olbia) for the pet check. Cabin carriage is up to the operator."
  },
  "JE": {
-  "summary": "From UK, Isle of Man or other Channel Islands: no official health requirements. From EU/listed countries: microchip, rabies vaccination (21 days), EU pet passport or recent AHC, dog tapeworm treatment, non-commercial declaration; unlisted countries add a titer test. Pets may only arrive with approved carriers/routes - NOT by private aircraft.",
+  "summary": "From UK, Isle of Man or other Channel Islands: no official health requirements. From EU/listed countries: microchip, rabies vaccination (21 days), EU pet passport or recent AHC, dog tapeworm treatment, non-commercial declaration; unlisted countries add a titer test. Pets may only arrive with approved carriers/routes – NOT by private aircraft.",
   "at_a_glance": {
    "microchip": "Before rabies shot",
    "rabies_vaccine": "≥21 days before travel, age 12+ weeks",
@@ -3295,16 +3369,12 @@
   "private_jet_note": "Pets must arrive at Kingston and normally clear as cargo at the freight terminal. Get Chief Veterinary Officer approval in advance for a private-jet or FBO arrival."
  },
  "JO": {
-  "summary": "Per advice from Jordan's Ministry of Agriculture relayed by Australia's export authority (27 Nov 2025), import permits for pet cats and dogs are no longer issued. Pets need a veterinary health certificate stating the animal is free of rabies and rabies-vaccinated, and each traveller may bring at most 2 pets of each species (cats/dogs). It is not explicit whether the end of permits means no permit is needed or that permit-based imports stopped, so confirm with the Ministry (Agri@moa.gov.jo). Belgium's foreign ministry advises against bringing pets to Jordan.",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
   "at_a_glance": {
-   "rabies_vaccine": "Required (timing not specified)",
-   "permit": "No longer issued · confirm meaning",
-   "health_certificate": "Vet certificate: rabies-free, vaccinated"
+   "permit": "Check with Elysium Jet operations"
   },
   "key_points": [
-   "Max 2 pets of each species (cats/dogs) per traveller",
-   "Unclear whether no permit is needed or imports stopped: confirm with the Ministry",
-   "Belgium's foreign ministry advises against bringing pets to Jordan"
+   "No reliable official information found — check with Elysium Jet operations before booking."
   ]
  },
  "JP": {
@@ -3352,7 +3422,8 @@
   "export_points": [
    "Book the AQS export inspection in advance; AQS issues the export certificate",
    "If returning, complete Japan's import steps (chip, 2 shots, FAVN) before leaving"
-  ]
+  ],
+  "private_jet_note": "Dogs may enter only through designated ports; the airports are New Chitose, Narita, Haneda, Chubu, Kansai, Osaka-Itami, Kobe, Kitakyushu, Fukuoka, Kagoshima and Naha. Cats arriving elsewhere need advance AQS agreement. Book the AQS arrival inspection with the FBO."
  },
  "KE": {
   "summary": "Kenya requires an import permit from the Director of Veterinary Services, which must travel with the pet. The Ministry of Livestock Development's permit conditions require pets not from a WOAH rabies-free country to have a microchip, rabies vaccination and a rabies antibody titer of at least 0.5 IU/ml taken 3–24 months before shipment. Otherwise up to 6 months' quarantine may apply. The conditions also say pets must travel as manifest cargo in the hold, not in the cabin, which directly affects private-jet arrivals.",
@@ -3508,7 +3579,6 @@
    "microchip": "10–15 digits, on PAAF certificate",
    "rabies_vaccine": "Required, WOAH-compliant vaccine",
    "titer": "Required · 3–12 months before entry",
-   "permit": "Unclear · confirm with PAAF",
    "health_certificate": "PAAF form, government-endorsed",
    "quarantine": "None stated if compliant",
    "parasites": "Internal + external ≤14 days before"
@@ -3537,8 +3607,7 @@
   ],
   "key_points": [
    "Long dog-breed ban, incl. Pit Bull types, Rottweiler, Doberman, Cane Corso, mastiffs and mixes",
-   "Third-party guides report a permit, possibly via an agent, and a limit of 1 dog per year",
-   "US pets: unclear whether APHIS endorsement is needed; confirm",
+   "Confirm with PAAF before travel whether an import permit is needed",
    "Pets failing certificate conditions are held at the quarantine station"
   ]
  },
@@ -3692,7 +3761,7 @@
    "titer": "FAVN · enter 3 months after draw",
    "permit": "Permit EC$45 · about 2 days",
    "health_certificate": "APHIS-endorsed, exam ≤14 days",
-   "parasites": "Internal + external · confirm timing"
+   "parasites": "Internal + external, per the US certificate"
   },
   "steps": [
    {
@@ -3724,7 +3793,7 @@
   ]
  },
  "LI": {
-  "summary": "Liechtenstein is an EU Annex I listed territory with an open border to Switzerland and no airport; pets in practice arrive via Switzerland (or Austria) and must meet the rules of that entry country (Swiss rules: microchip, rabies vaccination, pet passport or health certificate).",
+  "summary": "Liechtenstein is an EU Annex I listed territory with an open border to Switzerland and no airport; pets arrive via Switzerland (or Austria) and must meet the rules of that entry country (Swiss rules: microchip, rabies vaccination, pet passport or health certificate).",
   "at_a_glance": {
    "microchip": "Before rabies shot (Swiss rules)",
    "rabies_vaccine": "≥21 days before, age 12+ weeks",
@@ -3752,7 +3821,8 @@
   ],
   "export_points": [
    "The EU treats Liechtenstein as listed: pet passport, no titer"
-  ]
+  ],
+  "private_jet_note": "No airport: from outside the EU/Schengen area, land at Zurich, Basel or Geneva (Swiss pet entry airports) and drive on. From the EU/Schengen area, any airport."
  },
  "LK": {
   "summary": "A DAPH import permit is required. Under rules in force since 1 January 2026, dogs and cats need an ISO microchip, up-to-date core and rabies vaccinations, parasite treatment within 14 days, and an official health certificate within 10 days of export. Dogs also need negative leishmaniasis and heartworm tests within 1 month of departure.",
@@ -3761,7 +3831,7 @@
    "rabies_vaccine": "Up to date",
    "permit": "DAPH import permit required",
    "health_certificate": "Official, ≤10 days before export",
-   "quarantine": "Possible · length unconfirmed",
+   "quarantine": "Possible, under the permit terms",
    "parasites": "Internal + external ≤14 days before"
   },
   "steps": [
@@ -3792,7 +3862,7 @@
   ]
  },
  "LS": {
-  "summary": "Pets need a live-animal import permit from Lesotho's Ministry of Agriculture, Food Security and Nutrition. The fee is M200 and processing takes 3–5 days. The official listing names the documents (application, lab reports, vaccination history) but gives no pet-specific health rules, so confirm vaccination and certificate details with the Ministry.",
+  "summary": "Pets need a live-animal import permit from Lesotho's Ministry of Agriculture, Food Security and Nutrition. The fee is M200 and processing takes 3–5 days. The official listing names the documents (application, lab reports, vaccination history) but gives no pet-specific health rules; confirm vaccination and certificate details with the Ministry before travel.",
   "at_a_glance": {
    "permit": "Permit M200 · 3–5 days",
    "health_certificate": "From origin, shortly before travel"
@@ -3821,142 +3891,142 @@
   ]
  },
  "LT": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry, age 12+ weeks",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU passport, or EU certificate ≤10 days",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
-    "when": "1+ month before",
-    "what": "Microchip the pet, then give the rabies vaccine (pet 12+ weeks old)"
+    "when": "4+ weeks before",
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
     "when": "21 days after vaccine",
-    "what": "Vaccine becomes valid; EU pets travel on their EU pet passport"
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
-    "when": "≤10 days before arrival",
-    "what": "From the US: EU animal health certificate, signed and government-endorsed"
+    "when": "≤10 days before",
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
-    "when": "Before departure",
-    "what": "Sign the owner's non-commercial declaration"
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: document and ID check at a pet point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets; each travels with the owner or an authorised person within 5 days",
-   "From unlisted countries: titer test, then a 3-month wait before the certificate",
-   "Young pets from EU states may enter with an owner declaration; never from outside the EU"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
    "To EU/EEA countries: EU pet passport from an authorised vet",
-   "Dogs heading to FI, IE, MT, NO or Northern Ireland need tapeworm treatment",
-   "To non-EU countries: follow destination rules; certificate endorsed by the official vet service"
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, land at a pet point of entry (Vilnius, Kaunas, Palanga or Šiauliai) for customs checks. Non-compliance can mean refusal or isolation at your cost."
  },
  "LU": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry, age 12+ weeks",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU passport, or EU certificate ≤10 days",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
-    "when": "1+ month before",
-    "what": "Microchip the pet, then give the rabies vaccine (pet 12+ weeks old)"
+    "when": "4+ weeks before",
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
     "when": "21 days after vaccine",
-    "what": "Vaccine becomes valid; EU pets travel on their EU pet passport"
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
-    "when": "≤10 days before arrival",
-    "what": "From the US: EU animal health certificate, signed and government-endorsed"
+    "when": "≤10 days before",
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
-    "when": "Before departure",
-    "what": "Sign the owner's non-commercial declaration"
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: document and ID check at Luxembourg-Findel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets; each travels with the owner or an authorised person within 5 days",
-   "From unlisted countries: titer test, then a 3-month wait before the certificate",
-   "Young pets from EU states may enter with an owner declaration; never from outside the EU"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
    "To EU/EEA countries: EU pet passport from an authorised vet",
-   "Dogs heading to FI, IE, MT, NO or Northern Ireland need tapeworm treatment",
-   "To non-EU countries: follow destination rules; certificate endorsed by the official vet service"
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, the only pet entry airport is Luxembourg-Findel. Non-compliance can mean refusal or isolation at your cost."
  },
  "LV": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry, age 12+ weeks",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU passport, or EU certificate ≤10 days",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
-    "when": "1+ month before",
-    "what": "Microchip the pet, then give the rabies vaccine (pet 12+ weeks old)"
+    "when": "4+ weeks before",
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
     "when": "21 days after vaccine",
-    "what": "Vaccine becomes valid; EU pets travel on their EU pet passport"
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
-    "when": "≤10 days before arrival",
-    "what": "From the US: EU animal health certificate, signed and government-endorsed"
+    "when": "≤10 days before",
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
-    "when": "Before departure",
-    "what": "Sign the owner's non-commercial declaration"
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: document and ID check at a pet point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets; each travels with the owner or an authorised person within 5 days",
-   "From unlisted countries: titer test, then a 3-month wait before the certificate",
-   "Young unvaccinated pets are not accepted"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
    "To EU/EEA countries: EU pet passport from an authorised vet",
-   "Dogs heading to FI, IE, MT, NO or Northern Ireland need tapeworm treatment",
-   "To non-EU countries: follow destination rules; certificate endorsed by the official vet service"
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
-  "private_jet_note": "From outside the EU, land at a pet point of entry (Riga, Liepaja, Ventspils, Daugavpils or Tukums; 2011 list) for customs checks. Non-compliance can mean refusal or isolation."
+  "private_jet_note": "From outside the EU, land at a pet point of entry (Riga, Liepaja, Ventspils, Daugavpils or Tukums) for customs checks. Non-compliance can mean refusal or isolation."
  },
  "MA": {
-  "summary": "For US origin, pets need permanent ID (microchip or tattoo) before an inactivated rabies vaccination, a bilingual ONSSA-model health certificate endorsed within 3 days of departure, and a clinical exam within 24 hours of departure. Rules for other origins were not verified.",
+  "summary": "For US origin, pets need permanent ID (microchip or tattoo) before an inactivated rabies vaccination, a bilingual ONSSA-model health certificate endorsed within 3 days of departure, and a clinical exam within 24 hours of departure. From other origins, confirm the conditions with ONSSA before travel.",
   "at_a_glance": {
    "microchip": "Chip or tattoo, before rabies shot",
    "rabies_vaccine": "Inactivated vaccine, after ID",
@@ -3982,7 +4052,7 @@
   ],
   "key_points": [
    "Pet must have lived in rabies-free premises since birth or for the last 6 months",
-   "Rules verified for US origin only; EU-origin rules not officially confirmed"
+   "From origins other than the US, confirm the conditions with ONSSA before travel"
   ],
   "export_points": [
    "Morocco is CDC high-risk: get the CDC/USDA rabies certification before leaving the US",
@@ -3990,7 +4060,7 @@
   ]
  },
  "MC": {
-  "summary": "Monaco is an EU Annex I listed territory (pets from it enter the EU without titer test or point-of-entry check). No dedicated official import page was found; in practice pets arrive via France (Nice Côte d'Azur airport), so that country's EU entry rules apply (microchip, rabies vaccination, EU pet passport or EU health certificate; titer test from unlisted countries). France's category 1 dog ban applies on arrival through France.",
+  "summary": "Monaco is an EU Annex I listed territory (pets from it enter the EU without a titer test or point-of-entry check). Monaco has no airport, so pets arrive via France (Nice Côte d'Azur airport) and France's EU entry rules apply (microchip, rabies vaccination, EU pet passport or EU health certificate; titer test from unlisted countries). France's category 1 dog ban applies on arrival through France.",
   "at_a_glance": {
    "microchip": "ISO, before rabies shot",
    "rabies_vaccine": "≥21 days before entry, age 12+ weeks",
@@ -4027,7 +4097,7 @@
   "at_a_glance": {
    "microchip": "Before rabies shot (ISO advised)",
    "rabies_vaccine": "≥21 days before, age 12+ weeks",
-   "titer": "Required · 3-month wait unclear",
+   "titer": "Required (≥0.5 IU/ml)",
    "health_certificate": "Origin certificate (US: 30 days)"
   },
   "steps": [
@@ -4093,12 +4163,14 @@
   ]
  },
  "MF": {
-  "summary": "The French side is part of the EU (outermost region), so EU/France pet rules apply: microchip, rabies vaccination at least 21 days before travel, and an EU animal health certificate endorsed by the exporting country's official vet. Most arrivals land at SXM on the Dutch side, where Sint Maarten's own permit rules also apply.",
+  "summary": "The French side of Saint Martin is an EU outermost region, so EU pet rules under Delegated Regulation (EU) 2026/131 apply: microchip, rabies vaccination at least 21 days before travel, and an EU animal health certificate endorsed by the exporting country's official vet, checked at a travellers' point of entry. Most arrivals land at SXM on the Dutch side, where Sint Maarten's own permit rules also apply.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before travel",
-   "titer": "Not required from US/Canada",
-   "health_certificate": "EU certificate, APHIS-endorsed"
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
+   "titer": "Not required from US/EU",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant"
   },
   "steps": [
    {
@@ -4106,12 +4178,24 @@
     "what": "Confirm with DAAF Guadeloupe and, if landing at SXM, Sint Maarten"
    },
    {
-    "when": "4–5 weeks before",
-    "what": "Microchip, then rabies vaccine (pet 12+ weeks old)"
+    "when": "4+ weeks before",
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "≤10 days before arrival",
-    "what": "EU health certificate, endorsed by APHIS in ink"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
+   },
+   {
+    "when": "≤10 days before",
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
+   },
+   {
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
+   },
+   {
+    "when": "On arrival",
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
@@ -4119,13 +4203,14 @@
    "Via SXM: dogs and cats from South and Central America are banned",
    "French category 1 attack dogs may not be imported",
    "Max 5 pets; owner or authorised person travels within 5 days"
-  ]
+  ],
+  "private_jet_note": "Landing at SXM means Sint Maarten's permit rules apply; on the French side, confirm with DAAF Guadeloupe that Grand Case can carry out the EU entry check for a private flight."
  },
  "MG": {
-  "summary": "Per UK official export guidance, a Madagascar import permit is needed only for unaccompanied pets. Animals need rabies vaccination 30 days–12 months before export, roundworm/tapeworm treatment within 3 days of export, and an official health certificate issued within 48 hours of export. That guidance dates from 1996, and non-official sources also mention a DSV entry authorization and rabies serology, so confirm with Madagascar's veterinary services.",
+  "summary": "Per UK official export guidance, a Madagascar import permit is needed for unaccompanied pets. Animals need rabies vaccination 30 days–12 months before export, roundworm/tapeworm treatment within 3 days of export, and an official health certificate issued within 48 hours of export. That guidance dates from 1996, so confirm the current rules with Madagascar's veterinary services before travel.",
   "at_a_glance": {
    "rabies_vaccine": "30 days–12 months before export",
-   "permit": "Unaccompanied pets only · confirm",
+   "permit": "Required for unaccompanied pets",
    "health_certificate": "Official, ≤48 h before export",
    "parasites": "Roundworm + tapeworm ≤3 days before"
   },
@@ -4148,8 +4233,7 @@
    }
   ],
   "key_points": [
-   "Official guidance dates from 1996; confirm current rules with Madagascar's vet services",
-   "Some unofficial sources mention rabies serology and quarantine without prior authorisation"
+   "Official guidance dates from 1996; confirm current rules with Madagascar's vet services"
   ]
  },
  "MK": {
@@ -4179,7 +4263,7 @@
   ]
  },
  "ML": {
-  "summary": "For US-origin pets (APHIS): rabies vaccination, a vet exam, and a bilingual USDA-endorsed health certificate valid 30 days after issuance. No official rules found for other origins.",
+  "summary": "For US-origin pets (APHIS): rabies vaccination, a vet exam, and a bilingual USDA-endorsed health certificate valid 30 days after issuance. From other origins, confirm the conditions with Mali's veterinary services before travel.",
   "at_a_glance": {
    "microchip": "Recorded if present",
    "rabies_vaccine": "Required, current",
@@ -4200,11 +4284,11 @@
    }
   ],
   "key_points": [
-   "No official rules found for non-US origins"
+   "From origins other than the US, confirm the conditions with Mali's veterinary services"
   ]
  },
  "MM": {
-  "summary": "Myanmar's LBVD dog and cat import regulation needs an import licence, an official health certificate, and rabies vaccination (or origin rabies-free for 12 months) plus distemper, hepatitis, leptospirosis and parvovirus vaccination at least 21 days before departure. Then at least 30 days of quarantine at approved premises on arrival. The regulation found is labelled 'purpose: breeding' and may be dated, so confirm the pet procedure with LBVD.",
+  "summary": "Myanmar's LBVD dog and cat import regulation needs an import licence, an official health certificate, and rabies vaccination (or origin rabies-free for 12 months) plus distemper, hepatitis, leptospirosis and parvovirus vaccination at least 21 days before departure. Then at least 30 days of quarantine at approved premises on arrival. The published regulation is labelled 'purpose: breeding', so confirm the pet procedure with LBVD before travel.",
   "at_a_glance": {
    "microchip": "Not specified · advised",
    "rabies_vaccine": "≥21 days before departure",
@@ -4232,12 +4316,12 @@
    }
   ],
   "key_points": [
-   "Rules found are labelled for breeding and may be dated: confirm with LBVD",
+   "The published regulation is labelled for breeding: confirm the pet procedure with LBVD",
    "Non-compliant animals are returned or destroyed without compensation"
   ]
  },
  "MN": {
-  "summary": "For US origin: a microchip, a current rabies vaccination, and a veterinary health certificate issued by an accredited vet and APHIS-endorsed (valid 30 days after issuance). Rules for other origins were not verified.",
+  "summary": "For US origin: a microchip, a current rabies vaccination, and a veterinary health certificate issued by an accredited vet and APHIS-endorsed (valid 30 days after issuance). From other origins, confirm the conditions with the veterinary authority before travel.",
   "at_a_glance": {
    "microchip": "Required, number on certificate",
    "rabies_vaccine": "Current at time of export",
@@ -4258,7 +4342,7 @@
    }
   ],
   "key_points": [
-   "Rules verified for US origin only; confirm requirements for other origins"
+   "From origins other than the US, confirm the conditions with the veterinary authority"
   ]
  },
  "MO": {
@@ -4305,7 +4389,7 @@
   ]
  },
  "MP": {
-  "summary": "CNMI entry permit (Division of Agriculture) required. From the USA: at least two rabies vaccinations, an FAVN titer above 1.0 IU/mL at a CDC-approved lab, core vaccines, parasite treatment within 14 days of arrival, and a health certificate within 10 days of travel. From non-US, non-rabies-free origins (e.g. EU), at least 120 days must pass from the FAVN blood draw. Dogs also need a CDC Dog Import Form, must be 6 months or older, and need an ISO chip. Pets from high-risk rabies countries must quarantine on Guam first.",
+  "summary": "CNMI entry permit (Division of Agriculture) required. From the USA: at least two rabies vaccinations, an FAVN titer above 1.0 IU/mL at a CDC-approved lab, core vaccines, parasite treatment within 14 days of arrival, and a health certificate within 10 days of travel. From non-US, non-rabies-free origins (e.g. EU), at least 120 days must pass from the FAVN blood draw. Dogs also need a CDC Dog Import Form, must be 6 months or older, and need an ISO chip. Foreign-vaccinated dogs that were in a CDC high-risk rabies country in the past 6 months cannot enter the US through a US territory, so they cannot fly directly to the CNMI.",
   "at_a_glance": {
    "microchip": "Required; ISO for international dogs",
    "rabies_vaccine": "At least 2 lifetime shots",
@@ -4341,44 +4425,55 @@
    "Do not re-vaccinate for rabies after the FAVN blood draw",
    "Dogs from abroad: at least 6 months old, with a CDC Dog Import Form",
    "Permit fee: USD 50 per sterilised pet, USD 500 per unsterilised pet",
-   "Pets from high-risk rabies countries must quarantine on Guam first"
+   "Foreign-vaccinated dogs from CDC high-risk countries cannot enter via a US territory"
   ],
   "export_points": [
    "For New Zealand, treated as Category 3, the same as the US mainland"
-  ]
+  ],
+  "private_jet_note": "Foreign-vaccinated dogs from CDC high-risk countries cannot enter via US territories, including the CNMI. Check the dog's CDC status before routing here."
  },
  "MQ": {
-  "summary": "A French overseas department in the EU. APHIS states the entry requirements are the same as for France (EU rules): ISO microchip, rabies vaccination at least 21 days before entry, and an EU animal health certificate endorsed by APHIS. A titer test is needed only from non-EU-listed countries.",
+  "summary": "Martinique is a French overseas department in the EU, so EU pet rules under Delegated Regulation (EU) 2026/131 apply, as for France: ISO microchip, rabies vaccination at least 21 days before entry, and an EU animal health certificate (endorsed by APHIS for US pets) checked at a travellers' point of entry. A titer test is needed only from countries that are not EU-listed.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry",
-   "titer": "Not required from US/Canada",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
+   "titer": "Not required from US/EU",
    "permit": "Not required (EU rules)",
-   "health_certificate": "Used ≤10 days after APHIS endorsement"
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
+   "quarantine": "None if compliant"
   },
   "steps": [
    {
-    "when": "5+ weeks before",
-    "what": "ISO microchip, then rabies vaccination (pet at least 12 weeks old)"
+    "when": "4+ weeks before",
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "Before travel",
-    "what": "Confirm with DAAF whether a prior declaration is needed"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "EU health certificate signed by your vet and endorsed by APHIS in ink"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
+   },
+   {
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
+   },
+   {
+    "when": "On arrival",
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
    "Same rules as mainland France (EU)",
    "Category 1 attack-type dogs cannot be imported",
-   "Up to 5 pets per certificate; new US certificate versions apply from 1 Oct 2026",
+   "Up to 5 pets per certificate",
    "From non-EU-listed countries, add 3+ months for a titer test"
-  ]
+  ],
+  "private_jet_note": "From outside the EU, the pet needs an EU point-of-entry check: confirm with DAAF Martinique before routing that the arrival airport can carry it out for a private flight."
  },
  "MS": {
-  "summary": "Under the Animals (Importation) Control Regulations (Cap. 9.06, revised 2002), every animal needs a permit from the Inspector and may land only at a customs port or airport with the Inspector's prior written permission. Dogs and cats face at least 6 months' quarantine unless imported directly from Great Britain, Northern Ireland, Ireland, Jamaica, St Kitts-Nevis, Barbados or Anguilla with a government health certificate. Current practice may differ, so confirm with the Department of Agriculture.",
+  "summary": "Under the Animals (Importation) Control Regulations (Cap. 9.06, revised 2002), every animal needs a permit from the Inspector and may land only at a customs port or airport with the Inspector's prior written permission. Dogs and cats face at least 6 months' quarantine unless imported directly from Great Britain, Northern Ireland, Ireland, Jamaica, St Kitts-Nevis, Barbados or Anguilla with a government health certificate. Confirm current practice with the Department of Agriculture before travel.",
   "at_a_glance": {
    "permit": "Required from the Inspector",
    "quarantine": "6+ months unless from listed origins"
@@ -4403,52 +4498,62 @@
   ],
   "key_points": [
    "No quarantine only if direct from GB, N. Ireland, Ireland, Jamaica, St Kitts-Nevis, Barbados or Anguilla",
-   "USA, Canada and mainland EU are not exempt; whether quarantine is still applied is unconfirmed",
+   "USA, Canada and mainland EU are not exempt under the regulations; confirm current practice with the Department of Agriculture",
    "Exempt pets must not contact uncertified dogs or cats in transit"
   ],
   "private_jet_note": "Pets may land only at a customs airport with the Inspector's prior written permission, and the aircraft may be inspected and disinfected. Fly direct from an exempt country to avoid quarantine."
  },
  "MT": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry. Dogs also need tapeworm treatment 24-120 h before entry. Pre-notification of every pet arrival to the Veterinary Regulation Directorate is mandatory.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry. Dogs also need tapeworm treatment 24–120 h before entry. Pre-notification of every pet arrival to the Veterinary Regulation Directorate is mandatory.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
-   "health_certificate": "EU passport or certificate ≤10 days",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "Dogs: tapeworm 24–120 h before"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "ISO microchip, then rabies vaccination (pet at least 12 weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "21+ days before",
-    "what": "Primary rabies vaccination becomes valid after 21 days"
-   },
-   {
-    "when": "Days before arrival",
-    "what": "Submit the mandatory Pets Arrival Notification to the VRD, well ahead"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "US: EU health certificate, endorsed by APHIS. EU: valid EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
+   },
+   {
+    "when": "Before travel",
+    "what": "Send the Pets Arrival Notification to the VRD"
    },
    {
     "when": "24–120 h before",
-    "what": "Dogs: tapeworm treatment by a vet, recorded on passport or certificate"
+    "what": "Dogs: tapeworm treatment by a vet, recorded in the passport or certificate"
+   },
+   {
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
+   },
+   {
+    "when": "On arrival",
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
    "No arrival notification to the VRD means entry is denied",
-   "Max 5 pets per movement; pet must travel within 5 days of the owner",
-   "Unvaccinated young pets are not accepted",
-   "From unlisted countries: titer test and a 3-month wait"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU/EEA: EU pet passport (dogs to FI, IE, NO or Northern Ireland also need tapeworm treatment)",
-   "To non-EU countries: meet destination rules; certificates endorsed by the official vet service"
+   "To EU/EEA countries: EU pet passport from an authorised vet",
+   "Dogs going to Finland, Ireland, Norway or N. Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, land at Malta International Airport (Luqa), the travellers' point of entry, and present the pet in the customs red channel."
  },
@@ -4507,11 +4612,11 @@
   },
   "steps": [
    {
-    "when": "6+ weeks before",
-    "what": "Cats: rabies (30+ days before) plus calicivirus, rhinotracheitis, panleukopenia"
+    "when": "30+ days before",
+    "what": "Cats: rabies (30 days–12 months before export) plus calicivirus, rhinotracheitis, panleukopenia"
    },
    {
-    "when": "After vaccinations",
+    "when": "3+ weeks before",
     "what": "Apply for the import permit from the Ministry of Fisheries and Agriculture"
    },
    {
@@ -4530,7 +4635,8 @@
   "key_points": [
    "Dogs are prohibited with no exceptions, including private jets and resort transfers",
    "Cats are cleared at Velana International Airport"
-  ]
+  ],
+  "private_jet_note": "Dogs cannot enter on any flight, including private jets and resort transfers. Cats are cleared at Velana International Airport with a Customs-approved invoice and airway bill."
  },
  "MW": {
   "summary": "Malawi's Animal (Import) Rules require a written import permit from the Chief Veterinary Officer for any animal. UK official guidance adds rabies vaccination 30 days–12 months before export and an official health certificate issued within 14 days of export. That guidance dates from 1996, so confirm current details with the CVO.",
@@ -4564,7 +4670,7 @@
   ]
  },
  "MX": {
-  "summary": "From the US: cats need no health certificate (since 16 Dec 2019), but since 3 Aug 2026 dogs need an 'NWS Inspection Certificate for Pet Dogs' signed by a USDA-accredited vet no more than 5 days before entry (no APHIS endorsement). SENASICA (OISA) inspects all dogs and cats on arrival for disease signs, ectoparasites and wounds. Requirements for non-US origins were not verified.",
+  "summary": "From the US: cats need no health certificate (since 16 Dec 2019), but since 3 Aug 2026 dogs need an 'NWS Inspection Certificate for Pet Dogs' signed by a USDA-accredited vet no more than 5 days before entry (no APHIS endorsement). SENASICA (OISA) inspects all dogs and cats on arrival for disease signs, ectoparasites and wounds. From other origins, confirm the conditions with SENASICA before travel.",
   "at_a_glance": {
    "permit": "Not required",
    "health_certificate": "Dogs: NWS cert ≤5 days before entry",
@@ -4592,7 +4698,7 @@
    "Cats from the US need no health certificate",
    "Never list cats on the dog form, or the form becomes invalid",
    "If ticks are found, the pet is held at OISA until cleared, at your cost",
-   "Rules for non-US origins were not verified"
+   "From origins other than the US, confirm the conditions with SENASICA before travel"
   ],
   "export_points": [
    "Dogs going to the US need a screwworm-freedom certificate, inspection within 5 days",
@@ -4819,71 +4925,82 @@
   ]
  },
  "NL": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
-   "health_certificate": "EU passport or certificate ≤10 days",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "ISO microchip, then rabies vaccination (pet at least 12 weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "21+ days before",
-    "what": "Primary rabies vaccination becomes valid after 21 days"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "US: EU health certificate, endorsed by APHIS. EU: valid EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
+   },
+   {
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: red channel at a point-of-entry airport"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Titer + 3-month wait from Türkiye, Morocco, Israel, Saudi Arabia, Qatar, Thailand, South Africa and others",
-   "Max 5 pets per movement; pet must travel within 5 days of the owner",
-   "Unvaccinated young pets are not accepted",
-   "Cropped or docked dogs: check with NVWA"
+   "Cropped or docked dogs: check with NVWA",
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU/EEA: EU pet passport (dogs to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment)",
-   "To non-EU countries: meet destination rules; certificates endorsed by the official vet service"
+   "To EU/EEA countries: EU pet passport from an authorised vet",
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, land at a point-of-entry airport (Schiphol, Eindhoven, Rotterdam, Maastricht-Aachen, Groningen Eelde or Lelystad) and use the red channel."
  },
  "NO": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry. Dogs also need tapeworm treatment 24-120 h before entry. Norway applies EU pet rules via the EEA; customs red channel is mandatory.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry. Dogs also need tapeworm treatment 24–120 h before entry. Norway applies EU pet rules via the EEA; the customs red channel is mandatory.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
-   "health_certificate": "EU passport or certificate ≤10 days",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "Dogs: tapeworm 24–120 h before"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "ISO microchip, then rabies vaccination (pet at least 12 weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "21+ days before",
-    "what": "Primary rabies vaccination becomes valid after 21 days"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "US: EU health certificate, endorsed by APHIS. EU: valid EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "24–120 h before",
-    "what": "Dogs: tapeworm treatment by a vet, recorded in passport or certificate"
+    "what": "Dogs: tapeworm treatment by a vet, recorded in the passport or certificate"
+   },
+   {
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
@@ -4893,8 +5010,9 @@
   "key_points": [
    "Banned incl. crosses: Pit Bull, Am Staff, Fila Brasileiro, Tosa Inu, Dogo Argentino, Czechoslovakian Wolfdog",
    "Tapeworm treatment applies even to day trips, e.g. from Sweden",
-   "Max 5 pets per movement; pet must travel within 5 days of the owner",
-   "Unvaccinated young pets are not accepted"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
    "To EU/EEA: EU pet passport",
@@ -4903,7 +5021,7 @@
   "private_jet_note": "From outside the EU/EEA, pets may arrive by air only via Oslo Gardermoen. Always use the customs red channel, even on flights from Sweden."
  },
  "NP": {
-  "summary": "Pets enter Nepal via Tribhuvan International Airport with an international health certificate (issued within 10 days of arrival) and a rabies vaccination card. The Animal Quarantine Office must be emailed the flight details, passport copy, health certificate and rabies card 72 hours before arrival. The pet is checked at the airport animal quarantine checkpoint. Exact rabies timing and microchip rules are not stated officially.",
+  "summary": "Pets enter Nepal via Tribhuvan International Airport with an international health certificate (issued within 10 days of arrival) and a rabies vaccination card. The Animal Quarantine Office must be emailed the flight details, passport copy, health certificate and rabies card 72 hours before arrival. The pet is checked at the airport animal quarantine checkpoint. Confirm rabies timing and microchip rules with the Animal Quarantine Office before travel.",
   "at_a_glance": {
    "rabies_vaccine": "Vaccination card required",
    "titer": "Not required",
@@ -4927,7 +5045,7 @@
   ],
   "key_points": [
    "Entry via Tribhuvan International Airport, Kathmandu",
-   "Microchip not stated officially; an ISO chip is expected by secondary sources"
+   "Confirm microchip rules with the Animal Quarantine Office"
   ]
  },
  "NZ": {
@@ -5155,7 +5273,7 @@
    "microchip": "Required, number on SPSIC",
    "rabies_vaccine": "12+ weeks old; 14-day wait if first",
    "titer": "Not yet · required from 1 Jan 2027",
-   "permit": "SPSIC · 11 working days, valid 60 days",
+   "permit": "SPSIC · 11 working days",
    "health_certificate": "Must match the SPSIC",
    "quarantine": "None; inspection on arrival",
    "parasites": "Records valid until arrival"
@@ -5175,7 +5293,7 @@
    },
    {
     "when": "Day of travel",
-    "what": "Depart within SPSIC validity; a permit issued after departure is invalid"
+    "what": "Travel within the SPSIC validity"
    },
    {
     "when": "On arrival",
@@ -5190,12 +5308,11 @@
   ]
  },
  "PK": {
-  "summary": "For US-origin dogs and cats, USDA lists Pakistan's health certificate: issued by a licensed vet (USDA endorsement NOT required), recording the microchip, a healthy exam, origin outside rabies-quarantined areas, and current rabies vaccination. Valid 30 days. Secondary sources also mention an import NOC from the Ministry of National Food Security & Research (Animal Quarantine Department, now merging into NAFSA). The NOC is unconfirmed, so check before travel.",
+  "summary": "For US-origin dogs and cats, USDA lists Pakistan's health certificate: issued by a licensed vet (USDA endorsement not required), recording the microchip, a healthy exam, origin outside rabies-quarantined areas, and current rabies vaccination. Valid 30 days. Confirm with the Ministry of National Food Security & Research before travel whether an import NOC is needed.",
   "at_a_glance": {
    "microchip": "Number recorded, ISO advised",
    "rabies_vaccine": "Must be current",
    "titer": "Not required",
-   "permit": "NOC unverified · confirm",
    "health_certificate": "Valid 30 days, no USDA endorsement"
   },
   "steps": [
@@ -5213,47 +5330,52 @@
    }
   ],
   "key_points": [
-   "Rules verified for US origin only",
-   "Non-compliant pets may be quarantined or returned"
+   "From origins other than the US, confirm the conditions with the Ministry of National Food Security & Research",
+   "Confirm before travel whether an import NOC is needed"
   ]
  },
  "PL": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
-   "health_certificate": "EU passport or certificate ≤10 days",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "ISO microchip, then rabies vaccination (pet at least 12 weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "21+ days before",
-    "what": "Primary rabies vaccination becomes valid after 21 days"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "US: EU health certificate, endorsed by APHIS. EU: valid EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
+   },
+   {
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: customs check at a point-of-entry airport"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per movement; pet must travel within 5 days of the owner",
-   "Unvaccinated young pets are not accepted",
-   "From unlisted countries: titer test and a 3-month wait",
-   "Local dangerous-dog rules may apply to bull and molosser types"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU/EEA: EU pet passport (dogs to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment)",
-   "To non-EU countries: meet destination rules; certificates endorsed by the official vet service"
+   "To EU/EEA countries: EU pet passport from an authorised vet",
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, land at a point-of-entry airport such as Warsaw Chopin, Kraków, Gdańsk or Katowice and present the pet at customs (red channel)."
  },
@@ -5291,45 +5413,51 @@
   "private_jet_note": "Foreign-vaccinated dogs from CDC high-risk countries cannot enter the US via Puerto Rico, which has no CDC-registered facility. Plan a different routing for these dogs."
  },
  "PT": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry. 48-hour advance notice to DGAV for non-EU arrivals.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry. 48-hour advance notice to DGAV for non-EU arrivals.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
-   "health_certificate": "EU passport or certificate ≤10 days",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "ISO microchip, then rabies vaccination (pet at least 12 weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "21+ days before",
-    "what": "Primary rabies vaccination becomes valid after 21 days"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "US: EU health certificate, endorsed by APHIS. EU: valid EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "48+ h before",
     "what": "Non-EU arrivals: send the written arrival notice to DGAV"
    },
    {
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
+   },
+   {
     "when": "On arrival",
-    "what": "From outside the EU: red channel at a point-of-entry airport"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Titer + 3-month wait from Türkiye, Morocco, Israel, Saudi Arabia, Qatar, Thailand, South Africa and others",
-   "Max 5 pets per movement; pet must travel within 5 days of the owner",
-   "Unvaccinated young pets are not accepted"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU/EEA: EU pet passport (dogs to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment)",
-   "To non-EU countries: meet destination rules; certificates endorsed by the official vet service"
+   "To EU/EEA countries: EU pet passport from an authorised vet",
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, land at a point-of-entry airport (Lisbon, Porto, Faro, Beja, Cascais, Funchal or the Azores) and give DGAV 48 hours' written notice."
  },
@@ -5381,19 +5509,19 @@
   "at_a_glance": {
    "microchip": "Required, scanned before rabies shot",
    "rabies_vaccine": "≥30 days before travel",
-   "titer": "Required; wait unconfirmed",
+   "titer": "Required (lab report with the permit)",
    "permit": "MoM permit · valid 30 days",
    "health_certificate": "Original official certificate",
    "quarantine": "None if compliant"
   },
   "steps": [
    {
-    "when": "4 months before",
-    "what": "Microchip, then rabies vaccination"
+    "when": "Before applying",
+    "what": "Microchip, then rabies vaccination (at least 30 days before travel)"
    },
    {
-    "when": "3–4 months before",
-    "what": "Rabies titre blood test (a 90-day wait is reported but unconfirmed)"
+    "when": "Before applying",
+    "what": "Rabies titre blood test; confirm any waiting period with the Ministry"
    },
    {
     "when": "~30 days before",
@@ -5409,87 +5537,100 @@
    }
   ],
   "key_points": [
-   "One pet per person; permits reportedly only for residents or work-visa holders",
+   "One pet per person",
    "Banned dogs incl. Boxer, Bulldog, Doberman, Great Dane, Rottweiler, Shar-Pei, Akita, Am Staff",
    "Pets must be over 4 months old",
-   "Entry only via Hamad International; clearance at Doha International is unconfirmed"
-  ]
+   "Entry only via Hamad International; confirm with the Ministry before routing via Doha International"
+  ],
+  "private_jet_note": "Pets may enter only via Hamad International (DOH). Before routing a private flight to Doha International (DIA), confirm with the Ministry of Municipality that the pet can be cleared there."
  },
  "RE": {
-  "summary": "Réunion is a French overseas department and part of the EU, so EU pet rules apply. From mainland France or the EU: microchip, valid rabies vaccination and an EU pet passport. From non-EU countries: EU animal health certificate. A rabies titer is needed for every African origin except Mauritius and Saint Helena.",
+  "summary": "Réunion is a French overseas department in the EU, so EU pet rules under Delegated Regulation (EU) 2026/131 apply: from mainland France or another EU state, a microchip, valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate and documentary and identity checks at a travellers' point of entry. A rabies titer with a 3-month wait is needed from every African origin except Mauritius and Saint Helena.",
   "at_a_glance": {
-   "microchip": "Required, before rabies shot",
-   "rabies_vaccine": "≥21 days before travel",
-   "titer": "Not required from the EU",
-   "health_certificate": "EU passport or certificate ≤10 days",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
+   "titer": "Not required from US/EU; required from most of Africa",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Microchip, then rabies vaccination (pet at least 12 weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "21+ days before",
-    "what": "Primary rabies vaccination becomes valid after 21 days"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "Non-EU: EU health certificate, government-endorsed. EU: EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
+   },
+   {
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "Non-EU arrivals: document and identity check at the point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
    "Titer + 3-month wait from mainland Africa, Madagascar, Comoros, Seychelles; not Mauritius",
    "Category 1 attack dogs cannot be imported; category 2 dogs face conditions",
    "Max 5 animals for a non-commercial movement",
-   "Confirm with DAAF that the private terminal can do the entry check"
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
    "Destination rules apply; the EU pet passport is issued by a Réunion vet"
-  ]
+  ],
+  "private_jet_note": "From outside the EU, the pet needs an EU point-of-entry check: confirm with DAAF Réunion that Roland Garros or Pierrefonds and the FBO terminal can carry it out."
  },
  "RO": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "≥21 days before entry",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
-   "health_certificate": "EU passport or certificate ≤10 days",
+   "permit": "Not required",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "ISO microchip, then rabies vaccination (pet at least 12 weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "21+ days before",
-    "what": "Primary rabies vaccination becomes valid after 21 days"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "US: EU health certificate, endorsed by APHIS. EU: valid EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
+   },
+   {
+    "when": "Day of travel",
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: red channel at a point-of-entry airport"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 pets per movement; pet must travel within 5 days of the owner",
-   "Young unvaccinated pets accepted from EU states with an owner declaration; never from outside the EU",
-   "From unlisted countries: titer test and a 3-month wait"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU/EEA: EU pet passport (dogs to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment)",
-   "To non-EU countries: meet destination rules; certificates endorsed by the official vet service"
+   "To EU/EEA countries: EU pet passport from an authorised vet",
+   "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
-  "private_jet_note": "From outside the EU, land at Bucharest Henri Coandă (24/7) or Cluj Avram Iancu (on request) and present the pet in the customs red channel."
+  "private_jet_note": "From outside the EU, land only at Bucharest Henri Coandă (24/7) or Cluj Avram Iancu (on request) and present the pet in the customs red channel."
  },
  "RS": {
   "summary": "EU-model certificate for up to 5 pets: microchip and a valid rabies vaccination (21-day wait after primary). A titer test is needed only from, or via, non-listed countries. For US origin, the certificate must be issued and APHIS-endorsed within 10 days of travel (within 24 hours if more than 5 pets).",
@@ -5561,39 +5702,18 @@
   ]
  },
  "RW": {
-  "summary": "RAB issues veterinary import permits (official). The pet-specific details come from a non-official source: rabies vaccination 30 days–12 months before entry, a government-endorsed health certificate, internal parasite treatment shortly before entry, and arrival via Kigali International Airport. Confirm with RAB.",
+  "summary": "The Rwanda Agriculture and Animal Resources Development Board (RAB) issues veterinary import permits. Confirm the health requirements for dogs and cats with RAB before travel.",
   "at_a_glance": {
-   "rabies_vaccine": "30 days–12 months before entry",
-   "titer": "Not required (unofficial)",
-   "permit": "RAB import permit",
-   "health_certificate": "Govt-endorsed, ~10–14 days before",
-   "parasites": "Internal, 1–5 days before entry"
+   "permit": "RAB import permit"
   },
   "steps": [
    {
-    "when": "4–6 weeks before",
-    "what": "Apply for the RAB veterinary import permit"
-   },
-   {
-    "when": "30+ days before",
-    "what": "Rabies vaccination"
-   },
-   {
-    "when": "~10 days before",
-    "what": "Health certificate endorsed by the origin government vet"
-   },
-   {
-    "when": "1–5 days before",
-    "what": "Internal parasite treatment"
-   },
-   {
-    "when": "Before arrival",
-    "what": "Notify veterinary officials at Kigali International Airport"
+    "when": "Well before travel",
+    "what": "Apply for the RAB veterinary import permit and confirm health requirements"
    }
   ],
   "key_points": [
-   "Pet details come from non-official sources: confirm with RAB",
-   "Sources conflict on whether an ISO microchip is required"
+   "Confirm the health requirements for dogs and cats with RAB before travel"
   ],
   "export_points": [
    "International veterinary certificate signed by an official RAB vet"
@@ -5604,7 +5724,7 @@
   "at_a_glance": {
    "microchip": "Required, number on vaccine record",
    "rabies_vaccine": "Valid ≥6 more months at entry",
-   "titer": "Not in official rules; confirm",
+   "titer": "Not listed in MEWA rules",
    "permit": "Naama permit · valid 30 days",
    "health_certificate": "Original government certificate",
    "quarantine": "None stated if compliant",
@@ -5637,7 +5757,8 @@
   "export_points": [
    "The same Naama permit covers departures (valid 30 days, apply about 15 days ahead)",
    "The destination country's rules also apply"
-  ]
+  ],
+  "private_jet_note": "Entry only through the port named on the Naama permit: make sure it names the actual arrival airport and confirm MEWA veterinary inspection at the executive terminal with the handler."
  },
  "SB": {
   "summary": "Solomon Islands needs an import permit, a statutory declaration and a government vet health certificate. Dogs and cats must be desexed. The dog certificate (May 2021 permit) requires that rabies and canine brucellosis have not been diagnosed in the exporting country in the 5 years before export. In practice this excludes non-rabies-free origins such as the USA. Only dogs and cats from Australia or New Zealand are exempt from vet inspection before release from port.",
@@ -5655,92 +5776,73 @@
   "private_jet_note": "Direct entry from the USA and other rabies-affected origins is blocked by the 5-year rabies-free origin rule. Confirm eligibility with Biosecurity Solomon Islands before planning."
  },
  "SC": {
-  "summary": "Veterinary import permit is required for every dog and cat. All pets are quarantined on arrival: a minimum of 2 weeks if conditions are met, otherwise 6 months or return. Pets from rabies-affected countries need rabies vaccination plus a titer. Arrival must be as manifest cargo.",
+  "summary": "A veterinary import permit from the National Biosecurity Agency is required for every dog and cat. Apply at least 4 months ahead from rabies-infected countries, or 4 weeks ahead from rabies-free countries. Confirm the health, quarantine and transport conditions with the National Biosecurity Agency before travel; they are set on the permit.",
   "at_a_glance": {
    "microchip": "Number required on application",
-   "rabies_vaccine": "Booster 30 days–12 months before",
-   "titer": "RNATT ≤6 months before departure",
-   "permit": "Apply 4 months ahead · valid 1 month",
-   "health_certificate": "Official, English or French",
-   "quarantine": "Minimum 2 weeks at Mahé"
+   "permit": "Apply 4 months ahead (rabies-infected origins)"
   },
   "steps": [
    {
-    "when": "5 months before",
-    "what": "Microchip, rabies vaccination and core vaccines"
-   },
-   {
     "when": "4+ months before",
-    "what": "RNATT blood test, at least 1 month after the primary rabies vaccine"
+    "what": "Apply for the import permit to the National Biosecurity Agency (4 weeks from rabies-free countries)"
    },
    {
-    "when": "4 months before",
-    "what": "Apply for the import permit to the National Biosecurity Agency"
-   },
-   {
-    "when": "2+ weeks before",
-    "what": "Book the quarantine station"
+    "when": "2 weeks after applying",
+    "what": "Phone the veterinary services if the permit has not arrived"
    },
    {
     "when": "Before travel",
-    "what": "Official health certificate and no-rabies locality certificate"
-   },
-   {
-    "when": "24 h before",
-    "what": "Confirm the quarantine booking"
+    "what": "Meet the conditions on the permit; originals go to the port of entry"
    }
   ],
   "key_points": [
-   "Listed breeds (e.g. German Shepherd, French Bulldog, Rottweiler, Doberman) must be sterilised",
-   "Non-compliant pets face 6 months' quarantine or return",
-   "All vaccinations at least 2 weeks before departure",
-   "Customs also needs an import permit from the Ministry of Finance"
+   "Permits cover one consignment only and are not transferable",
+   "Health, quarantine and transport conditions are set on the permit"
   ],
-  "private_jet_note": "Pets must arrive as manifest cargo in an IATA container, collected by a Veterinary Officer. Manifest the pet as cargo and confirm acceptance of the private flight in advance."
+  "private_jet_note": "Confirm with the National Biosecurity Agency, when applying for the permit, how a pet on a private flight will be cleared."
  },
  "SE": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "Valid 21 days after primary shot",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before entry",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Microchip, then rabies vaccine (pet at least 12 weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "21 days later",
-    "what": "Primary rabies vaccine becomes valid"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the USA: EU health certificate, endorsed; from the EU: EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry the owner's signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: document and ID check at the customs red channel"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 dogs, cats or ferrets per non-commercial movement",
-   "Pet must travel within 5 days of the owner's journey",
-   "From unlisted countries: titer test, then a 3-month wait",
-   "Young unvaccinated pets not accepted from the EU, and never from outside the EU"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU/EEA: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; certificate endorsed by official vet service"
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
   "private_jet_note": "From outside the EU, land at Stockholm-Arlanda or Gothenburg-Landvetter, the only pet points of entry, and present the pet for checks."
  },
@@ -5784,8 +5886,9 @@
    "Cabin pets need a rigid IATA crate; soft bags are not accepted"
   ],
   "export_points": [
-   "AVS publishes separate export procedures; not reviewed in detail"
-  ]
+   "Follow AVS's 'Exporting dogs and cats' procedures and the destination's rules"
+  ],
+  "private_jet_note": "AVS clears pets at the Changi Animal & Plant Quarantine Station. Before routing to Seletar, confirm with AVS (when the import licence is issued) where the inspection will take place."
  },
  "SH": {
   "summary": "St Helena accepts dogs and cats directly only from the UK (and Ascension). Since 2011, pets from South Africa or anywhere else must first go to the UK and travel on the UK export health certificate 3921EHC. That certificate requires a pet passport or 6 months' UK/Ireland residence, an age of more than 24 weeks, heartworm, Brucella, Leptospira, Ehrlichia, Babesia and hookworm testing, and deworming and fipronil treatments. Four dog types are banned, and there is no quarantine facility on the island.",
@@ -5793,7 +5896,7 @@
    "microchip": "Required, read at every exam",
    "rabies_vaccine": "Not required (advised for UK return)",
    "titer": "Not required by St Helena",
-   "permit": "Licence · £110 per pet from UK",
+   "permit": "Import licence from SHG Biosecurity",
    "health_certificate": "UK 3921EHC, exam ≤4 days before",
    "quarantine": "No facility on the island",
    "parasites": "2 dewormings + fipronil"
@@ -5833,99 +5936,97 @@
   "private_jet_note": "Only flights from the UK (or Ascension) are eligible; a direct jet from Africa, Europe or the US with a pet will be refused. Get SHG Biosecurity's written OK and a licence before booking."
  },
  "SI": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "Valid 21 days after primary shot",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before entry",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Microchip, then rabies vaccine (pet at least 12 weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "21 days later",
-    "what": "Primary rabies vaccine becomes valid"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the USA: EU health certificate, endorsed; from the EU: EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry the owner's signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: document and ID check at a point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 dogs, cats or ferrets per non-commercial movement",
-   "Pet must travel within 5 days of the owner's journey",
-   "From unlisted countries: titer test, then a 3-month wait",
-   "Young unvaccinated pets accepted from the EU with a declaration; never from outside the EU"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU/EEA: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; certificate endorsed by official vet service"
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
-  "private_jet_note": "From outside the EU, land at a designated pet point of entry. The official list was not reviewed in detail, so confirm the arrival airport in advance."
+  "private_jet_note": "From outside the EU, land only at a point of entry on the gov.si list. Confirm the arrival airport with the UVHVVR before routing."
  },
  "SK": {
-  "summary": "EU rules (Reg. (EU) 2026/131): from EU/EEA/Switzerland, a microchipped pet with valid rabies vaccination and EU pet passport; from a third country, an EU animal health certificate (plus rabies titer test if the country is unlisted) and entry via a travellers' point of entry.",
+  "summary": "EU rules (Delegated Regulation (EU) 2026/131): from another EU/EEA state, a microchipped pet with a valid rabies vaccination and an EU pet passport; from outside the EU, an EU animal health certificate (plus a rabies titer test with a 3-month wait if the country is not listed) and documentary and identity checks at a travellers' point of entry.",
   "at_a_glance": {
-   "microchip": "ISO, before rabies shot",
-   "rabies_vaccine": "Valid 21 days after primary shot",
+   "microchip": "ISO chip, before rabies shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required",
-   "health_certificate": "EU certificate ≤10 days before entry",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant",
    "parasites": "None required"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Microchip, then rabies vaccine (pet at least 12 weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
    },
    {
-    "when": "21 days later",
-    "what": "Primary rabies vaccine becomes valid"
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the USA: EU health certificate, endorsed; from the EU: EU pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry the owner's signed non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: document and ID check at a point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
-   "Max 5 dogs, cats or ferrets per non-commercial movement",
-   "Pet must travel within 5 days of the owner's journey",
-   "From unlisted countries: titer test, then a 3-month wait",
-   "Young unvaccinated pets accepted from the EU with a declaration; never from outside the EU"
+   "Max 5 pets per movement; each travels with the owner or within 5 days",
+   "From unlisted countries (e.g. Türkiye, Morocco, Israel, Thailand, South Africa): titer test plus a 3-month wait",
+   "Old-model EU certificates are accepted only if issued before 1 Oct 2026"
   ],
   "export_points": [
-   "To EU/EEA: EU pet passport from an authorised vet",
+   "To EU/EEA countries: EU pet passport from an authorised vet",
    "Dogs going to FI, IE, MT, NO or Northern Ireland also need tapeworm treatment",
-   "To non-EU countries: meet destination rules; certificate endorsed by official vet service"
+   "To non-EU countries: meet destination rules; the official vet service endorses certificates"
   ],
-  "private_jet_note": "From outside the EU, land at a pet point of entry: Bratislava, Košice, Piešťany, Poprad, Sliač or Žilina (2017 list)."
+  "private_jet_note": "From outside the EU, land at a pet point of entry: Bratislava, Košice, Piešťany, Poprad, Sliač or Žilina."
  },
  "SL": {
-  "summary": "Official UK guidance (certificate 6548, cleared 2005, still listed on GOV.UK) says to apply for a Sierra Leone import permit at least 6 weeks before export. The pet then travels with an official health certificate: exam within 48 hours, valid 7 days, rabies vaccination stated if given. This is old guidance and the Sierra Leone ministry's current rules were not found, so confirm before booking.",
+  "summary": "Official UK guidance (certificate 6548, cleared 2005, still listed on GOV.UK) says to apply for a Sierra Leone import permit at least 6 weeks before export. The pet then travels with an official health certificate: exam within 48 hours, valid 7 days, rabies vaccination stated if given. Confirm the current rules with Sierra Leone's Ministry of Agriculture before booking.",
   "at_a_glance": {
    "microchip": "Not required; recommended",
    "rabies_vaccine": "Strongly recommended",
@@ -5948,11 +6049,11 @@
    }
   ],
   "key_points": [
-   "Based on old UK guidance; current Sierra Leone rules not found, so confirm before booking"
+   "Confirm the current rules with the Ministry of Agriculture before booking"
   ]
  },
  "SM": {
-  "summary": "San Marino is an EU Annex I listed territory (pets from it enter the EU without titer test or point-of-entry check). No dedicated official import page was found; in practice pets arrive via Italy, so that country's EU entry rules apply (microchip, rabies vaccination, EU pet passport or EU health certificate; titer test from unlisted countries).",
+  "summary": "San Marino is an EU Annex I listed territory (pets from it enter the EU without a titer test or point-of-entry check). San Marino has no airport, so pets arrive via Italy and that country's EU entry rules apply (microchip, rabies vaccination, EU pet passport or EU health certificate; titer test from unlisted countries).",
   "at_a_glance": {
    "microchip": "ISO, before rabies shot",
    "rabies_vaccine": "Valid 21 days after primary shot",
@@ -5979,14 +6080,13 @@
    "Titer test needed only from unlisted countries"
   ],
   "export_points": [
-   "EU treats San Marino as listed: passport or certificate, no titer",
-   "Local export procedure not verified"
+   "EU treats San Marino as listed: passport or certificate, no titer"
   ]
  },
  "SN": {
   "summary": "Senegal requires an import permit (valid 3 months) and a health certificate. Under Decree 2002-1094 on animal health police, imported dogs and cats need an international zoo-sanitary certificate from an official vet of the exporting country plus an international rabies vaccination certificate dated more than 15 days and less than 1 year before import. For US-origin pets, APHIS says a health certificate (APHIS 7001) issued within 21 days of travel is accepted.",
   "at_a_glance": {
-   "rabies_vaccine": "21 days to under 1 year before",
+   "rabies_vaccine": "Over 15 days to under 1 year (US: 21+ days)",
    "permit": "Required · valid 3 months",
    "health_certificate": "US: APHIS 7001 ≤21 days before",
    "quarantine": "None stated; inspected on arrival"
@@ -5994,11 +6094,11 @@
   "steps": [
    {
     "when": "4–6 weeks before",
-    "what": "Email the ministry for an import permit (processing time not published)"
+    "what": "Email the ministry for an import permit (processing time is not published)"
    },
    {
-    "when": "21+ days before",
-    "what": "Check rabies vaccine is at least 21 days and under 1 year old at entry"
+    "when": "15+ days before (US: 21+)",
+    "what": "Check the rabies vaccine is old enough and under 1 year old at entry"
    },
    {
     "when": "≤21 days before",
@@ -6127,13 +6227,12 @@
   ]
  },
  "SY": {
-  "summary": "According to IATA Traveldoc, pets must have a health certificate in English authenticated in the origin country, and cats and dogs need a rabies vaccination certificate. No official Syrian veterinary source was found.",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
   "at_a_glance": {
-   "rabies_vaccine": "Certificate required",
-   "health_certificate": "In English, authenticated at origin"
+   "permit": "Check with Elysium Jet operations"
   },
   "key_points": [
-   "No official Syrian source found; verify current rules with operations before travel"
+   "No reliable official information found — check with Elysium Jet operations before booking."
   ]
  },
  "TC": {
@@ -6169,7 +6268,7 @@
   ]
  },
  "TG": {
-  "summary": "For US-origin pets (APHIS): microchip, current rabies vaccination, and a Togo-specific health certificate that USDA must ink-sign and emboss (no digital endorsement). No official rules were found for other origins or for an import permit.",
+  "summary": "For US-origin pets (APHIS): microchip, current rabies vaccination, and a Togo-specific health certificate that USDA must ink-sign and emboss (no digital endorsement). From other origins, and on any import permit, confirm with Togo's veterinary authority before travel.",
   "at_a_glance": {
    "microchip": "Required, verified by vet",
    "rabies_vaccine": "Current at export",
@@ -6191,7 +6290,7 @@
   ],
   "key_points": [
    "No digital endorsement: allow time for mail or an appointment",
-   "Rules found for US-origin pets only; no import permit information"
+   "From origins other than the US, and on any import permit, confirm with Togo's veterinary authority"
   ]
  },
  "TH": {
@@ -6207,11 +6306,11 @@
   "steps": [
    {
     "when": "5–6 weeks before",
-    "what": "Microchip and vaccines, at least 21 days before applying"
+    "what": "From scratch: microchip and vaccines, at least 21 days before applying"
    },
    {
-    "when": "30 days before",
-    "what": "Request the import permit from the arrival airport's AQS (7 days minimum)"
+    "when": "30 days before (7 days minimum)",
+    "what": "Request the import permit from the arrival airport's AQS"
    },
    {
     "when": "≤10 days before",
@@ -6231,10 +6330,11 @@
   "export_points": [
    "Microchip must be implanted before or on the day of the rabies vaccine",
    "Present pet and documents at the departure quarantine station, ideally 2–3 days before"
-  ]
+  ],
+  "private_jet_note": "Pets are cleared only at airports with an AQS office (Suvarnabhumi, Don Mueang, Chiang Mai, Phuket, Samui, Krabi), and the permit names the port of entry. Coordinate the AQS inspection with the FBO."
  },
  "TN": {
-  "summary": "Dogs and cats need an official health certificate (good health, no clinical signs of species-specific diseases) and a valid rabies vaccination given at least 30 days and at most 12 months before entry (Belgian foreign ministry). The certificate is checked at the border (IATA Timatic). Dangerous dogs such as pit bulls are prohibited. No Tunisian official page found.",
+  "summary": "Dogs and cats need an official health certificate (good health, no clinical signs of species-specific diseases) and a valid rabies vaccination given at least 30 days and at most 12 months before entry (Belgian foreign ministry). The certificate is checked at the border (IATA Timatic). Dangerous dogs such as pit bulls are prohibited.",
   "at_a_glance": {
    "rabies_vaccine": "30 days to 12 months before entry",
    "health_certificate": "Official, checked at the border"
@@ -6316,7 +6416,8 @@
    "PETVET registration and pet passport; health certificate within 48 hours of departure",
    "Native breeds (e.g. Kangal, Van cat) need permission to leave; 'mix' passports rejected",
    "FAVN titer at Etlik lab if the destination requires it"
-  ]
+  ],
+  "private_jet_note": "Pets must enter through a Ministry-approved veterinary border post (Istanbul Airport confirmed). Confirm a veterinary post is on duty before routing to Bodrum, Dalaman or Antalya."
  },
  "TT": {
   "summary": "Apply for an import permit from the Chief Veterinary Officer at least 1 month ahead. Pets need an ISO microchip before rabies vaccination, a FAVN/RFFIT drawn at least 1 month after vaccination (lab emails results directly), a Brucella test for intact dogs, parasite treatment, a USDA-endorsed certificate within 7 days of arrival, and 2 working days' notice.",
@@ -6401,7 +6502,7 @@
  "TZ": {
   "summary": "Get an import permit by writing to the Director of Veterinary Services, then travel with an official health certificate and vaccination records (rabies given at least 1 month and no more than 3 years before entry). For US-origin pets (APHIS), the certificate must be USDA-endorsed and is valid 30 days.",
   "at_a_glance": {
-   "microchip": "Recommended, not required",
+   "microchip": "Not required",
    "rabies_vaccine": "1 month to 3 years before entry",
    "permit": "Required · letter to vet director",
    "health_certificate": "US: USDA-endorsed, valid 30 days",
@@ -6427,11 +6528,12 @@
   ],
   "key_points": [
    "Permit letter must state breed, age and port of entry, with vaccine certificates attached",
-   "Zanzibar may have separate rules; none were found"
+   "For Zanzibar, confirm the rules with the Zanzibar authorities"
   ],
   "export_points": [
    "An export permit is needed to take the pet out of Tanzania"
-  ]
+  ],
+  "private_jet_note": "Animals may enter only through designated ports: confirm with the Director of Veterinary Services that the arrival airport is one before routing."
  },
  "UA": {
   "summary": "International certificate for non-commercial movement (up to 5 pets): ISO microchip, current rabies vaccination, and, per the US-origin model certificate, a rabies titer test. Ukrainian airspace is closed to civil flights, so entry is overland only.",
@@ -6467,7 +6569,7 @@
    "Airspace closed to civil flights: fly to a neighbour (e.g. Poland, Moldova) and cross by land",
    "Up to 5 pets per non-commercial movement",
    "Pets under 12 weeks must not be vaccinated; 12–16 weeks need a declaration or vaccinated mother",
-   "Titer rules for EU origins unverified; confirm with the Ukrainian authority"
+   "From the EU, confirm the titer requirement with the DPSS before travel"
   ]
  },
  "UG": {
@@ -6589,18 +6691,18 @@
   ]
  },
  "UZ": {
-  "summary": "For US origin: a microchip, a current rabies vaccination, and a veterinary health certificate issued by an accredited vet and APHIS-endorsed (valid 30 days after issuance). Rules for other origins were not verified.",
+  "summary": "For US origin: a microchip, a current rabies vaccination, and a veterinary health certificate issued by an accredited vet and APHIS-endorsed (valid 30 days after issuance). From other origins, confirm the conditions with the veterinary authority before travel.",
   "at_a_glance": {
    "microchip": "Required",
    "rabies_vaccine": "Current at export",
    "health_certificate": "APHIS-endorsed, valid 30 days"
   },
   "key_points": [
-   "Rules verified for US-origin pets only"
+   "From origins other than the US, confirm the conditions with the veterinary authority"
   ]
  },
  "VA": {
-  "summary": "Vatican City is an EU Annex I listed territory (pets from it enter the EU without titer test or point-of-entry check). No dedicated official import page was found; in practice pets arrive via Italy (Rome), so that country's EU entry rules apply (microchip, rabies vaccination, EU pet passport or EU health certificate; titer test from unlisted countries).",
+  "summary": "Vatican City is an EU Annex I listed territory (pets from it enter the EU without a titer test or point-of-entry check). Vatican City has no airport, so pets arrive via Italy (Rome) and that country's EU entry rules apply (microchip, rabies vaccination, EU pet passport or EU health certificate; titer test from unlisted countries).",
   "at_a_glance": {
    "microchip": "ISO, before rabies shot",
    "rabies_vaccine": "Valid 21 days after primary shot",
@@ -6627,8 +6729,7 @@
    "Titer test needed only from unlisted countries"
   ],
   "export_points": [
-   "EU treats Vatican City as listed: passport or certificate, no titer",
-   "Local export procedure not verified"
+   "EU treats Vatican City as listed: passport or certificate, no titer"
   ]
  },
  "VC": {
@@ -6669,10 +6770,9 @@
   ]
  },
  "VE": {
-  "summary": "Dogs and cats need an official international veterinary certificate from the origin country with rabies and core vaccinations and deworming; INSAI is the competent authority. No official Venezuelan source could be verified — details below come from SENASA Argentina's destination page; confirm with INSAI.",
+  "summary": "Dogs and cats need an official international veterinary certificate from the origin country with rabies and core vaccinations and deworming; INSAI is the competent authority. These details come from SENASA Argentina's destination page; confirm them with INSAI before travel.",
   "at_a_glance": {
    "rabies_vaccine": "Current, valid 1 year",
-   "permit": "Unclear; may be required",
    "health_certificate": "Official CVI, valid 30 days",
    "parasites": "Internal + external ≤3 months"
   },
@@ -6695,10 +6795,10 @@
    }
   ],
   "key_points": [
-   "No official Venezuelan source verified; details come from Argentina's SENASA, so confirm with INSAI"
+   "Details come from Argentina's SENASA; confirm them with INSAI before travel"
   ],
   "export_points": [
-   "No reliable official information; INSAI issues departure certificates, check with operations"
+   "INSAI issues departure certificates; confirm the procedure with INSAI"
   ]
  },
  "VG": {
@@ -6898,31 +6998,35 @@
   ]
  },
  "YT": {
-  "summary": "Mayotte is a French department in the EU, and the EU non-commercial pet rules apply (Reg. (EU) 576/2013), as confirmed by the DAAF de Mayotte information sheet. From mainland France or the DOMs, a microchip and EU pet passport are enough. From another EU state, the pet also needs a valid rabies vaccination. From third countries (including the USA), the pet needs a microchip, valid rabies vaccination and an EU health certificate signed by an official vet of the origin country, plus a rabies titer unless the country is on the exempt list (the USA is exempt). Category 1 'attack' dogs are banned, and category 2 dogs need prefectoral authorisation.",
+  "summary": "Mayotte is a French department in the EU, so EU pet rules under Delegated Regulation (EU) 2026/131 apply, as confirmed by DAAF de Mayotte. From mainland France or the overseas departments, a microchip and EU pet passport are enough; from another EU state, the pet also needs a valid rabies vaccination. From outside the EU (including the USA), the pet needs a microchip, valid rabies vaccination and an EU animal health certificate, plus a rabies titer unless the country is EU-listed (the USA is listed). Category 1 'attack' dogs are banned, and category 2 dogs need prefectoral authorisation.",
   "at_a_glance": {
    "microchip": "Required (tattoo if pre-3 Jul 2011)",
-   "rabies_vaccine": "Valid 21 days after primary shot",
+   "rabies_vaccine": "≥21 days before entry, at 12+ weeks",
    "titer": "Not required from US/EU",
    "permit": "Not required (except category 2)",
-   "health_certificate": "EU cert ≤10 days (non-EU origin)",
+   "health_certificate": "EU passport, or EU certificate ≤10 days (non-EU)",
    "quarantine": "None if compliant"
   },
   "steps": [
    {
     "when": "4+ weeks before",
-    "what": "Microchip, then rabies vaccine (pet 12+ weeks old)"
+    "what": "ISO microchip, then rabies vaccine (pet 12+ weeks old)"
+   },
+   {
+    "when": "21 days after vaccine",
+    "what": "Primary rabies vaccination becomes valid"
    },
    {
     "when": "≤10 days before",
-    "what": "From the USA: EU health certificate, endorsed by APHIS; from EU: pet passport"
+    "what": "From the US: EU health certificate endorsed by USDA APHIS; from the EU: EU pet passport"
    },
    {
     "when": "Day of travel",
-    "what": "Carry the owner's non-commercial declaration"
+    "what": "Carry the signed non-commercial declaration (non-EU origins)"
    },
    {
     "when": "On arrival",
-    "what": "From outside the EU: check at an EU travellers' point of entry"
+    "what": "From outside the EU: document and identity check at a travellers' point of entry"
    }
   ],
   "key_points": [
@@ -6931,7 +7035,7 @@
    "Max 5 dogs, cats or ferrets per non-commercial movement",
    "Unvaccinated pets under 3 months cannot enter"
   ],
-  "private_jet_note": "Third-country arrivals need an EU point-of-entry check: confirm with DAAF Mayotte and customs that Dzaoudzi-Pamandzi can carry it out for a private flight."
+  "private_jet_note": "From outside the EU, the pet needs an EU point-of-entry check: confirm with DAAF Mayotte and customs that Dzaoudzi-Pamandzi can carry it out for a private flight."
  },
  "ZA": {
   "summary": "A veterinary import permit from the Department of Agriculture (Food Import & Export Standards / Animal Health) is required for every dog and cat. The permit, which lists the exact conditions and the authorised port of entry, must be in place before departure. Pets must arrive as manifested cargo at an airport with state veterinary inspection (Johannesburg O.R. Tambo, Cape Town, Durban King Shaka). Dogs need a series of pre-import blood tests.",
@@ -7012,7 +7116,7 @@
  "ZW": {
   "summary": "UK official guidance (revised Dec 2023) says no dog or cat may enter Zimbabwe except under an import permit from the Director of Veterinary Services, Harare. The pet needs an official health certificate (exam within 48 hours, valid 7 days). Rabies vaccination is not a pre-export condition, but dogs not vaccinated before arrival must be vaccinated by a Government Veterinary Officer, and pre-travel vaccination is advised.",
   "at_a_glance": {
-   "microchip": "Recommended, not required",
+   "microchip": "Not required",
    "rabies_vaccine": "Advised; ≤12 months if given",
    "permit": "Required · Director, Harare",
    "health_certificate": "Exam ≤48 h before, valid 7 days",
@@ -7020,7 +7124,7 @@
   },
   "steps": [
    {
-    "when": "2–3 weeks before",
+    "when": "Well before",
     "what": "Apply to the Director of Veterinary Services for an import permit"
    },
    {
@@ -7033,8 +7137,7 @@
    }
   ],
   "key_points": [
-   "Unvaccinated dogs must be vaccinated by a Government Veterinary Officer after arrival",
-   "Reported US$150 fee and SADC exemptions come from unofficial sources"
+   "Unvaccinated dogs must be vaccinated by a Government Veterinary Officer after arrival"
   ]
  }
 }
