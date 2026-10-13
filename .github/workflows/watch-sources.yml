@@ -1,0 +1,48 @@
+name: Watch official sources
+
+on:
+  schedule:
+    - cron: "0 5 * * 1" # Mondays 05:00 UTC, before the weekly research run
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check official pages for changes
+        run: python3 tools/watch_sources.py
+
+      - name: Open an issue per country whose official page changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'EOF'
+          import json, subprocess
+          changes = json.load(open("state/changes.json"))["changed"]
+          for cc, urls in sorted(changes.items()):
+              title = f"[source-changed] {cc}"
+              existing = subprocess.run(["gh", "issue", "list", "--state", "open", "--search", f'"{title}" in:title', "--json", "number"],
+                                        capture_output=True, text=True).stdout
+              if json.loads(existing or "[]"):
+                  continue
+              body = "The official page(s) cited for this country changed. Re-verify the entry in research/.\n\n" + "\n".join(f"- {u}" for u in urls)
+              subprocess.run(["gh", "issue", "create", "--title", title, "--body", body, "--label", "source-changed"], check=False)
+          EOF
+
+      - name: Commit updated hashes
+        run: |
+          git config user.name "petrules-bot"
+          git config user.email "petrules-bot@users.noreply.github.com"
+          git add state/
+          git diff --cached --quiet || git commit -m "Update official source hashes"
+          git push

@@ -1,0 +1,477 @@
+[
+  {
+    "cc": "AR",
+    "name": "Argentina",
+    "status": "requirements",
+    "summary": "Accompanied dogs and cats need an International Veterinary Certificate (CVI) issued or endorsed by the official veterinary authority of the origin country (Mercosur rules), presented to SENASA on arrival. Accompanied pets need no prior import permit.",
+    "microchip": "Not required by SENASA for entry (no microchip requirement on SENASA entry page). If present, record on CVI.",
+    "vaccinations": [
+      "Rabies: required, with a vaccine authorized in the origin country and still valid on the day of entry; a first (primary) vaccination must be given at least 21 days before entry.",
+      "Puppies/kittens under 3 months: may enter unvaccinated if the origin authority certifies age and no exposure to urban rabies in the prior 90 days. Animals from WOAH rabies-free countries/zones are exempt if stated on the CVI."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Internal and external broad-spectrum antiparasitic treatment within 15 days before CVI issue (or passport endorsement), with products approved in the origin country; record product, active ingredient, date.",
+    "documents": [
+      "Original CVI from the origin country's official veterinary authority (Spanish must be one of the languages), valid 60 calendar days from issue provided rabies vaccination remains valid",
+      "Clinical exam by a registered vet within 10 days before CVI issue (stated on the CVI)",
+      "Alternatively: a valid official pet passport endorsed by the origin's veterinary authority before shipment, containing the same health data (Spanish or English accepted)"
+    ],
+    "import_permit": "Not required for pets accompanying their owner. Pets shipped as cargo (unaccompanied) require a prior SENASA border-intervention request at least 24 business hours in advance and pay the internment fee.",
+    "quarantine": "None routinely. Non-compliant animals may be retained or subjected to sanitary measures at the owner's cost.",
+    "timeline": "Plan at least 4 weeks before travel: rabies (≥21 days if first dose) → antiparasitic treatment within 15 days of CVI → vet exam within 10 days of CVI → official CVI/endorsement in origin country → SENASA document/identity check on arrival.",
+    "restricted_breeds": "SENASA states no breed restrictions for dogs or cats.",
+    "private_aviation": "SENASA performs documentary, physical and identity checks at the point of entry; no cost for accompanied pets. Confirm SENASA availability at the arrival airport/FBO before booking.",
+    "export": "Leaving Argentina: SENASA issues the CVI based on destination requirements. Book a SENASA appointment online (up to 30 days ahead), bring private-vet health certificate and vaccination records (originals + copies). For Ezeiza, documents can be emailed up to 10 days before the flight. CVI validity 5/10/up to 60 days depending on destination; returning pets may re-enter Argentina within 60 days on the SENASA-issued CVI if rabies is valid.",
+    "authority": "SENASA (Servicio Nacional de Sanidad y Calidad Agroalimentaria)",
+    "sources": [
+      "https://www.argentina.gob.ar/node/103227",
+      "https://www.argentina.gob.ar/noticias/vacaciones-de-invierno-cinco-pasos-para-viajar-con-mascotas-desde-la-argentina",
+      "https://www.gov.br/agricultura/pt-br/assuntos/vigilancia-agropecuaria/animais-estimacao/portaria-mapa-no-741_2024-caninos-e-felinos-domesticos-1.pdf",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-argentina"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BO",
+    "name": "Bolivia",
+    "status": "requirements",
+    "summary": "Dogs and cats need an individual zoosanitary certificate from the origin country's official veterinary authority (in Spanish); SENASAG also lists a Zoosanitary Import Permit (PZI) to be obtained before shipment via VUCE, with final certification on arrival. Official guidance is dated and partly inconsistent — confirm with SENASAG.",
+    "microchip": "Not stated in SENASAG documents found.",
+    "vaccinations": [
+      "Rabies: required for animals over 3 months (SENASAG third-country requirements, 2017 document).",
+      "Dogs: distemper, canine hepatitis, leptospirosis (canicola, icterohaemorrhagiae), parvovirus and coronavirus, parainfluenza.",
+      "Cats: feline panleukopenia.",
+      "The 2017 SENASAG text says vaccinations are to be given within 60 days before shipment, with product, type and date stated — interpretation unclear; confirm with SENASAG."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Internal and external parasites treated within 30 days before shipment (SENASAG 2017 document).",
+    "documents": [
+      "Individual zoosanitary certificate from the origin country's official veterinary authority, in Spanish (EU pet passports accepted in place of it per SENASAG regulation)",
+      "Inspection and identification by an official vet at embarkation (no tumours, fresh wounds, ectoparasites or signs of transmissible disease)",
+      "From the US: APHIS 7001 issued no more than 3 months before arrival, APHIS-endorsed, then legalized at a Bolivian consulate (per USDA APHIS)"
+    ],
+    "import_permit": "SENASAG Permiso Zoosanitario de Importación (PZI) listed on VUCE: form SENASAG-IMP-FOR-001, letter to the SENASAG departmental head, origin certificate copy, payment proof; certification issued on arrival at destination customs. Whether it is enforced for accompanied personal pets is unclear — confirm.",
+    "quarantine": "SENASAG may require supervised quarantine of at least 30 days after entry if deemed necessary.",
+    "timeline": "Plan at least 6 weeks before travel: confirm PZI need with SENASAG → vaccinations and parasite treatment → official origin certificate (and consular legalization from the US) → SENASAG inspection on arrival.",
+    "restricted_breeds": null,
+    "private_aviation": "Confirm with SENASAG that an inspector will attend the private arrival; certification is issued at destination customs.",
+    "export": "No reliable official SENASAG export procedure found — check with Elysium Jet operations / SENASAG.",
+    "authority": "SENASAG (Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria)",
+    "sources": [
+      "https://www.vuce.gob.bo/es/SENASAG_importacion_perros_gatos_requisitos",
+      "https://www.senasag.gob.bo/index.php/institucional/unidades-nacionales/administracion/area-nacional-de-recursos-humano/category/5349-sanidad-animal?download=2278:requisitos-sanitarios-para-importar-animales-de-compania-terceros-paises",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-bolivia",
+      "https://www.argentina.gob.ar/senasa/requisitos-particulares-por-destino/bolivia"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BR",
+    "name": "Brazil",
+    "status": "requirements",
+    "summary": "Dogs and cats need an original International Veterinary Certificate (CVI) on the official model of Portaria MAPA 741/2024 (Mercosur GMC Res. 20/24, mandatory since 06/09/2025) or a valid official passport, issued/endorsed by the origin country's veterinary authority; VIGIAGRO checks on arrival. No import permit for dogs and cats.",
+    "microchip": "Not mandatory under Mercosur rules; if electronic ID is used it must be ISO 11784/11785 and its anatomical location stated on the CVI.",
+    "vaccinations": [
+      "Rabies: all animals aged 90 days or more, with a vaccine authorized in the country of application and within its validity; primary vaccination must be at least 21 days before embarkation (animals not revaccinated before expiry count as primary).",
+      "Under 90 days: may enter unvaccinated if the CVI certifies age and no contact with urban rabies in the last 90 days.",
+      "Animals from WOAH-recognised rabies-free countries/zones are exempt if Brazil recognises the status and it is certified on the CVI."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Broad-spectrum treatment against internal AND external parasites within 15 days before CVI issue (date, lab, brand, active ingredient recorded separately for each).",
+    "documents": [
+      "Original CVI on the Mercosur/Portaria 741 model (old-format certificates may be refused), valid 60 days from issue while rabies vaccination is valid",
+      "Clinical exam by a registered vet within 10 days before CVI issue (certified on CVI)",
+      "Or: official passport valid in the issuing country, containing all CVI data",
+      "From the US: APHIS-endorsed certificate valid 60 days from accredited vet signature, valid on arrival (per USDA APHIS)"
+    ],
+    "import_permit": "Not required for dogs and cats. Other pets (rabbits, ferrets, rodents, etc.) need MAPA import authorization from the SFA of the destination state.",
+    "quarantine": "None routinely. Non-compliance may lead to refusal, re-export, retention or other measures at the owner's cost. Brazil may refuse animals previously diagnosed with leishmaniasis.",
+    "timeline": "Plan at least 4 weeks before travel: rabies (≥21 days if primary) → antiparasitic within 15 days of CVI → vet exam within 10 days of CVI → official CVI/endorsement → VIGIAGRO check on arrival.",
+    "restricted_breeds": null,
+    "private_aviation": "Present the pet and original CVI to VIGIAGRO (MAPA) at the international point of entry; confirm VIGIAGRO coverage at the arrival airport/FBO in advance.",
+    "export": "Leaving Brazil: VIGIAGRO (MAPA) issues the CVI per destination requirements. Request online via gov.br (Bronze/Silver/Gold account), with vaccination record and destination-specific documents; free; review about 48 h; digitally signed PDF. Brazilian pet passport exists (IN MAPA 54/2013). A Brazil-issued CVI allows re-entry to Brazil within 60 days if rabies is valid. Queries: cvi.vigiagro@agro.gov.br.",
+    "authority": "MAPA – Ministério da Agricultura e Pecuária / VIGIAGRO",
+    "sources": [
+      "https://www.gov.br/agricultura/pt-br/assuntos/vigilancia-agropecuaria/animais-estimacao/entrar-no-brasil",
+      "https://www.gov.br/agricultura/pt-br/assuntos/vigilancia-agropecuaria/animais-estimacao/portaria-mapa-no-741_2024-caninos-e-felinos-domesticos-1.pdf",
+      "https://www.gov.br/pt-br/servicos/viajar-para-outro-pais-com-seu-cao-ou-gato-chile-cvi",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-brazil"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "CL",
+    "name": "Chile",
+    "status": "requirements",
+    "summary": "Under SAG Res. 3.343/2026 (amended by Res. 5.444/2026, in force since 27 July 2026), dogs and cats need permanent ID (microchip or tattoo), rabies vaccination, internal/external deworming 5–30 days before CVI issue, and an original CVI valid 10 days (+5 max) from the origin's official authority. SAG checks on arrival.",
+    "microchip": "Mandatory permanent individual ID: microchip (ISO 11784/11785) or tattoo; number must match the CVI.",
+    "vaccinations": [
+      "Rabies: mandatory. Primary-vaccinated animals (first dose, or last dose given after the previous one expired), regardless of age, must be vaccinated at least 21 days before entry to Chile.",
+      "Non-primary animals: CVI must certify the last 2 rabies doses (otherwise treated as primary).",
+      "Exemption: animals that lived since birth or ≥6 continuous months in a country free of dog-transmitted rabies recognised by Chile, certified by the origin authority."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Broad-spectrum treatment effective against internal AND external parasites between 5 and 30 days before CVI issue; CVI must state date, trade name, active ingredient and dose of each product.",
+    "documents": [
+      "Original CVI from the origin country's competent veterinary authority, in Spanish plus origin language or English; valid 10 days from issue, extendable max 5 days depending on travel",
+      "Clinical exam by a vet within 10 days before CVI issue",
+      "CVI must include species, breed, sex, age, ID number, neutered status, owner details, transport mode, whether accompanied, last 2 rabies vaccinations (serial, lab, validity), antiparasitic details",
+      "From EU countries: EU pet passport (Spanish or English) accepted if it shows compliance"
+    ],
+    "import_permit": "Not required for dogs and cats (ferrets need a SAG wildlife import authorization).",
+    "quarantine": "No fixed quarantine in the resolution; if requirements are not met SAG may apply sanitary measures at any authorised entry point at the importer's cost, plus sanctions.",
+    "timeline": "Plan at least 4–5 weeks before travel: microchip → rabies (≥21 days before entry if primary) → antiparasitic 5–30 days before CVI → vet exam within 10 days of CVI → official CVI (valid 10+5 days) → SAG inspection on arrival.",
+    "restricted_breeds": "None for import (SENASA Argentina destination page: not contemplated).",
+    "private_aviation": "Pets must be presented at an authorised border control point with SAG presence; confirm SAG inspection at the arrival airport/FBO in advance. Note the very short 10-day CVI window.",
+    "export": "Leaving Chile: SAG issues a Certificado Zoosanitario de Exportación (CZE). Pets returning to Chile may re-enter within 60 calendar days of CZE issue with the original/official copy, if rabies is valid and the animal has permanent ISO microchip or tattoo; trips longer than 60 days require full import requirements.",
+    "authority": "SAG (Servicio Agrícola y Ganadero)",
+    "sources": [
+      "https://www.diariooficial.interior.gob.cl/publicaciones/2026/04/28/44436/01/2800387.pdf",
+      "https://www.diariooficial.interior.gob.cl/publicaciones/2026/06/18/44478/01/2824595.pdf",
+      "https://www.chileatiende.gob.cl/fichas/2602-autorizacion-sanitaria-para-ingresar-a-chile-con-perros-gatos-y-hurones",
+      "https://www.argentina.gob.ar/senasa/requisitos-particulares-por-destino/chile"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "CO",
+    "name": "Colombia",
+    "status": "requirements",
+    "summary": "Dogs and cats need an official health certificate from the origin country dated no more than 10 calendar days before entry, current vaccinations (rabies plus core vaccines) and deworming within 60 days; on arrival ICA inspects and issues the Certificado de Inspección Sanitaria (CIS). Pre-registration in ICA's SISPAP system is available to speed clearance.",
+    "microchip": "Not mentioned in ICA entry requirements.",
+    "vaccinations": [
+      "Rabies: vaccine name, lot, date and validity certified; primary vaccination at least 21 days before embarkation. If the origin country does not vaccinate against rabies, home quarantine and vaccination in Colombia.",
+      "Dogs: distemper, canine hepatitis, leptospirosis (canicola, icterohaemorrhagiae), parvovirus, coronavirus, parainfluenza.",
+      "Cats: panleukopenia, viral rhinotracheitis, calicivirus.",
+      "Minimum age for entry: 15 weeks."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Internal and external antiparasitic treatment within 60 days before the trip; product name, active ingredient and date on the certificate.",
+    "documents": [
+      "Health certificate issued or endorsed by the origin country's official veterinary authority (original seal/signature or electronic signature), dated ≤10 calendar days before entry, stating animal is free of infectious/parasitic disease and fit to travel",
+      "Current vaccination certificate",
+      "Pre-CIS request and payment receipt (if done in SISPAP); one request per species, up to 10 animals",
+      "From the US: APHIS-endorsed health certificate within 10 days of travel plus rabies certificate; no consular stamp needed (per USDA APHIS)"
+    ],
+    "import_permit": "No ICA import permit for personal pet dogs and cats; ICA issues the CIS on arrival after documentary and physical inspection. Fee paid online via SISPAP (Colombian bank account) or by card at the ICA office (no cash).",
+    "quarantine": "Only if non-compliant: retention, home quarantine, re-shipment or euthanasia at owner's cost.",
+    "timeline": "Plan at least 4 weeks before travel (ICA suggests starting early): vaccinations (rabies ≥21 days if first) → deworming within 60 days → official health certificate ≤10 days before entry → SISPAP Pre-CIS + payment → ICA inspection on arrival.",
+    "restricted_breeds": null,
+    "private_aviation": "ICA offices operate at international airports, border crossings and seaports; for arrivals outside ICA hours, Sundays or holidays, tick 'Servicio Especial' in the SISPAP Pre-CIS request.",
+    "export": "Leaving Colombia: ICA issues an export CIS only at its airport/port/border offices; the request is filed in SISPAP (by the owner or private vet) with health and vaccination certificates plus destination-specific annexes. Framework: ICA Res. 100164 of 2021. Five or more animals per user are treated as commercial.",
+    "authority": "ICA (Instituto Colombiano Agropecuario)",
+    "sources": [
+      "https://www.ica.gov.co/importacion-y-exportacion/otros-procedimientos/requisitos-para-importar-mascotas/ingreso-de-perros-y-gatos-a-colombia",
+      "https://www.ica.gov.co/importacion-y-exportacion/otros-procedimientos/requisitos-para-importar-mascotas/guia-de-registro-de-viajero-importador-y-pago-del.aspx",
+      "https://www.ica.gov.co/importacion-y-exportacion/otros-procedimientos/registro-de-viajero-exportador-y-pago.aspx",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-colombia"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "EC",
+    "name": "Ecuador",
+    "status": "requirements",
+    "summary": "Dogs and cats need an official zoosanitary export certificate from the origin country (in Spanish) covering vaccinations, deworming within 21 days and a clinical exam within 10 days; Agrocalidad inspects on arrival. GALÁPAGOS: entry of pets is generally prohibited by the Galápagos biosecurity agency (ABG).",
+    "microchip": "Identification by name, tattoo or microchip (Agrocalidad general requirements, as reported by SENASA Argentina).",
+    "vaccinations": [
+      "Rabies: animals over 3 months; vaccines must be current. Agrocalidad documents differ on timing (no vaccine within 21 days before embarkation in the 2021 Americas sheet vs. 14 days after application in the 2023 general sheet) — confirm.",
+      "Dogs: distemper, canine hepatitis, leptospirosis, parvovirus (per SENASA Argentina destination page citing Agrocalidad).",
+      "Cats: rhinotracheitis, panleukopenia, calicivirus.",
+      "Animals under 3 months not permitted."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Internal and external parasites treated within 21 days before embarkation; date and active ingredient stated.",
+    "documents": [
+      "Official zoosanitary (export) certificate from the origin country's veterinary authority, in Spanish, issued no more than 10 calendar days before entry",
+      "Clinical exam by authorised vet within 10 days before embarkation",
+      "Vaccination and antiparasitic record; owner passport and contact details"
+    ],
+    "import_permit": "Agrocalidad Permiso Zoosanitario de Importación applies to pets arriving as cargo (documents emailed to the arrival airport 72 h before arrival; inspection at SENAE warehouse; fee per Agrocalidad tariff). Pets travelling with the passenger (cabin) or by land need only the origin export certificate (per Agrocalidad, as quoted) — confirm for private flights.",
+    "quarantine": null,
+    "timeline": "Plan at least 4–5 weeks before travel: vaccinations (avoid any vaccine in the final 14–21 days) → deworming within 21 days → official certificate ≤10 days before entry → email Agrocalidad airport office 72 h before arrival → inspection on arrival.",
+    "restricted_breeds": null,
+    "private_aviation": "Notify the Agrocalidad airport office ≥72 h before arrival: Quito (aeropuerto.quito@agrocalidad.gob.ec) or Guayaquil (aeropuerto.guayaquil@agrocalidad.gob.ec); permits delivered 24/7 with prior email notice. Do NOT plan pet carriage to Galápagos (pets generally prohibited by ABG).",
+    "export": "Leaving Ecuador: Agrocalidad issues the Certificado Zoosanitario de Exportación per destination requirements; start at least 72 h before travel with a health certificate from a registered private vet (press reports; official page not accessible).",
+    "authority": "Agrocalidad (Agencia de Regulación y Control Fito y Zoosanitario); Galápagos: ABG (Agencia de Regulación y Control de la Bioseguridad para Galápagos)",
+    "sources": [
+      "https://www.gob.ec/arcfz/tramites/solicitud-permiso-zoosanitario-importacion-animales-compania",
+      "https://www.agrocalidad.gob.ec/ingreso-al-ecuador-de-animales-de-compania-perros-y-gatos/",
+      "https://www.agrocalidad.gob.ec/wp-content/uploads/2023/02/REQUISITOS-ZOOSANITARIOS-PARA-IMPORTACI%C3%93N-DE-PERROS-Y-GATOS-AL-ECUADOR.pdf",
+      "https://www.argentina.gob.ar/senasa/requisitos-particulares-por-destino/ecuador",
+      "https://www.gob.ec/abg"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "FK",
+    "name": "Falkland Islands",
+    "status": "requirements",
+    "summary": "Live animals, including pets, may only enter under an import licence issued by the Falkland Islands Veterinary Service and with veterinary health certification; all live animals undergo quarantine after arrival. Detailed pet conditions are not published — contact the Veterinary Service well in advance.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": "Not published for imports. Note: all dogs on the Islands are dosed with praziquantel every five weeks under the hydatid control programme.",
+    "documents": [
+      "Import licence from the Veterinary Service (Department of Agriculture)",
+      "Veterinary health certification from the exporting country as specified in the licence"
+    ],
+    "import_permit": "Required: import licence from the Veterinary Service (tel. +500 27366).",
+    "quarantine": "All live animals undergo a period of quarantine after arrival; duration not published.",
+    "timeline": "Plan at least 3 months before travel: contact Veterinary Service → obtain import licence and its specific conditions → health certification in origin country → quarantine on arrival.",
+    "restricted_breeds": null,
+    "private_aviation": "Confirm with the Department of Agriculture how quarantine/inspection is handled for private arrivals before booking.",
+    "export": "Contact the Department of Agriculture Veterinary Service; no published pet export procedure found.",
+    "authority": "Falkland Islands Government – Department of Agriculture, Veterinary Service / Biosecurity",
+    "sources": [
+      "https://www.gov.fk/agriculture/veterinary-services/",
+      "https://www.gov.fk/agriculture/wp-content/uploads/sites/28/2026/03/Importers-Guide-2020.pdf",
+      "https://www.gov.fk/agriculture/biosecurity/importing-exporting/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GF",
+    "name": "French Guiana",
+    "status": "requirements",
+    "summary": "French Guiana is an EU outermost region (France), so EU non-commercial pet rules (Delegated Reg. (EU) 2026/131) apply to arrivals from non-EU countries: ISO microchip, rabies vaccination, EU animal health certificate and, from countries not listed in Implementing Reg. (EU) 2026/636 (e.g. Brazil, Suriname, Guyana), a rabies titer test. USDA APHIS lists simpler rules — confirm with DAAF Guyane.",
+    "microchip": "Required (ISO-compliant per Reg. 2026/132), implanted before rabies vaccination; tattoo accepted only if applied before 3 July 2011.",
+    "vaccinations": [
+      "Rabies: at least 12 weeks old at vaccination; valid from 21 days after primary vaccination; boosters within validity.",
+      "USDA APHIS page (US origin) instead states: valid rabies certificate signed by a licensed vet; first vaccination or lapsed boosters more than 30 days before travel; max 3 animals per family, only one under 6 months."
+    ],
+    "rabies_titer": "Required from non-listed countries (Brazil, Suriname, Guyana and most of South America except Argentina, Chile, Falklands, which are in Annex II of Reg. 2026/636; US also listed): blood drawn ≥30 days after vaccination and ≥90 days before certificate issue, ≥0.5 IU/ml at an EU-designated lab.",
+    "parasite_treatment": null,
+    "documents": [
+      "EU animal health certificate (Reg. 2026/705 model; certificates under old Reg. 577/2013 accepted if issued before 1 Oct 2026), endorsed by origin authority, valid 10 days to entry checks",
+      "Owner's declaration of non-commercial movement",
+      "Titer test report where required",
+      "Max 5 pets; owner must travel with pet (or within 5 days)"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "From non-listed countries plan at least 4 months: microchip → rabies → titer blood draw ≥30 days later → wait ≥90 days → EU health certificate within 10 days of arrival. From listed countries (US, AR, CL): at least 4 weeks.",
+    "restricted_breeds": "French national dangerous-dog rules (categories 1 and 2) apply in French territory; check before travel.",
+    "private_aviation": "EU rules require entry via a designated travellers' point of entry with documentary/identity checks; confirm with DAAF Guyane (SALIM) which airport applies for private arrivals.",
+    "export": "Leaving French Guiana: requirements depend on destination; travel to mainland EU is intra-EU (EU pet passport). Contact DAAF Guyane.",
+    "authority": "DAAF Guyane (French Ministry of Agriculture) under EU legislation",
+    "sources": [
+      "https://food.ec.europa.eu/animals/movement-pets/eu-legislation/non-commercial-movement-non-eu-countries_en",
+      "https://food.ec.europa.eu/animals/movement-pets/eu-legislation/listing-territories-and-non-eu-countries_en",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-french-guyana"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "status": "unknown",
+    "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": null,
+    "restricted_breeds": null,
+    "private_aviation": "No airport/airstrip; access is by sea only and strictly controlled under GSGSSI biosecurity rules. Bringing pets is very unlikely to be permitted; contact GSGSSI.",
+    "export": null,
+    "authority": "Government of South Georgia & the South Sandwich Islands (GSGSSI)",
+    "sources": [
+      "https://www.gov.gs/biosecurity/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GY",
+    "name": "Guyana",
+    "status": "requirements",
+    "summary": "An import permit must be requested from the Guyana Livestock Development Authority before importing dogs and cats, submitting health and vaccination records. Detailed sanitary conditions are not published officially — confirm with GLDA.",
+    "microchip": null,
+    "vaccinations": [
+      "Vaccination status (records) assessed for the permit; specific vaccines/timing not published officially."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Import permit application form",
+      "Health and vaccination records of the animal",
+      "Health certificate as specified on the permit"
+    ],
+    "import_permit": "Required: issued by the Guyana Livestock Development Authority within about 3 working days, signed by a Senior/designated Veterinary Officer and CEO/Deputy CEO; decision considers species, origin disease status and vaccination.",
+    "quarantine": "Not stated officially; may depend on origin disease status — confirm.",
+    "timeline": "Plan at least 4–6 weeks before travel: apply for GLDA import permit → meet permit conditions (health certificate, vaccinations) → inspection on arrival.",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": "No reliable official information found — check with GLDA.",
+    "authority": "Ministry of Agriculture – Guyana Livestock Development Authority (GLDA), Veterinary Services",
+    "sources": [
+      "https://agriculture.gov.gy/?p=1995"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PE",
+    "name": "Peru",
+    "status": "requirements",
+    "summary": "Dogs and cats need an original official sanitary export certificate from the origin country stating current vaccinations and internal/external deworming within 30 days; SENASA inspects on arrival (fee S/ 98.60) at Jorge Chávez, other international airports or land border posts.",
+    "microchip": "Not required by SENASA Peru for entry (not listed).",
+    "vaccinations": [
+      "Rabies: mandatory for dogs and cats from 3 months of age.",
+      "Dogs: canine parvovirus, distemper, hepatitis, leptospirosis (plus rabies).",
+      "Cats: feline panleukopenia (plus rabies)."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Internal and external deworming within 30 days before travel, stated on the origin certificate.",
+    "documents": [
+      "Application with owner and pet data",
+      "Original sanitary export certificate (international sanitary certificate) from the origin country's official authority stating vaccinations, deworming and health status",
+      "Payment for entry inspection (S/ 98.60)"
+    ],
+    "import_permit": "No separate import permit for pet dogs and cats; SENASA performs documentary check and clinical inspection on arrival.",
+    "quarantine": null,
+    "timeline": "Plan at least 4 weeks before travel: vaccinations → deworming within 30 days → official origin certificate → SENASA inspection and payment on arrival.",
+    "restricted_breeds": null,
+    "private_aviation": "SENASA offices at Jorge Chávez (Lima Hub office open 24/7 incl. holidays) and other international airports; confirm SENASA attendance for private arrivals at regional airports.",
+    "export": "Leaving Peru: SENASA issues the sanitary export certificate per destination requirements; submit ≥72 h before travel: request, destination requirements/permit, vet health certificate and vaccination certificate (Colegio Médico Veterinario format), payment S/ 97.20, any destination tests/microchip; clinical inspection. Offices: Lima Hub (Callao, 24/7), Ate, Lurín and regional offices. Contact viajacontumascota@senasa.gob.pe.",
+    "authority": "SENASA Perú (Servicio Nacional de Sanidad Agraria) – MIDAGRI",
+    "sources": [
+      "https://www.gob.pe/institucion/senasa/noticias/1150430-midagri-lo-que-debes-saber-para-salir-o-ingresar-del-pais-con-tus-perros-y-gatos",
+      "https://www.argentina.gob.ar/senasa/requisitos-particulares-por-destino/peru",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-peru"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PY",
+    "name": "Paraguay",
+    "status": "requirements",
+    "summary": "Paraguay applies Mercosur GMC Res. 20/24: an original CVI from the origin country's official veterinary authority (valid 60 days) presented to a SENACSA inspector on arrival. Up to 5 animals per person count as pets.",
+    "microchip": "Not mandatory under Mercosur rules; if electronic ID is used it must be ISO 11784/11785 with location stated on the CVI.",
+    "vaccinations": [
+      "Rabies: animals 90 days or older, valid vaccine; primary vaccination at least 21 days before embarkation.",
+      "Under 90 days: allowed if CVI certifies age and no contact with urban rabies in the last 90 days."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Broad-spectrum internal and external antiparasitic treatment within 15 days before CVI issue (Mercosur GMC 20/24).",
+    "documents": [
+      "Original CVI (Mercosur model) from origin official authority, valid 60 days from issue while rabies is valid",
+      "Clinical exam within 10 days before CVI issue",
+      "Or official passport endorsed by origin authority with all CVI data"
+    ],
+    "import_permit": "Not required for up to 5 dogs/cats; 6 or more are treated as a commercial live-animal import.",
+    "quarantine": "None routinely; non-compliance may lead to refusal, re-export or retention (owner's cost). Paraguay may refuse animals diagnosed with leishmaniasis.",
+    "timeline": "Plan at least 4 weeks before travel: rabies (≥21 days if primary) → antiparasitic within 15 days of CVI → vet exam within 10 days of CVI → official CVI → SENACSA check on arrival.",
+    "restricted_breeds": null,
+    "private_aviation": "Present the pet and CVI to the SENACSA veterinary inspector at the point of entry; confirm inspector attendance for private arrivals.",
+    "export": "Leaving Paraguay: SENACSA issues the CVI via SENACSA Digital (account validated in person once with notarised ID) or in person; private-vet clinical inspection within 10 days before CVI using SENACSA's 'Certificado de Inspección Clínica y Vacunación' form; rabies valid ≤1 year, ≥21 days if primary. EU/UK/Israel/Russia/UAE CVIs processed in person.",
+    "authority": "SENACSA (Servicio Nacional de Calidad y Salud Animal)",
+    "sources": [
+      "https://senacsa.gov.py/servicios/sanidad-animal-identidad-y-trazabilidad/cuarentena/viajar-con-mascotas/",
+      "https://www.gov.br/agricultura/pt-br/assuntos/vigilancia-agropecuaria/animais-estimacao/portaria-mapa-no-741_2024-caninos-e-felinos-domesticos-1.pdf",
+      "https://www.argentina.gob.ar/senasa/requisitos-particulares-por-destino/mercosur-brasil-paraguay-uruguay"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SR",
+    "name": "Suriname",
+    "status": "unknown",
+    "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": null,
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Ministry of Agriculture, Animal Husbandry and Fisheries (LVV) – Veterinary Service (unconfirmed)",
+    "sources": [],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "UY",
+    "name": "Uruguay",
+    "status": "requirements",
+    "summary": "Dogs and cats need a CVI (Mercosur model) or validated official passport from the origin country's veterinary authority; dogs additionally need an ISO microchip, praziquantel deworming and (from non-free countries) a negative leishmaniasis test within 60 days. No MGAP entry authorization if travelling with the pet; no fee.",
+    "microchip": "Dogs: mandatory ISO 11784/11785 microchip (MGAP Res. 273/2018), with implantation or reading certificate. Cats: not listed.",
+    "vaccinations": [
+      "Rabies: current, origin-approved vaccine; CVI states date, type, serial, brand; first vaccination at least 21 days before entry.",
+      "Under 3 months: age and no exposure to urban rabies in the 90 days before shipment certified.",
+      "Animals from WOAH rabies-free countries may enter unvaccinated if certified."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Internal and external deworming within 15 days before CVI issue/passport endorsement (date and product recorded); for dogs the internal product must contain praziquantel.",
+    "documents": [
+      "CVI from origin official authority (Mercosur model, valid 60 days) or official passport validated by the official authority (unvalidated passports refused)",
+      "Clinical exam by registered vet within 10 days before CVI issue",
+      "Dogs (over 90 days) from countries not WOAH-free of leishmaniasis: negative test (IFAT, ELISA, direct agglutination or molecular) within 60 days before entry; dogs diagnosed/under treatment not admitted"
+    ],
+    "import_permit": "Not required for dogs and cats travelling with owner. Pets arriving as cargo at Carrasco: notify aeropuertoic@mgap.gub.uy at least 72 working hours before arrival with scanned documents.",
+    "quarantine": null,
+    "timeline": "Plan at least 4–6 weeks before travel: microchip (dogs) → rabies (≥21 days if first) → leishmaniasis test (dogs, within 60 days) → deworming within 15 days of CVI (praziquantel for dogs) → vet exam within 10 days of CVI → official CVI → MGAP check at entry.",
+    "restricted_breeds": null,
+    "private_aviation": "No prior MGAP authorization for accompanied pets; documents checked at the border point. For Carrasco cargo arrivals, 72 working hours notice to MGAP airport office.",
+    "export": "Leaving Uruguay: MGAP issues the CVI. Mercosur destinations: digital only via VUCE (since 04/01/2025) through an accredited private vet. Other destinations: accredited vet health certificate within 10 days of travel, dog microchip + INBA registration, pre-filled CVI, payment (UYU 666 per page), at an MGAP Sanidad Animal office by appointment (Montevideo, Carrasco cargo terminal). Mercosur CVI valid 60 days, multiple trips.",
+    "authority": "MGAP (Ministerio de Ganadería, Agricultura y Pesca) – Dirección General de Servicios Ganaderos",
+    "sources": [
+      "https://www.gub.uy/tramites/solicitud-ingreso-mascotas-uruguay",
+      "https://www.gub.uy/tramites/solicitud-egreso-mascotas-uruguay",
+      "https://www.argentina.gob.ar/senasa/requisitos-particulares-por-destino/mercosur-brasil-paraguay-uruguay",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-uruguay"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "VE",
+    "name": "Venezuela",
+    "status": "requirements",
+    "summary": "Dogs and cats need an official international veterinary certificate from the origin country with rabies and core vaccinations and deworming; INSAI is the competent authority. No official Venezuelan source could be verified — details below come from SENASA Argentina's destination page; confirm with INSAI.",
+    "microchip": "Not mentioned in available official sources.",
+    "vaccinations": [
+      "Rabies: current, valid 1 year from application (under 3 months may enter unvaccinated if age certified) — per SENASA Argentina destination page.",
+      "Dogs: distemper, hepatitis, parvovirus, coronavirus, leptospirosis, parainfluenza (valid 1 year).",
+      "Cats: panleukopenia, calicivirus, rhinotracheitis (valid 1 year)."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Internal and external deworming within 3 months before entry (per SENASA Argentina destination page).",
+    "documents": [
+      "Official CVI from origin authority (SENASA Argentina states validity 30 calendar days from issue to entry check)",
+      "Vet health certificate within 30 days before entry",
+      "Vaccination certificates; copy of traveller's ID/passport"
+    ],
+    "import_permit": "Unclear — an INSAI import permit may be required; not verifiable from official sources.",
+    "quarantine": null,
+    "timeline": "Plan at least 6 weeks before travel: confirm INSAI requirements → vaccinations → deworming → health certificate and official CVI → INSAI inspection on arrival.",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": "No reliable official information found — INSAI issues zoosanitary certificates for departure; check with Elysium Jet operations.",
+    "authority": "INSAI (Instituto Nacional de Salud Agrícola Integral)",
+    "sources": [
+      "https://www.argentina.gob.ar/senasa/requisitos-particulares-por-destino/venezuela",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-venezuela"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  }
+]

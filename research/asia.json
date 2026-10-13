@@ -1,0 +1,457 @@
+[
+ {
+  "cc": "JP",
+  "name": "Japan",
+  "status": "requirements",
+  "summary": "From non-designated regions (most of the world, incl. mainland US and EU): microchip, then at least two rabies vaccinations, then a FAVN titer of at least 0.5 IU/ml, then a 180-day wait from the blood draw. Notify AQS at least 40 days before arrival. From designated rabies-free regions (Iceland, Australia, New Zealand, Fiji, Hawaii, Guam): microchip, residence proof and a government health certificate, with no vaccination or titer.",
+  "microchip": "ISO 11784/11785, 15-digit. Must be implanted BEFORE the first rabies vaccination, or that vaccine is invalid. Chips starting '900 202' are currently not accepted. Other '900'-prefix chips may be duplicates, so tell AQS early.",
+  "vaccinations": [
+   "Rabies (non-designated regions): at least 2 doses of inactivated or recombinant vaccine. RNA and live vaccines are not accepted. Dose 1 at 91 days of age or older and after the microchip. Dose 2 at least 30 days after dose 1 and within dose 1's validity. Immunity must still be valid on arrival (booster if needed).",
+   "Designated regions: no rabies vaccination required."
+  ],
+  "rabies_titer": "Non-designated regions: FAVN at an AQS-designated laboratory, blood drawn after the 2nd vaccination, result of at least 0.5 IU/ml. Valid 2 years from sampling. Arrival must be at least 180 days after the blood draw. Not required from designated regions.",
+  "parasite_treatment": null,
+  "documents": [
+   "Advance notification to AQS at the port of entry (NACCS or email), at least 40 days before arrival, and the resulting approval",
+   "Health certificate Form AC (plus ATTACH if needed): completed by a vet and endorsed by the exporting country's government. Original in ink. E-certificates accepted only from USA, Brazil and Spain (designated regions: only Hawaii and Guam).",
+   "Clinical exam within 10 days before departure: no signs of rabies (dogs also no leptospirosis)",
+   "Designated regions: certificate of residence (since birth, 180+ days, or since import from Japan). Direct flight required, or an official crate seal plus a transport certificate if transiting a non-designated region."
+  ],
+  "import_permit": "No permit, but the 40-day advance notification and AQS approval are mandatory. Late notifications are generally refused. You cannot move the arrival date earlier or add or swap animals.",
+  "quarantine": "If fully compliant, released after arrival inspection, within about 12 hours. If not compliant (including certificate errors or an early arrival before the 180 days are up), detained at an AQS facility for up to 180 days at the owner's cost, or returned.",
+  "timeline": "Plan at least 7–8 months before travel from non-designated regions: microchip → rabies #1 → rabies #2 (≥30 days later) → FAVN blood draw → wait 180 days → notify AQS ≥40 days before arrival → vet exam ≤10 days before departure → government endorsement → fly. Designated regions: at least 2 months (40-day notice plus certificates).",
+  "restricted_breeds": null,
+  "private_aviation": "AQS has no separate rule for private or business aircraft. Dogs may enter only through 19 designated ports. The 11 airports are New Chitose, Narita, Haneda, Chubu, Kansai, Osaka-Itami, Kobe, Kitakyushu, Fukuoka, Kagoshima and Naha. Cats arriving elsewhere need advance contact with AQS. Coordinate the AQS arrival inspection with the airport's AQS office and the FBO in advance. Full requirements apply as for commercial flights.",
+  "export": "Apply to AQS in advance and present the pet for export inspection at the date and time AQS sets. AQS issues the export quarantine certificate after meeting the destination's rules. For pets that will return, AQS recommends doing Japan's import requirements (microchip, 2 rabies shots, FAVN) before departure so re-entry is possible without detention.",
+  "authority": "Animal Quarantine Service (AQS), Ministry of Agriculture, Forestry and Fisheries (MAFF)",
+  "sources": [
+   "https://www.maff.go.jp/aqs/english/animal/dog/import-other.html",
+   "https://www.maff.go.jp/aqs/english/animal/dog/import-free.html",
+   "https://www.maff.go.jp/aqs/english/animal/dog/index.html"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "KR",
+  "name": "South Korea",
+  "status": "requirements",
+  "summary": "ISO microchip plus a government-endorsed health certificate. Dogs and cats aged 90 days or older from non-rabies-free countries (incl. the USA) also need a current rabies vaccination and a rabies antibody test of at least 0.5 IU/ml. No post-titer waiting period. Pets missing the chip or titer are held in quarantine at the owner's cost until it is done.",
+  "microchip": "ISO 11784/11785 compliant, number on the health certificate. If missing, it can be implanted after arrival during quarantine at the owner's cost.",
+  "vaccinations": [
+   "Rabies (age 90 days or older, non-rabies-free origin): current at arrival. The APQA FAQ indicates at least 30 days since vaccination and still within immunity. If under 30 days, the pet is held until 30 days have passed.",
+   "Pets under 90 days or from APQA-listed rabies-free countries: rabies vaccination not required, but chip and certificate still required."
+  ],
+  "rabies_titer": "Non-rabies-free origin, age 90 days or older: rabies-neutralising antibody result of at least 0.5 IU/ml, from an internationally approved lab or the exporting country's competent authority. Valid 24 months from blood draw. No waiting period after the result. Older sources say sampling must be at least 30 days after vaccination. If missing or under 0.5, the test is done in quarantine after arrival.",
+  "parasite_treatment": null,
+  "documents": [
+   "Health certificate issued or endorsed by the exporting country's veterinary authority, stating the microchip number, birth date, rabies vaccination and titer result. For US origin, USDA-endorsed within 30 days of export.",
+   "Rabies vaccination certificate",
+   "Rabies antibody test report (where required)",
+   "Cats from Australia and dogs/cats from Malaysia: extra Hendra/Nipah freedom certificate, otherwise quarantine is extended 21 days (older official guidance)"
+  ],
+  "import_permit": "No import permit for personal pets. Larger groups need advance notification to APQA and prior approval of a quarantine facility. Sources cite 5 or more and 10 or more animals, so confirm the threshold.",
+  "quarantine": "None if compliant (arrival inspection only). Pets missing the chip or titer, with a mismatched chip, or with a titer under 0.5 IU/ml are held at the owner's expense until it is resolved, typically about 10 days, sometimes longer. A missing health certificate can mean return to origin.",
+  "timeline": "Plan at least 2–3 months before travel: microchip → rabies vaccination → titer blood draw (≥30 days after vaccine is common practice) → result → health certificate and government endorsement shortly before departure.",
+  "restricted_breeds": "No import breed ban found. Korea has domestic 'dangerous dog' rules (e.g. Tosa, Pit Bull types, Rottweiler) that impose owner obligations after entry. Verify before travel.",
+  "private_aviation": "No private-aircraft-specific rule found. Arrange the APQA arrival inspection at the arrival airport (e.g. Incheon or Gimpo) in advance through the handler or FBO.",
+  "export": "APQA issues an export quarantine certificate after inspection at its airport or port office, based on the destination's requirements.",
+  "authority": "Animal and Plant Quarantine Agency (APQA / QIA), Ministry of Agriculture, Food and Rural Affairs",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-korea",
+   "https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_007-8.jsp",
+   "https://www.qia.go.kr/english/html/Community_plaza/listqiaEngFaqAnswerWebAction.do",
+   "https://cargo.koreanair.com/sites/default/files/2019-02/QUARANTINE_LIVEANIMAL.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "CN",
+  "name": "China (Mainland)",
+  "status": "requirements",
+  "summary": "One dog or cat per person per entry. To enter through any port with no quarantine, the pet needs an ISO microchip, at least two rabies vaccinations and a rabies titer of at least 0.5 IU/ml from a GACC-recognised lab (titer not needed from GACC 'designated' countries/regions such as Hawaii and Guam). Otherwise the pet must enter through a designated port with a quarantine facility and do 30 days of quarantine.",
+  "microchip": "ISO 11784/11785, 15-digit, required for the quarantine-exempt route. Bring a reader for non-ISO chips.",
+  "vaccinations": [
+   "Rabies: official rabies vaccination certificate, current at arrival. The quarantine-exempt route requires at least two lifetime doses (per APHIS)."
+  ],
+  "rabies_titer": "Pets from non-designated countries/regions: rabies antibody result of at least 0.5 IU/ml from a GACC-recognised lab. Sample taken on or after the 2nd vaccination. Valid up to 1 year from sampling (per APHIS). Not required from GACC-designated countries/regions (e.g. Hawaii and Guam per APHIS; check the current GACC list).",
+  "parasite_treatment": null,
+  "documents": [
+   "Official health/quarantine certificate from the exporting country's veterinary authority, one per pet, naming the traveller, who must match the passport. For US origin: issued within 14 days of arrival and USDA-endorsed.",
+   "Original rabies vaccination certificate",
+   "Rabies titer report (non-designated origins, quarantine-exempt route)",
+   "Passport copy and a printed photo of the pet (per APHIS)"
+  ],
+  "import_permit": "No import permit for personal pets. On the quarantine route, notify Chinese Customs in advance.",
+  "quarantine": "None if fully compliant (on-site customs inspection only). Otherwise 30 days in a customs-designated isolation facility at a designated port, at the owner's cost. Guide, hearing and search-and-rescue dogs have their own route.",
+  "timeline": "Plan at least 2–3 months before travel: microchip → rabies #1 → rabies #2 → titer blood draw → result → health certificate within 14 days before arrival (US) → government endorsement. Dogs must be registered with local police within about 1 month of arrival (per APHIS).",
+  "restricted_breeds": null,
+  "private_aviation": "No business-jet-specific GACC rule found. A fully compliant pet (chip, 2 vaccinations, titer) may enter through any port, including business-aviation arrivals at an open international port. A non-compliant pet must enter through a designated port with quarantine facilities. APHIS lists Beijing Capital, Shanghai Pudong, Shanghai Hongqiao, Guangzhou Baiyun, Urumqi Diwopu, plus several rail and sea ports; the full GACC list is longer. The one-pet-per-person limit still applies.",
+  "export": "Local customs (GACC) issues the export animal health certificate after inspection, based on the destination's requirements. Arrange with customs at the departure port in advance.",
+  "authority": "General Administration of Customs of the People's Republic of China (GACC)",
+  "sources": [
+   "https://english.beijing.gov.cn/latest/lawsandpolicies/202104/t20210407_2346645.html",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-china"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "HK",
+  "name": "Hong Kong",
+  "status": "requirements",
+  "summary": "An AFCD Special Permit is required BEFORE travel. Requirements and quarantine depend on the origin group. Group I (UK, Ireland, Australia, NZ, Fiji, Hawaii, Japan, Jersey) and Group II (39 places, incl. continental USA, Canada and much of Western Europe) are normally quarantine-exempt if compliant. Group IIIA (Chinese Mainland, Macao, Hungary, Lithuania, Malaysia, Thailand) has at least 30 days of quarantine. All others (IIIB) have at least 120 days.",
+  "microchip": "ISO or AVID-compatible chip, all groups. Group IIIA: implanted before rabies vaccination and titer. If the chip is unreadable, the owner must supply a reader or the pet may be returned. Dogs aged 5 months or older must get a Hong Kong dog licence on arrival (HK-compliant chip implanted and rabies vaccination if needed).",
+  "vaccinations": [
+   "Group I: no rabies vaccine in the import terms. Dogs: distemper, hepatitis, parvovirus. Cats: panleucopaenia and cat flu. Given 14 days to 1 year before export.",
+   "Group II: rabies 30 days to 1 year before export (primary dose at age 90 days or older), plus the same core vaccines 14 days to 1 year before export.",
+   "Group IIIA: inactivated or recombinant rabies vaccine 30 days to 1 year before export (primary at age 90 days or older), plus full core vaccination 14 days to 1 year before.",
+   "Group IIIB: rabies certificate optional. Full core vaccination 14 days to 1 year before export."
+  ],
+  "rabies_titer": "Group IIIA only: FAVN or RFFIT result of at least 0.5 IU/ml at an AFCD-recognised lab, sample taken 90 days to 1 year before export (at least 30 days after a primary vaccination). Not required for Groups I, II or IIIB.",
+  "parasite_treatment": null,
+  "documents": [
+   "AFCD Special Permit (form AF240 + UN110 + ID copy). Fee HK$432 for the first animal and HK$102 for each additional animal. Normally issued in 5 working days, valid 6 months for one consignment.",
+   "Animal Health Certificate (VC-DC1 / VC-DC2 / VC-DC3A or equivalent), government-signed or endorsed. Dated within 14 days of export (Group IIIA: within 7 days).",
+   "Groups I and II: residence certificate. Group I: 180 days or since birth. Group II: 180 days or since birth, and no rabies within 10 km for 180 days.",
+   "Groups I and II: Airline Certificate / Captain's Affidavit (PC101) stating the pet stayed crated with no animal contact",
+   "Vaccination certificates; rabies antibody report (IIIA)"
+  ],
+  "import_permit": "Yes. AFCD Special Permit is mandatory for all dogs and cats (also for transit). Do not book transport until it is issued. Notify AFCD at the airport at least 24 hours before arrival.",
+  "quarantine": "Groups I and II: normally none if fully compliant. Group IIIA: at least 30 days (Chinese Mainland since 3 June 2025). Group IIIB: at least 120 days at an AFCD Animal Management Centre or a licensed quarantine centre. Any group can be extended to at least 6 months for doubtful history or non-compliance. Government quarantine space has long waiting lists, so book early.",
+  "timeline": "Group I/II: plan at least 6–8 weeks. Apply for the permit (≥5 working days), complete vaccines and certificates (within 14 days of export), notify AFCD ≥24 h before arrival. Group IIIA: at least 4–5 months because of the 90-day titer window plus quarantine booking. Group IIIB: book quarantine space months ahead.",
+  "restricted_breeds": "Prohibited: Pit Bull Terrier (incl. American Staffordshire Terrier), Japanese Tosa, Dogo Argentino, Fila Brasileiro and their crosses. Staffordshire Bull Terrier needs a statutory breed declaration. Bengal cats need proof of 5th generation or later domestic ancestry. Savannah cats are not covered by the standard permit terms. Age minimum: 60 days (Group I/IIIB), 5 months (Group II). No pets more than 4 weeks pregnant.",
+  "private_aviation": "AFCD permit terms for all groups say pets arriving by air must be MANIFESTED CARGO (airway bill), not excess or hand baggage. AFCD's import guide says arrivals 'by other routes' must contact AFCD well in advance for special arrangement. Non-official sources (HKU onboarding guide, pet transporters) report that private-jet arrivals at the HK Business Aviation Centre can be cleared by AFCD with prior arrangement. Confirm with AFCD (airport office +852 2182 1001, foii_airport@afcd.gov.hk) and the FBO before booking. The Captain's Affidavit (PC101) is still needed for Group I/II.",
+  "export": "Contact AFCD to arrange an export health certificate for the destination. Pets that leave Hong Kong need a new Special Permit to return and are subject to the same import rules on re-entry.",
+  "authority": "Agriculture, Fisheries and Conservation Department (AFCD), Import & Export Division",
+  "sources": [
+   "https://www.afcd.gov.hk/english/quarantine/qua_ie/files/G125_Guideline_to_Importing_Pet_Animals_Birds_Oct25E.pdf",
+   "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_idc/qua_ie_ipab_idc.html",
+   "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_idc/files/DC_01v05_Terms_for_import_G1_Jun25B.pdf",
+   "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_idc/files/DC_02v05_Terms_for_import_G2_Jun25B.pdf",
+   "https://www.afcd.gov.hk/tc_chi/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_idc/files/common/DC-06v03-Permit_Terms_for_import_dog_cat_from_Gp3A-Jan26B.pdf",
+   "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_idc/files/DC_03v04_Permit_Terms_for_import_G3B_Jun25B.pdf",
+   "https://www.afcd.gov.hk/english/quarantine/qua_ie/qua_ie_ipab/qua_ie_ipab_idc/qua_ie_ipab_idc_Group_IIIA_Mainland.html",
+   "https://onboard.hku.hk/?p=3547"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MO",
+  "name": "Macao",
+  "status": "requirements",
+  "summary": "An IAM import licence is required. Dogs and cats must be at least 4 months old, microchipped, rabies-vaccinated and have a rabies titer of at least 0.5 IU/ml (sample ≥3 months before export). Since 12 June 2026, pets from rabies-affected countries that meet the pre-entry requirements and pass IAM inspection on arrival no longer do the former 30-day quarantine.",
+  "microchip": "Required. Implanted before the rabies vaccination.",
+  "vaccinations": [
+   "Rabies: 30 days to 1 year before export (per APHIS summary of IAM requirements)."
+  ],
+  "rabies_titer": "At least 0.5 IU/ml at an IAM-approved lab. Sample taken at least 30 days after the latest rabies vaccine and at least 3 months before export (US-origin rules per APHIS; rabies-free origins may differ, so confirm with IAM).",
+  "parasite_treatment": null,
+  "documents": [
+   "IAM import licence. The importer named on the health certificate must match the licence holder.",
+   "Official health certificate for Macao (one per animal), valid 10 days from issue, government-endorsed",
+   "Rabies vaccination record and titer lab report"
+  ],
+  "import_permit": "Yes. Import licence from the Municipal Affairs Bureau (IAM) before travel.",
+  "quarantine": "From 12 June 2026: none for compliant pets from rabies-affected countries that pass IAM vet inspection on arrival (previously a mandatory 30 days). Non-compliant pets: expect quarantine or refusal.",
+  "timeline": "Plan at least 4–5 months before travel: microchip → rabies vaccine → titer sample ≥30 days later → wait ≥3 months → IAM licence → health certificate within 10 days of travel → government endorsement.",
+  "restricted_breeds": "Prohibited: Tibetan Mastiff, Fila Brasileiro, Dogo Argentino, Pit Bull Terrier, Japanese Tosa and their crosses. Bengal cats need 5th generation or later domestic ancestry stated on the certificate. Domestic dogs and cats only.",
+  "private_aviation": "No private-aircraft-specific rule found. Arrange the IAM vet inspection at Macau International Airport in advance. Note: Macao is in Hong Kong's Group IIIA, so onward travel to Hong Kong means at least 30 days of HK quarantine.",
+  "export": "IAM issues export health certificates. Contact IAM in advance and meet the destination's requirements.",
+  "authority": "Municipal Affairs Bureau (IAM / Instituto para os Assuntos Municipais)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-macao",
+   "https://www.gov.mo/en/news/402620/"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "TW",
+  "name": "Taiwan",
+  "status": "requirements",
+  "summary": "An import permit is required, and post-entry quarantine space must be reserved at least 20 days before shipment. From non-rabies-free countries: microchip, rabies vaccination, a titer of at least 0.5 IU/ml (sample 90 days to 1 year before shipment), and 7 days of post-entry quarantine with a re-test. Rabies-free origins (e.g. Hawaii, Guam) have no titer, but require 180 days of residence.",
+  "microchip": "Required. Pet must be at least 90 days old. No microchip means refusal, return, euthanasia or quarantine.",
+  "vaccinations": [
+   "Rabies (inactivated): given at 90 days of age or older, 30 days to 1 year before import."
+  ],
+  "rabies_titer": "Non-rabies-free origins: at least 0.5 IU/ml, sample taken 90 days to 1 year before shipment, at a WOAH reference lab or an APHIA-designated lab. Not required for recognised rabies-free origins (APHIS lists Hawaii and Guam).",
+  "parasite_treatment": null,
+  "documents": [
+   "Import permit from APHIA (apply with the rabies vaccination certificate, the importer's ID or passport, and the titer report)",
+   "Official veterinary health certificate on Taiwan's required form, government-endorsed. Original required. A non-compliant certificate means refusal of entry or destruction of the animal.",
+   "Rabies-free origin: statement of 180 days' continuous residence (or since birth) and no third-country visit"
+  ],
+  "import_permit": "Yes. Apply and reserve post-entry quarantine space at least 20 days before shipment.",
+  "quarantine": "Non-rabies-free origins: 7 days at a designated post-entry quarantine station, with a rabies antibody re-test (revaccinated if below 0.5 IU/ml). Rabies-free origins: reduced or no quarantine if compliant (confirm with APHIA).",
+  "timeline": "Plan at least 4–5 months before travel: microchip → rabies vaccine (≥30 days before import) → titer blood draw ≥90 days before shipment → import permit and quarantine booking ≥20 days before → health certificate and endorsement → fly → 7-day quarantine.",
+  "restricted_breeds": "Pit Bull Terrier types (incl. American Pit Bull Terrier and American Staffordshire Terrier) banned from import and breeding since 1 March 2022 (reported by Taiwan News; confirm scope for mixes with APHIA).",
+  "private_aviation": "No private-aircraft-specific rule found. Transshipment through countries Taiwan does not recognise as rabies-free is not allowed for rabies-free-origin pets. The APHIA airport branch inspection and the quarantine booking apply as for any arrival.",
+  "export": "APHIA branch offices issue export animal health certificates based on the destination's requirements. Apply in advance.",
+  "authority": "Animal and Plant Health Inspection Agency (APHIA, formerly BAPHIQ), Ministry of Agriculture",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-taiwan",
+   "https://www.taiwannews.com.tw/en/news/4272040"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "KP",
+  "name": "North Korea",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Unknown (DPRK state veterinary authority)",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "IN",
+  "name": "India",
+  "status": "requirements",
+  "summary": "Up to 2 pet dogs or cats per passenger may be imported under the Baggage Rules: transfer of residence (2+ years abroad), re-import, or short stay (short stay needs a DGFT licence). An Advance NOC must be obtained from AQCS through the CBIC ATITHI 2.0 portal at least 7 working days before embarkation. Entry only through the notified ports: Delhi, Mumbai, Chennai, Kolkata, Bengaluru and Hyderabad.",
+  "microchip": "Required. Microchip number goes on the NOC application, and a vaccination and microchip certificate is submitted.",
+  "vaccinations": [
+   "Rabies: at least 30 days and not more than 1 year before travel (Indian consulate guidance). US 3-year vaccines older than 1 year must be repeated.",
+   "Other vaccinations per the AQCS veterinary health certificate (Annexure 1.1.1). The certificate covers freedom from rabies and distemper, and for dogs also Aujeszky's, leishmaniasis and leptospirosis."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Advance NOC from AQCS through the ATITHI 2.0 portal (application Annexure 1.1). Fee Rs 1000. Airlines will not carry the pet without it.",
+   "Official veterinary health certificate in AQCS format (Annexure 1.1.1), signed by the exporting country's competent authority",
+   "Vaccination and microchip certificate / pet passport",
+   "Air ticket or airway bill, passport copy",
+   "Proof of eligibility: transfer of residence (2-year overseas stay, relocation proof), re-import (earlier AQCS export certificate), or a DGFT licence for short stays",
+   "Final NOC issued by AQCS at the port after inspection, then customs clearance"
+  ],
+  "import_permit": "Advance NOC (AQCS) for all pets. A DGFT import licence for pets not on transfer of residence or re-import (short stays). More than 2 pets needs a DAHD sanitary import permit or DGFT licence.",
+  "quarantine": "None if the pet is healthy and documents are in order (Final NOC at the port). Pets failing the examination or showing disease signs: 15 days at the AQCS quarantine station at the owner's cost.",
+  "timeline": "Plan at least 4–6 weeks before travel (longer if a DGFT licence is needed, about 1 month): rabies vaccine ≥30 days before → health certificate and endorsement → ATITHI 2.0 application ≥7 working days before embarkation → Advance NOC (about 1 working day) → arrival inspection → Final NOC.",
+  "restricted_breeds": null,
+  "private_aviation": "No private-aircraft-specific rule found. The arrival airport must be one of the six notified ports (Delhi, Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad), and the AQCS officer must examine the pet on arrival. Coordinate with AQCS and customs at that airport.",
+  "export": "Apply to AQCS for the export veterinary health certificate / NOC (fee Rs 500). Keep the AQCS export certificate, because it is required for later re-import.",
+  "authority": "Animal Quarantine and Certification Services (AQCS), Department of Animal Husbandry and Dairying (DAHD)",
+  "sources": [
+   "https://aqcsindia.gov.in/pdfs/india-dogs-guidance.pdf",
+   "https://aqcsindia.gov.in/",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-india",
+   "https://indiainatlanta.gov.in/eoial_pages/Mjk5"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "PK",
+  "name": "Pakistan",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": "Unverified (secondary sources): ISO 11784/11785 microchip.",
+  "vaccinations": [
+   "Unverified (secondary sources): rabies 30 days to 12 months before arrival"
+  ],
+  "rabies_titer": "Unverified (secondary sources): not required.",
+  "parasite_treatment": "Unverified (secondary sources): internal and external parasite treatment within 14 days before entry.",
+  "documents": [
+   "Health certificate from a licensed vet (APHIS: USDA endorsement not required for US-origin pets)",
+   "Unverified: import permit / NOC"
+  ],
+  "import_permit": "Unverified. Secondary sources say an NOC/permit is needed. Pakistan's Animal Quarantine Department was reportedly merged into the National Agri-trade and Food Safety Authority (NAFSA) in 2025.",
+  "quarantine": "Unverified. Reportedly none if documents are in order.",
+  "timeline": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of National Food Security & Research (Animal Quarantine Department / NAFSA)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-pakistan"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "BD",
+  "name": "Bangladesh",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [
+   "Unverified (secondary sources): rabies 30 days to 12 months before arrival"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Unverified: government-endorsed health certificate; NOC from the Department of Livestock Services"
+  ],
+  "import_permit": "Unverified. Secondary sources cite a Department of Livestock Services NOC (contact dg@dls.gov.bd per Australian MICoR).",
+  "quarantine": "Unverified. Sources conflict (none vs 21 days home quarantine).",
+  "timeline": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Department of Livestock Services (DLS), Ministry of Fisheries and Livestock",
+  "sources": [
+   "https://micor.agriculture.gov.au/live-animals/Pages/bangladesh/dogs.aspx"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LK",
+  "name": "Sri Lanka",
+  "status": "requirements",
+  "summary": "A DAPH import permit is required. Under rules in force since 1 January 2026, dogs and cats need an ISO microchip, up-to-date core and rabies vaccinations, parasite treatment within 14 days, and an official health certificate within 10 days of export. Dogs also need negative leishmaniasis and heartworm tests within 1 month of departure.",
+  "microchip": "ISO-compliant microchip, number shown on all documents (vaccination records, blood test reports).",
+  "vaccinations": [
+   "Dogs: rabies, canine distemper, parvovirus, infectious hepatitis, leptospirosis (fully vaccinated and up to date)",
+   "Cats: rabies, feline calicivirus, feline herpesvirus 1, feline panleukopenia",
+   "Under 3 months old: the dam must be fully vaccinated. Minimum import age 1.5 months."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "Ecto- and endoparasite treatment within 14 days before departure, certified in writing by a registered vet.",
+  "documents": [
+   "DAPH import permit (application via the DAPH Google form; enquiries vraanim@gmail.com)",
+   "Vaccination records (submitted with the permit application)",
+   "Dogs only: negative leishmaniasis (PCR/ELISA/IFAT), heartworm antigen and microfilaria tests within 1 month of departure. Waived for a disease the exporting country is officially free of.",
+   "International Veterinary Health Certificate from the exporting country's competent authority, issued within 10 days before export"
+  ],
+  "import_permit": "Yes. Import permit from the Director General, Department of Animal Production and Health (Animal Diseases Act No. 59 of 1992).",
+  "quarantine": "The permit application commits the importer to quarantine and inspection or sampling by DAPH. The length is not stated in the 2026 requirements, so confirm with DAPH.",
+  "timeline": "Plan at least 6–8 weeks before travel: vaccinations up to date → apply for the DAPH permit → dog blood tests within 1 month of departure → parasite treatment within 14 days → health certificate within 10 days → fly.",
+  "restricted_breeds": null,
+  "private_aviation": "No private-aircraft-specific rule found. Arrange the DAPH quarantine officer inspection at the arrival airport in advance.",
+  "export": null,
+  "authority": "Department of Animal Production and Health (DAPH)",
+  "sources": [
+   "https://daph.gov.lk/services/imp1",
+   "https://daph.gov.lk/files/uploads/pdf_document/0-1767258605.pdf",
+   "https://daph.gov.lk/files/uploads/pdf_document/0-1767258721.pdf",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-sri-lanka"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "NP",
+  "name": "Nepal",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [
+   "Unverified (secondary sources): rabies at least 30 days before arrival"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Unverified: health certificate within about 10 days of travel, government-endorsed"
+  ],
+  "import_permit": "Unverified. Sources conflict on whether a Department of Livestock Services permit is needed (possibly only for 3 or more pets).",
+  "quarantine": "Unverified. Reportedly none if compliant.",
+  "timeline": null,
+  "restricted_breeds": null,
+  "private_aviation": "Unverified: entry reportedly via Tribhuvan International Airport (Kathmandu) with the animal quarantine office notified in advance.",
+  "export": null,
+  "authority": "Department of Livestock Services / Animal Quarantine Office (Ministry of Agriculture and Livestock Development)",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "BT",
+  "name": "Bhutan",
+  "status": "requirements",
+  "summary": "Pet imports need a permit from the Bhutan Food and Drug Authority (BFDA) after document verification. Personal pets then do 15 days of quarantine at the owner's home under official monitoring. Detailed health requirements are not published in an official English checklist, so confirm with BFDA.",
+  "microchip": "Advised by BFDA officials (per BBS report); not confirmed as a written requirement.",
+  "vaccinations": [
+   "Rabies: advised by BFDA officials, with at least 3 weeks between vaccination and import (per BBS report); confirm the formal requirement with BFDA."
+  ],
+  "rabies_titer": "BFDA officials advise lab results confirming rabies immunity (per BBS report); confirm whether mandatory.",
+  "parasite_treatment": null,
+  "documents": [
+   "BFDA import permit (application fee Nu 100–300)",
+   "Supporting health and vaccination documents submitted for BFDA verification"
+  ],
+  "import_permit": "Yes. Permit issued by BFDA after document verification.",
+  "quarantine": "15 days for all imported pets (clinical observation, testing, vaccination). Personal pets are quarantined at the owner's home under official monitoring. Commercial imports pay Nu 500 per pet.",
+  "timeline": "Plan at least 6–8 weeks before travel and contact BFDA first. Paro (PBH) is the only international airport.",
+  "restricted_breeds": null,
+  "private_aviation": "No private-aircraft-specific rule found. Paro is the only international airport. Coordinate the BFDA inspection in advance.",
+  "export": null,
+  "authority": "Bhutan Food and Drug Authority (BFDA, formerly BAFRA)",
+  "sources": [
+   "https://www.bbs.bt/?p=232904"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MV",
+  "name": "Maldives",
+  "status": "requirements",
+  "summary": "DOGS ARE PROHIBITED (no exceptions). Cats need an import permit from the Ministry of Fisheries and Agriculture, rabies and core vaccinations, parasite treatment and an official health certificate.",
+  "microchip": null,
+  "vaccinations": [
+   "Cats: rabies 30 days to 12 months before export",
+   "Cats: feline calicivirus, feline viral rhinotracheitis, feline panleukopenia"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "Cats: internal and external parasite treatment between 1 month and 14 days before expected arrival (UK DEFRA export guidance).",
+  "documents": [
+   "Import permit (application with pet passport or vaccination card showing rabies, FCV, FVR and FPL vaccinations)",
+   "Official export health certificate. The UK version requires a clinical exam within 72 hours of export.",
+   "On arrival: commercial invoice approved by Maldives Customs, plus airway bill or bill of lading, given to the port quarantine officer"
+  ],
+  "import_permit": "Yes for cats (per UK DEFRA export guidance for Maldives). Dogs: import prohibited.",
+  "quarantine": null,
+  "timeline": "Cats: plan at least 6 weeks: vaccinations (rabies ≥30 days before) → import permit → parasite treatment 14–30 days before arrival → clinical exam and health certificate shortly before export.",
+  "restricted_breeds": "All dogs prohibited ('import of dogs and dangerous animals is strictly prohibited', Velana airport customs guide).",
+  "private_aviation": "No private-aircraft-specific rule found. The dog ban applies to all arrivals, including private jets and resort transfers. Cats are cleared by the quarantine officer at the arrival port (Velana International Airport).",
+  "export": null,
+  "authority": "Ministry of Fisheries and Agriculture (live animal imports); Maldives Customs Service",
+  "sources": [
+   "https://velana.macl.aero/guide/arrival",
+   "https://assets.publishing.service.gov.uk/media/68e77c1357038b5739b9858d/8919NFG.pdf",
+   "https://www.trade.gov/country-commercial-guides/maldives-trade-barriers"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10",
+  "prohibited_species": [
+   "dog"
+  ]
+ },
+ {
+  "cc": "AF",
+  "name": "Afghanistan",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Unknown (Ministry of Agriculture, Irrigation and Livestock; current de facto administration)",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ }
+]

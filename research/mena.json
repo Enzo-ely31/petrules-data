@@ -1,0 +1,565 @@
+[
+  {
+    "cc": "AE",
+    "name": "United Arab Emirates",
+    "status": "requirements",
+    "summary": "A MOCCAE import permit is required before arrival (valid 90 days), followed by a MOCCAE release permit and inspection at the port of entry. Pets from countries not on MOCCAE's low-risk list (including the USA, Canada, France, Germany and Italy per the official list) also need a rabies antibody titre test of at least 0.5 IU/ml.",
+    "microchip": "Mandatory permanent microchip; the chip number on the health certificate must match the implanted chip. ISO 11784/11785 is not named on the MOCCAE page but is standard.",
+    "vaccinations": [
+      "Rabies: valid vaccination given according to the manufacturer's instructions. The first dose may not be given before 12 weeks of age. A first or lapsed vaccination needs 21 days before the titre blood draw. No 21-day wait if the booster is continuous. USDA additionally says at least 21 days before travel.",
+      "Dogs: canine distemper (CDV), canine parvovirus, infectious canine hepatitis, leptospirosis (leptospirosis may be replaced by a lab test if the exporting country does not vaccinate).",
+      "Cats: feline panleukopenia, feline rhinotracheitis, feline calicivirus.",
+      "Vaccination record or passport must show microchip number, species, colour, sex, date of birth, vaccine name, manufacturer, batch number and date."
+    ],
+    "rabies_titer": "High-risk origins only (any country not on MOCCAE's low-risk list): FAVN/RNATT of at least 0.5 IU/ml from a lab approved by the exporting country's authority. The sample must be at least 21 days after a first or lapsed rabies vaccination, or any time if the booster is continuous. The result is valid 365 days if the vaccination stays continuous and no booster is given; otherwise retest. Official MOCCAE low-risk list: Australia, Austria, Andorra, Bahrain, Barbados, Belgium, Czech Republic, Denmark, Estonia, Fiji, Finland, French Polynesia, Falkland Islands, Hong Kong, Iceland, Ireland, Jamaica, Japan, Kuwait, Liechtenstein, Mauritius, Malta, New Caledonia, New Zealand, Portugal, Singapore, San Marino, Sweden, Switzerland, United Kingdom, Vanuatu, Netherlands, Bulgaria, Slovenia, Palau, Latvia, Albania, Croatia, Maldives, Spain (excluding Melilla and Ceuta), Cyprus, Korea, Montenegro, Seychelles, Suriname, Micronesia, Greece, Marshall Islands, Bahamas, Lithuania, Macedonia. Note: IATA Traveldoc's copy also lists Germany and Italy, but the MOCCAE page does not, so confirm with MOCCAE before relying on it. USDA states a titre is required for US-origin pets, with the sample no more than 12 months before travel.",
+    "parasite_treatment": "Preventive treatment for internal and external parasites within 14 days before shipment, recorded on the health certificate or passport. USDA suggests fipronil or permethrin for external parasites and praziquantel for internal parasites.",
+    "documents": [
+      "MOCCAE import permit (valid 90 days from issue; entry with an expired permit is refused)",
+      "Official health certificate issued or endorsed by the exporting country's competent veterinary authority (USDA: valid 10 days after issuance)",
+      "Vaccination record or passport with microchip number",
+      "Rabies titre lab certificate (high-risk origins only; can be recorded on the health certificate)",
+      "For release at port: customs declaration or bill of lading showing delivery data",
+      "If transiting other countries: proof or attestation that the pet did not mix with other animals in transit",
+      "Bengal and Serval cats: fifth-generation pedigree certificate",
+      "Service, emotional-support or medical dogs: training certificate, owner medical report, and a non-transfer pledge (5 working days to process)"
+    ],
+    "import_permit": "Required. Apply online through MOCCAE digital services before travel. Issued in about 1 working day (5 working days for service, emotional-support or medical dogs). Valid 90 days. Fees: AED 200 per head for the import permit, plus a release permit of AED 500 per dog or AED 250 per cat. Note: USDA and third-party pages still cite 30-day validity, but the official MOCCAE page states 90 days. Limit: maximum 2 companion animals per person per year (2 cats, 2 dogs, or 1 of each). Returning resident pets are exempt from the limit.",
+    "quarantine": "No routine quarantine for compliant pets. Inspection, and lab testing if required, happens on arrival at the MOCCAE port quarantine centre. Non-compliant pets are rejected (re-exported at the owner's expense) or confiscated.",
+    "timeline": "Plan at least 2 months before travel for low-risk origins, and 3–4 months for high-risk origins needing a first titre. Steps: microchip → rabies and core vaccines (first rabies dose at 12 weeks or older) → titre test, if high-risk, at least 21 days after a first rabies dose → MOCCAE import permit (valid 90 days) → parasite treatment within 14 days of travel → official health certificate (USDA: within 10 days) → MOCCAE release permit and inspection on arrival.",
+    "restricted_breeds": "Banned (dogs, including mixes): Staffordshire Bull Terrier, American Pit Bull Terrier, American Staffordshire Terrier, American Bully, Fila Brasileiro, Dogo Argentino, Tibetan Mastiff, Neapolitan Mastiff, Dogue de Bordeaux, Boerboel, Bullmastiff, Cane Corso, Bully Kutta (Alangu or Indian Mastiff), Perro de Presa Canario, Japanese Tosa. Exception for service, emotional-support or medical dogs under specific rules. Cats: Bengal and Serval need a fifth-generation pedigree. Minimum age at import: 12 weeks (low-risk origin) or 15 weeks (high-risk origin).",
+    "private_aviation": "MOCCAE says pets are shipped 'according to IATA conditions' and released at a MOCCAE quarantine centre. Release documents include a customs declaration or bill of lading. USDA states pets must travel to the UAE as manifested cargo. No official source confirms that a pet may stay in the cabin of a private jet and be cleared at an FBO without being manifested. Plan to list the pet on the aircraft's cargo manifest or air waybill and pre-arrange MOCCAE inspection through the handling agent. Relevant MOCCAE centres: Al Maktoum Airport (DWC), Dubai Airport Cargo Village, Dubai Airport Free Zone, Zayed International Airport (Abu Dhabi), and Sharjah and Ras Al Khaimah airports. Confirm with MOCCAE (800 3050, info@moccae.gov.ae) and the FBO before each flight. Transit: no permit is needed for airside transit at the same airport (the pet must be isolated). A MOCCAE transit permit is needed if the pet enters UAE territory.",
+    "export": "Leaving the UAE requires a MOCCAE veterinary health certificate for export or re-export of live animals, issued after a physical inspection at the export point (e.g. Dubai Airport Cargo Village or Al Maktoum Airport centre). Valid 30 days. Fee AED 100 for a personal consignment of 2 or fewer pets (AED 400 standard). About 1 working day. Not required: certificate of origin or a destination import permit copy for companion animals. Bring the passport or vaccination booklet and any tests the destination requires. MOCCAE's FAQ (quoted in search results, not opened directly) says to present the pet at the export port about 48 hours before departure. Returning residents: pets must have a MOCCAE health certificate on departure and a rabies vaccination valid until return to re-enter under the resident rules.",
+    "authority": "Ministry of Climate Change and Environment (MOCCAE)",
+    "sources": [
+      "https://www.moccae.gov.ae/en/services/import-permit-pets",
+      "https://moccae.gov.ae/Handlers/DownloadPDF.ashx?id=67445",
+      "https://moccae.gov.ae/en/services/animal-health-certificate-for-export-re-export-of-live-animals",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-united-arab-emirates",
+      "https://infopages.traveldoc.aero/Customs/ARE/Plain"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SA",
+    "name": "Saudi Arabia",
+    "status": "requirements",
+    "summary": "A MEWA pet entry/exit permit is required, applied for through the Naama platform (naama.sa) before shipment and valid 30 days. Cats and dogs must be at least 4 months old, microchipped, and carry an original government health certificate and a rabies vaccination with at least 6 months of validity remaining.",
+    "microchip": "Electronic microchip or other means of identification (MEWA Naama guide). The 2021 MEWA rules require a passport and an electronic microchip, and the microchip number must appear on the vaccination record uploaded with the application.",
+    "vaccinations": [
+      "Rabies: valid vaccination, with at least 6 months of validity remaining (MEWA Naama service conditions). MEWA checks validity when issuing the permit.",
+      "Other vaccines according to the exporting country's approved vaccination programme (2021 MEWA rules). Third-party guides cite DHPPi or similar for dogs and FVRCP or similar for cats (not verified officially)."
+    ],
+    "rabies_titer": "Not mentioned in MEWA's official documents (2021 rules, Naama guide). Some third-party guides claim a titre is needed, but this is unverified. Confirm on Naama for the specific origin country.",
+    "parasite_treatment": "Pets must be free of external parasites and diseases (2021 MEWA rules). No specific treatment window is stated.",
+    "documents": [
+      "MEWA/Naama pet entry permit (copy or original)",
+      "Original government veterinary health certificate from the exporting country, or a digitally endorsed copy for US origin",
+      "Original or electronic certificate of origin (no Saudi embassy attestation needed, per the 2021 rules)",
+      "Vaccination record or pet passport",
+      "For the application: owner's ID, passport or iqama, pet photo, and passport or vaccination page showing the microchip number"
+    ],
+    "import_permit": "Required: 'Pet entry and exit permit (dogs, cats)' on naama.sa (login via Nafath). Apply 15 days before shipment (MEWA user guide). IATA Traveldoc says at least 5 days before departure, so allow 15. Valid 30 days from issue. Entry only through the port named on the permit. Individuals: one permit every 6 months, maximum 2 animals per permit. Applicant age: at least 21 for dogs and at least 18 for cats (the older 2021 rules said at least 30 for dogs). Diplomats are exempt from the age rule with an official letter. Commercial dog imports are not allowed. Import only from countries listed as permitted on the platform. MEWA may set arrival times according to quarantine capacity.",
+    "quarantine": "No routine quarantine is stated for compliant pets. MEWA may schedule arrival according to port quarantine capacity. The GCC veterinary quarantine law applies.",
+    "timeline": "Plan at least 6–8 weeks before travel: microchip → rabies vaccination (must have at least 6 months of validity left at entry) → Naama permit application at least 15 days before shipment (valid 30 days) → government health certificate and certificate of origin → enter only via the named port.",
+    "restricted_breeds": "Prohibited (including crosses): Pit Bull, Rottweiler, Boxer, Mastiff, Tosa, Bulldog, Perro de Presa Canario. Minimum pet age: 4 months. Historical note: USDA's page still says dogs are 'not generally allowed' except for hunting, guarding or guiding the disabled. That is outdated compared with MEWA's current Naama service, which allows individuals aged 21 or over to import pet dogs of permitted breeds.",
+    "private_aviation": "Not addressed in official sources. MEWA requires entry through the port named on the permit and IATA-compliant containers for air imports. Make sure the permit names the actual private-aviation arrival airport (e.g. the Riyadh or Jeddah executive terminals) and confirm MEWA veterinary inspection availability with the handler.",
+    "export": "The same Naama 'pet entry and exit permit (dogs, cats)' service covers departures, with the same conditions (30-day validity, apply about 15 days ahead). The destination country's rules also apply.",
+    "authority": "Ministry of Environment, Water and Agriculture (MEWA), Naama platform",
+    "sources": [
+      "https://www.mewa.gov.sa/ar/eServices/Documents/%D8%AF%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AD%D8%AF%D8%AB/_%D8%A5%D8%B0%D9%86%20%D8%AF%D8%AE%D9%88%D9%84%20%D9%88%D8%AE%D8%B1%D9%88%D8%AC%20%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D9%81%D8%A9%20%28%D9%83%D9%84%D8%A7%D8%A8%20%D9%82%D8%B7%D8%B7%29.pdf",
+      "https://www.aphis.usda.gov/sites/default/files/saudi-arabia-imports-requirements_0.pdf",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-saudi-arabia",
+      "https://infopages.traveldoc.aero/Customs/SAU/Plain",
+      "https://naama.sa"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "QA",
+    "name": "Qatar",
+    "status": "requirements",
+    "summary": "An import permit from the Ministry of Municipality (Animal Resources / Livestock Department) is required before arrival. Rabies vaccination and a rabies titre lab report must be submitted with the application. NZ MPI notes a one-pet-per-person policy and a list of prohibited dog breeds.",
+    "microchip": "Required in practice. NZ MPI guidance requires the microchip to be scanned and verified before the rabies vaccination. ISO 15-digit is recommended.",
+    "vaccinations": [
+      "Rabies: required. Valid 30 days after a primary vaccination (NZ MPI). Hukoomi says vaccinations must be at least 30 days before travel. Upper limit generally within 12 months (third-party).",
+      "Other core vaccines (distemper, parvovirus, hepatitis and leptospirosis for dogs; FVRCP for cats) are reported by third parties but not confirmed in an official Qatari text."
+    ],
+    "rabies_titer": "Required: the import permit application must include a laboratory report for a rabies titre test (NZ MPI, Aug 2024). Third-party sources cite at least 0.5 IU/ml and a 90-day wait after the blood draw, which is not confirmed officially. Whether titre rules vary by origin is unclear.",
+    "parasite_treatment": null,
+    "documents": [
+      "Ministry of Municipality import permit (valid 30 days from issue, per Hukoomi)",
+      "Original official veterinary health certificate from the exporting country",
+      "Rabies vaccination certificate",
+      "Rabies titre lab report",
+      "Copy of owner ID"
+    ],
+    "import_permit": "Required. Apply to the Ministry of Municipality (Livestock Department / Department of Animal Resources) as a hybrid online or offline service. Processing about 1 working day. Valid 30 days from issue. NZ MPI says the permit should be issued at least 30 days before arrival. One pet per person (NZ MPI, Aug 2024). Third-party sources say permits go only to residents or those holding work visas. Unverified: a visitor (Hayya) permit route reported in 2022 required pets over 7 months old. Hukoomi states pets must be over 4 months old.",
+    "quarantine": "No mandatory quarantine if health requirements are met. Otherwise quarantine at the owner's expense (NZ MPI).",
+    "timeline": "Plan at least 3–4 months before travel: microchip → rabies vaccination → titre blood test → apply for MoM import permit (issued at least 30 days before arrival, valid 30 days) → official health certificate → arrive via Hamad International Airport.",
+    "restricted_breeds": "Prohibited dogs (NZ MPI Aug 2024 list): Afghan Hound, American Staffordshire Terrier, Boerboel, Boxer, Bull Terrier, Bulldog, Chinese Shar-Pei, Doberman, Great Dane, Japanese Akita, Neapolitan Mastiff, Rottweiler, Staffordshire Bull Terrier. Large or dangerous breeds may also need Ministry of Interior permission (2022 report, unverified).",
+    "private_aviation": "NZ MPI states dogs and cats may enter only via Hamad International Airport (DOH). In-cabin travel is accepted with written airline permission. Private jets commonly use Doha International (DIA). No official confirmation was found that pets can clear at DIA, so verify with MoM and the handler before routing a private flight there.",
+    "export": null,
+    "authority": "Ministry of Municipality – Livestock Department / Department of Animal Resources",
+    "sources": [
+      "https://www.mpi.govt.nz/dmsdocument/64350/direct",
+      "https://hukoomi.gov.qa/en/articles/pets-and-animal-control",
+      "https://infopages.traveldoc.aero/Customs/QAT/Plain"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KW",
+    "name": "Kuwait",
+    "status": "requirements",
+    "summary": "PAAF's official health certificate (Oct 2026 version) requires rabies vaccination and a rabies titre of at least 0.5 IU/ml taken 3–12 months before entry. It also requires core vaccines, parasite treatment within 14 days, and IATA transport. A long list of dog breeds is prohibited.",
+    "microchip": "Microchip number (10 to 15 digits) recorded on the PAAF certificate.",
+    "vaccinations": [
+      "Rabies: required for animals from rabies-infected countries, using a WOAH-compliant vaccine given per the manufacturer's recommendations.",
+      "Dogs: canine parvovirus, canine distemper, infectious canine hepatitis, leptospirosis (icterohaemorrhagiae and canicola).",
+      "Cats: feline panleukopenia, feline rhinotracheitis, feline calicivirus."
+    ],
+    "rabies_titer": "Required: an antibody titration of at least 0.5 IU/ml per the WOAH Manual, with the sample taken not less than 3 months and not more than 12 months before entry into Kuwait.",
+    "parasite_treatment": "Internal and external parasite treatment within 14 days before export.",
+    "documents": [
+      "PAAF veterinary health certificate for dogs, cats and ferrets, endorsed by the official government veterinarian of the exporting country. The USDA page conflicts on whether APHIS endorsement is needed for US origin, so confirm.",
+      "Rabies vaccination and titre details on the certificate",
+      "Clinical examination statement (free of infectious disease, fit to travel)"
+    ],
+    "import_permit": "Not stated on the official PAAF certificate or the USDA page. Third-party guides report that a PAAF import permit is needed, possibly via a local agent, and that individuals are limited (e.g. one dog per year). Commercial imports of dogs and cats were reportedly banned. Verify with PAAF (info@paaf.gov.kw).",
+    "quarantine": "No routine quarantine is stated. Animals are held in the Kuwait quarantine station if certificate conditions are not met.",
+    "timeline": "Plan at least 4 months before travel: microchip → rabies vaccination → titre blood draw (at least 3 months before entry) → core vaccines → parasite treatment within 14 days → PAAF-format health certificate → arrival.",
+    "restricted_breeds": "Prohibited (including any mixes): Pit Bulls, American Pit Bull Terrier, Staffordshire Bull Terrier, American Bully, American Staffordshire Terrier, American Bulldog, Mastiff, Tibetan Mastiff, Fila Brasileiro, Dogo Argentino, Neapolitan Mastiff, Dogue de Bordeaux, Perro de Presa Canario/Dogo Canario, Cane Corso, Tosa, Bully Kutta/Alangu, Bullmastiff, Boerboel, Rottweiler, Central Asian Shepherd (Alabai), Wolf Dog, Caucasian Shepherd (Ovcharka), Doberman Pinscher, Anatolian Shepherd/Kangal.",
+    "private_aviation": null,
+    "export": null,
+    "authority": "Public Authority of Agriculture Affairs and Fish Resources (PAAF)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-kuwait",
+      "https://www.aphis.usda.gov/sites/default/files/pet-kuwait-hc.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BH",
+    "name": "Bahrain",
+    "status": "requirements",
+    "summary": "A Bahrain Veterinary Quarantine import permit (Ministry of Municipalities Affairs and Agriculture) is required. The official USDA–Bahrain certificate requires a microchip, rabies vaccination, a rabies titre of at least 0.5 IU/ml, core vaccines, and a pet aged at least 3 months.",
+    "microchip": "Required (the microchip number field on the certificate is mandatory).",
+    "vaccinations": [
+      "Rabies: fully vaccinated. The animal must be at least 3 months old.",
+      "Dogs: canine distemper, hepatitis (adenovirus), parainfluenza, parvovirus, leptospirosis.",
+      "Cats: feline herpesvirus (rhinotracheitis), calicivirus, panleukopenia.",
+      "The US-origin certificate requires a first dose, a booster 2 weeks to 1 month later, and 1 month after the booster before export."
+    ],
+    "rabies_titer": "Required on the US-origin certificate: serum antibody of at least 0.5 IU/ml from an accredited laboratory. Timing is not specified. Requirements for other origins were not confirmed.",
+    "parasite_treatment": null,
+    "documents": [
+      "Bahrain Veterinary Quarantine import permit (permit number and expiry date are recorded on the certificate)",
+      "Official health certificate endorsed by the exporting country's government (US version valid 30 days after issuance)",
+      "Vaccination and titre records"
+    ],
+    "import_permit": "Required: Bahrain Veterinary Quarantine import permit. The government e-service is 'Import Permit Live Animal (Personal)' on services.bahrain.bh. Third-party sources say it is valid 30 days, which is unverified.",
+    "quarantine": "Not stated officially. Some older third-party sources mention quarantine for some origins, which is unverified.",
+    "timeline": "Plan at least 3 months before travel: microchip → rabies and core vaccines (booster schedule) → titre test → import permit → endorsed health certificate (within 30 days).",
+    "restricted_breeds": null,
+    "private_aviation": "IATA Traveldoc (customs info) notes that emotional-support, service animals and pets may be carried on board in a small bag of 6 kg or less including the animal. This appears to be a carriage rule, not a veterinary clearance rule. Third-party sources claim pets must arrive as manifested cargo, which is unverified. Confirm with the Bahrain veterinary quarantine office and the FBO.",
+    "export": null,
+    "authority": "Ministry of Municipalities Affairs and Agriculture – Animal Wealth / Veterinary Quarantine",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/pet-travel-united-states-bahrain",
+      "https://www.aphis.usda.gov/sites/default/files/bahrain-dog-cat.pdf",
+      "https://services.bahrain.bh/wps/portal/en/BSP/GSX-UI-EServiceDetails?esID=2177",
+      "https://infopages.traveldoc.aero/Customs/BHR/Plain"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "OM",
+    "name": "Oman",
+    "status": "requirements",
+    "summary": "A prior veterinary import permit is required, applied for through the Customs Bayan system (MAFWR Veterinary Quarantine). Pets must be over 4 months old with a full vaccination record, microchip, and rabies antibody test (RNATT/FAVN) from an accredited lab.",
+    "microchip": "Electronic microchip number must be shown on the immunisation record.",
+    "vaccinations": [
+      "Rabies: vaccinated after 12 weeks of age. No more than 12 months may have passed since vaccination at the time of import.",
+      "Full immunisation record since birth (with a photo of the pet) must be submitted."
+    ],
+    "rabies_titer": "Required: RNATT or FAVN from an accredited lab. Sample drawn 21–30 days after the last rabies vaccination. The result must be at least 3 months and no more than 12 months old at export.",
+    "parasite_treatment": null,
+    "documents": [
+      "Veterinary import permit (Bayan)",
+      "Government veterinary health certificate from the exporting country",
+      "Passport or immunisation record",
+      "Accredited lab certificate for the rabies antibody test"
+    ],
+    "import_permit": "Required before arrival via Customs Bayan, issued by MAFWR Veterinary Quarantine Department. Fee OMR 20. Approval within about 2 hours during official hours, 7 days a week. Validity is not stated.",
+    "quarantine": "Not stated. Shipment release takes about 2 hours after inspection (24/7).",
+    "timeline": "Plan at least 4–5 months before travel: microchip → rabies vaccination (pet 12 weeks or older) → titre blood draw 21–30 days later → wait until the titre result is at least 3 months old → Bayan import permit → government health certificate → arrival.",
+    "restricted_breeds": "Prohibited under Resolution 222/2019 (including mixes): Pitbull, Staffordshire Terrier, American Bully, Mastiff, Fila Brasileiro, Dogo Argentino, Japanese Tosa, Rottweiler, Doberman Pinscher, Presa Canario, Boxer, Boerboel, Caucasian Shepherd Dog, Anatolian Karabash, Great Dane. Pets must be over 4 months old.",
+    "private_aviation": "The official customs page lists arrival documents for land, sea, air cargo or passenger ports, which suggests that accompanied (passenger) arrivals are accepted. In-cabin carriage on private jets is not specifically addressed, so confirm with Muscat airport veterinary quarantine.",
+    "export": null,
+    "authority": "Ministry of Agriculture, Fisheries Wealth and Water Resources (MAFWR) – Veterinary Quarantine Department, via Royal Oman Police Customs (Bayan)",
+    "sources": [
+      "https://www.customs.gov.om/en/business-services/permit/veterinary-permit-to-import-dogs-and-cats/",
+      "https://infopages.traveldoc.aero/Customs/OMN/Plain"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "YE",
+    "name": "Yemen",
+    "status": "unknown",
+    "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": null,
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Unknown (Ministry of Agriculture and Irrigation – veterinary services)",
+    "sources": [
+      "https://infopages.traveldoc.aero/Customs/YEM/Plain"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "JO",
+    "name": "Jordan",
+    "status": "unknown",
+    "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": null,
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Ministry of Agriculture – Veterinary and Animal Health Directorate",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements",
+      "https://infopages.traveldoc.aero/Customs/JOR/Plain"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "LB",
+    "name": "Lebanon",
+    "status": "requirements",
+    "summary": "According to IATA Traveldoc, pets must be declared to customs and carry a valid health certificate from the country of origin and a valid rabies vaccination certificate. USDA has not been officially informed of Lebanon's requirements.",
+    "microchip": null,
+    "vaccinations": [
+      "Rabies: valid rabies vaccination certificate required (timing not specified)."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Valid health certificate issued in the country of origin",
+      "Valid rabies vaccination certificate",
+      "Customs declaration of the pet on arrival"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1 month before travel: rabies vaccination → health certificate from the origin country → declare at customs. Confirm with the Lebanese Ministry of Agriculture.",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Ministry of Agriculture (Lebanon) / Lebanese Customs",
+    "sources": [
+      "https://infopages.traveldoc.aero/Customs/LBN/Plain",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-lebanon"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SY",
+    "name": "Syria",
+    "status": "requirements",
+    "summary": "According to IATA Traveldoc, pets must have a health certificate in English authenticated in the origin country, and cats and dogs need a rabies vaccination certificate. No official Syrian veterinary source was found.",
+    "microchip": null,
+    "vaccinations": [
+      "Rabies: vaccination certificate required (timing not specified)."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Health certificate in English, authenticated in the origin country",
+      "Rabies vaccination certificate"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1 month before travel. Verify the current situation and requirements with operations, as the administrative situation may have changed.",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Unknown (Syrian Ministry of Agriculture / Syrian Customs)",
+    "sources": [
+      "https://infopages.traveldoc.aero/Customs/SYR/Plain"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "IQ",
+    "name": "Iraq",
+    "status": "requirements",
+    "summary": "The USDA–Iraq certificate requires a health certificate from a licensed veterinarian (valid 30 days, no USDA endorsement needed) with rabies vaccination details. No Iraqi official source was found for other origins.",
+    "microchip": "Listed if present (the certificate verifies microchips but does not explicitly require one).",
+    "vaccinations": [
+      "Rabies: vaccination with date, vaccine name and validity period recorded on the certificate."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Veterinary health certificate (US version: issued by a licensed vet, valid 30 days after issuance, USDA endorsement not required)"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1 month before travel: rabies vaccination → health certificate within 30 days of travel. Kurdistan Region (Erbil) arrivals may have separate procedures, which are unverified.",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Ministry of Agriculture – Iraqi Veterinary Hospital / veterinary quarantine",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-iraq",
+      "https://www.aphis.usda.gov/sites/default/files/iraq-dog-cat_2.pdf"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "IR",
+    "name": "Iran",
+    "status": "requirements",
+    "summary": "According to IATA Traveldoc, domestic animals need a health (hygiene) certificate from the country of origin and approval from the Iran Veterinary Organization. No details on vaccination or testing were found.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Health certificate from the country of origin",
+      "Approval from the Iran Veterinary Organization (IVO)"
+    ],
+    "import_permit": "IVO approval required before arrival (details unknown).",
+    "quarantine": null,
+    "timeline": "Contact IVO well in advance (at least 1–2 months). Details unverified.",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": "Leaving Iran: domestic animals require a health certificate from the Iran Veterinary Organization (Traveldoc).",
+    "authority": "Iran Veterinary Organization (IVO)",
+    "sources": [
+      "https://infopages.traveldoc.aero/Customs/IRN/Plain"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "IL",
+    "name": "Israel",
+    "status": "requirements",
+    "summary": "Up to two dogs or cats travelling with their owner on the same flight need no import permit, but must meet the health conditions: microchip, rabies vaccination, a titre of at least 0.5 IU/ml (except for pets born in listed rabies-free countries), and an Israeli-model certificate within 10 days. The Veterinary Services at the port must be notified in advance.",
+    "microchip": "ISO 11784/11785 microchip (or tattoo), implanted before the rabies vaccine and blood test. If the chip is non-ISO, the owner must supply a reader.",
+    "vaccinations": [
+      "Rabies: vaccinated at 3 months or older, not more than 1 year and not less than 30 days before arrival. No 30-day wait if the pet has had more than one vaccination and is still within validity.",
+      "Pets born in rabies-free countries (Australia, New Zealand, Sweden, Cyprus, Singapore, Japan, UK, Ireland): if not vaccinated, dogs must be vaccinated within 5 days of arrival."
+    ],
+    "rabies_titer": "Required at 0.5 IU/ml or more from a WOAH- and/or EU-approved lab. The sample must be taken at least 30 days after vaccination, or 14 days if the pet has had multiple vaccinations and more than 30 days have passed since the first. Per the 2020 USDA guidance, the result stays valid for life while rabies vaccinations remain current. Exempt: pets born in the rabies-free countries listed above.",
+    "parasite_treatment": null,
+    "documents": [
+      "Veterinary health certificate on the Israeli model, signed or endorsed by a government veterinarian of the origin country, issued within 10 days before departure (USDA: no more than 10 days before arrival)",
+      "Owner declaration that the pet has been in their possession for at least 90 days (Annex C)",
+      "Notification of Pet Arrival (Annex B) plus a copy of the certificate, sent to the port's Veterinary Services",
+      "Import permit only for more than 2 animals, unaccompanied or cargo shipments, or restricted breeds"
+    ],
+    "import_permit": "Not required for up to 2 dogs or cats accompanying the owner on the same flight, provided the pet stays with the owner. Otherwise an import licence from the Director of Veterinary Services is required, and permit animals arrive as manifested cargo only (cargo inspections Sunday to Thursday, 06:00–24:00).",
+    "quarantine": "No quarantine for compliant pets.",
+    "timeline": "Plan at least 2–3 months before travel (less for pets from rabies-free countries): microchip → rabies vaccination at 3 months or older → titre at least 30 days later → health certificate within 10 days of departure → send Annex B notification at least 2 working days before departure → arrive at an approved port.",
+    "restricted_breeds": "Prohibited unless a case-by-case import permit is granted (vs-ie@moag.gov.il): American Staffordshire Terrier, Bull Terrier, Dogo Argentino, Japanese Tosa, Staffordshire Bull Terrier, Pit Bull Terrier, Fila Brasileiro, Rottweiler, plus crosses and look-alikes. Minimum age 4 months on arrival (3 months for pets from rabies-free countries).",
+    "private_aviation": "Approved ports of entry: Ben Gurion Airport, Haifa, Ashdod and Eilat seaports. Private jets should arrive at Ben Gurion (TLV). Other airports (e.g. Ramon/ETM) are not listed. A pet travelling with its owner on the same private flight fits the 'accompanied' route (2 pets or fewer, no permit). Send the pre-arrival notification to vs-airport@moag.gov.il at least 2 working days before departure. Shipments are not released until the Veterinary Services authorise them.",
+    "export": "Israel's Veterinary Services publish separate pet export guidance (not reviewed). Follow the destination country's rules.",
+    "authority": "Israeli Veterinary Services and Animal Health (IVSAH), Ministry of Agriculture and Food Security",
+    "sources": [
+      "https://www.gov.il/en/service/import_pets_cats_dogs",
+      "https://www.aphis.usda.gov/sites/default/files/guidance-information-for-pets-to-israel.pdf",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-israel",
+      "https://infopages.traveldoc.aero/Customs/ISR/Plain"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "PS",
+    "name": "Palestine",
+    "status": "unknown",
+    "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": null,
+    "restricted_breeds": null,
+    "private_aviation": "No operating airport in Palestinian territory. Access is via Israeli-controlled entry points (e.g. Ben Gurion, see IL) or Jordan (Allenby/King Hussein Bridge), so the transit country's rules apply.",
+    "export": null,
+    "authority": "Unknown (Palestinian Ministry of Agriculture)",
+    "sources": [
+      "https://infopages.traveldoc.aero/Customs/PSE/Plain"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "EG",
+    "name": "Egypt",
+    "status": "requirements",
+    "summary": "A health certificate from the origin country (valid 14 days) and a rabies vaccination given at least 30 days before entry and less than 12 months old are required. Pets are examined on arrival by the Egyptian Ministry of Agriculture.",
+    "microchip": "Not required for entry (per the USDA–Egypt certificate). Listed if present.",
+    "vaccinations": [
+      "Rabies: given no sooner than 30 days before entry (Traveldoc) and within the last 12 months. The pet must arrive at least 30 days before the 12-month anniversary of vaccination, i.e. no later than 11 months after (USDA–Egypt certificate)."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Health certificate from a licensed or government veterinarian in the origin country, valid 14 days from issue (US version endorsed by APHIS)",
+      "Rabies vaccination record"
+    ],
+    "import_permit": null,
+    "quarantine": "No quarantine stated. Inspection on arrival by the Ministry of Agriculture veterinary service.",
+    "timeline": "Plan at least 5–6 weeks before travel: rabies vaccination at least 30 days before entry (and less than 11 months before arrival) → health certificate within 14 days → arrival inspection.",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Ministry of Agriculture and Land Reclamation – General Organization for Veterinary Services (GOVS)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-egypt",
+      "https://www.aphis.usda.gov/sites/default/files/egypt-dog-cat.pdf",
+      "https://infopages.traveldoc.aero/Customs/EGY/Plain"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "LY",
+    "name": "Libya",
+    "status": "unknown",
+    "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": null,
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Unknown",
+    "sources": [
+      "https://infopages.traveldoc.aero/Customs/LBY/Plain"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TN",
+    "name": "Tunisia",
+    "status": "requirements",
+    "summary": "According to IATA Traveldoc, pets need a health certificate (checked by the competent authority at the border), and dangerous dogs such as pit bulls are prohibited. No official Tunisian veterinary source was found.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Health certificate for the pet"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1 month before travel. Confirm details with the Tunisian Ministry of Agriculture.",
+    "restricted_breeds": "Dangerous dogs such as Pit Bulls are prohibited (full list not found).",
+    "private_aviation": null,
+    "export": null,
+    "authority": "Ministry of Agriculture, Water Resources and Fisheries (Tunisia)",
+    "sources": [
+      "https://infopages.traveldoc.aero/Customs/TUN/Plain"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "DZ",
+    "name": "Algeria",
+    "status": "requirements",
+    "summary": "For US origin, USDA requires a health certificate (APHIS 7001) issued and endorsed within 10 days of departure, current rabies vaccination with a copy of the certificate, and deworming. All animals undergo veterinary inspection on entry.",
+    "microchip": null,
+    "vaccinations": [
+      "Rabies: must be current. A copy of the rabies certificate travels with the pet."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Deworming before export (no window specified).",
+    "documents": [
+      "Health certificate issued and endorsed within 10 days of departure (US: APHIS 7001)",
+      "Copy of current rabies vaccination certificate"
+    ],
+    "import_permit": null,
+    "quarantine": "Veterinary inspection at entry (Traveldoc). No quarantine period stated.",
+    "timeline": "Plan at least 1 month before travel: rabies vaccination current → deworming → health certificate within 10 days of departure.",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Ministry of Agriculture, Rural Development and Fisheries – Direction des Services Vétérinaires",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-algeria",
+      "https://infopages.traveldoc.aero/Customs/DZA/Plain"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MA",
+    "name": "Morocco",
+    "status": "requirements",
+    "summary": "For US origin, pets need permanent ID (microchip or tattoo) before an inactivated rabies vaccination, a bilingual ONSSA-model health certificate endorsed within 3 days of departure, and a clinical exam within 24 hours of departure. Rules for other origins were not verified.",
+    "microchip": "Permanent identification (microchip or tattoo) required, applied before the rabies vaccination.",
+    "vaccinations": [
+      "Rabies: correctly vaccinated with an inactivated vaccine, after identification (primary and last booster dates recorded)."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Morocco health certificate (French/English model, Dec 2017, for US origin): pet kept in rabies-free premises since birth or for the last 6 months. Issued within 5 business days and APHIS-endorsed within 3 calendar days of travel. Valid 3 days after endorsement.",
+      "Addendum: clinical exam within 24 hours of departure"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1–2 months before travel: microchip → rabies vaccination → health certificate within 5 business days → official endorsement within 3 days → final exam within 24 hours of departure.",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "ONSSA (Office National de Sécurité Sanitaire des Produits Alimentaires)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-morocco",
+      "https://www.aphis.usda.gov/sites/default/files/morocco-dog-cat_0.pdf",
+      "https://infopages.traveldoc.aero/Customs/MAR/Plain"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  }
+]

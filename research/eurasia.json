@@ -1,0 +1,601 @@
+[
+  {
+    "cc": "AL",
+    "name": "Albania",
+    "status": "requirements",
+    "summary": "EU-style non-commercial pet certificate issued by the origin country's official/accredited vet. A rabies titer test is needed only if the pet comes from, or transits, a country not on the Annex II list. The APHIS-endorsed certificate must be issued within 10 days of travel.",
+    "microchip": "Required: ISO microchip, or a legible tattoo applied before 3 July 2011, per the EU-model certificate used by Albania",
+    "vaccinations": [
+      "Rabies: required. Must be current; per the EU model, given at ≥12 weeks of age, with ≥21 days after the primary vaccination before entry",
+      "Young unvaccinated pets: an owner declaration form exists (APHIS 'Pet Not Vaccinated Against Rabies'). Acceptance is not guaranteed; confirm in advance"
+    ],
+    "rabies_titer": "Not required if the pet travels directly from, or transits only, Annex II-listed or EU countries (the US is covered). Otherwise required per the model certificate: ≥0.5 IU/ml, sample taken ≥30 days after vaccination and ≥3 months before travel. An owner declaration covers transit through unlisted countries",
+    "parasite_treatment": null,
+    "documents": [
+      "Albania health certificate for dogs, cats and ferrets (non-commercial). For US origin: issued by a USDA-accredited vet and APHIS-endorsed within 10 days of travel",
+      "Owner declaration (non-commercial movement / transit through unlisted country, where applicable)",
+      "Rabies vaccination record"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1 month if coming from a listed country (4+ months if a titer is needed): microchip → rabies vaccine (wait 21 days) → [titer + 3 months if unlisted origin] → health certificate within 10 days of travel",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Ministry of Agriculture and Rural Development of Albania / National Food Authority (AKU)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-albania",
+      "https://www.aphis.usda.gov/sites/default/files/albania-dogs-cats-ferrets-hc.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BA",
+    "name": "Bosnia and Herzegovina",
+    "status": "requirements",
+    "summary": "Up to 5 pets with microchip and rabies vaccination. From the EU/EFTA, an EU pet passport is enough. From other countries, an official health certificate valid 10 days is needed, and a titer test is needed if the origin country is not listed. Entry is only through designated traveller entry points.",
+    "microchip": "Required: transponder, or a clearly legible tattoo applied before 3 July 2011",
+    "vaccinations": [
+      "Rabies: given by an authorised vet at ≥12 weeks of age, not before the microchip. For EU/EFTA pets, valid from 21 days after the primary vaccination; boosters must fall within the validity period"
+    ],
+    "rabies_titer": "Not required from EU/EFTA or listed third countries (Annex IV Part B). Required from non-listed countries: ≥0.5 IU/ml at an approved lab, sample taken ≥30 days after vaccination and ≥3 months before import/transit",
+    "parasite_treatment": null,
+    "documents": [
+      "EU pet passport (EU/EFTA origin), OR",
+      "Veterinary health certificate from the official vet of the origin country (third countries), valid 10 days from issue to the entry check"
+    ],
+    "import_permit": "Not needed for ≤5 pets; more than 5 pets requires the full import procedure (contact info@vet.gov.ba)",
+    "quarantine": null,
+    "timeline": "Plan at least 1 month from EU/listed countries; 4+ months from non-listed countries (titer + 3-month wait). Health certificate within 10 days of arrival",
+    "restricted_breeds": null,
+    "private_aviation": "Must enter through a BiH-designated traveller entry point with veterinary checks. Confirm in advance that the arrival airport performs pet checks",
+    "export": "To the EU: health certificate (model KZV-EU-11a) issued via an official or authorised vet registered with the Veterinary Office of BiH. New EU certificate rules apply from 22 April 2026 (Regs (EU) 2026/131, 2026/705). Echinococcus treatment is needed if going to FI/IE/MT/NO (listed under Reg 1152/2011)",
+    "authority": "Office for Veterinary Affairs of Bosnia and Herzegovina (Kancelarija/Ured za veterinarstvo BiH)",
+    "sources": [
+      "https://www.vet.gov.ba/bs/document/d346",
+      "https://www.vet.gov.ba/en/dokument/d370"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "XK",
+    "name": "Kosovo",
+    "status": "unknown",
+    "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+    "microchip": "Unverified (third-party sites only): ISO microchip widely cited; Kosovo law requires owners to identify and register dogs and cats",
+    "vaccinations": [
+      "Unverified (third-party sites only): rabies vaccination for dogs/cats over 3 months, at least 21 days before entry"
+    ],
+    "rabies_titer": "Unverified: third-party sites say it is not required from most countries",
+    "parasite_treatment": "Unverified: one third-party guide mentions Echinococcus treatment for dogs",
+    "documents": [
+      "Unverified: veterinary health certificate from origin country (approx. 10 days before travel) plus rabies record"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 2 months and confirm with the Kosovo Food and Veterinary Agency (AUV) before booking",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Kosovo Food and Veterinary Agency (AUV / AUVK)",
+    "sources": [
+      "https://auvk.rks-gov.net/shendeti-i-kafsheve/",
+      "https://www.pettravel.com/information/pet-passports/kosovo-pet-import-requirements/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "ME",
+    "name": "Montenegro",
+    "status": "requirements",
+    "summary": "Montenegro uses the EU Regulation 576/2013 model for non-commercial pets (up to 5). It requires a microchip and a rabies vaccine at least 21 days old. A titer test is needed only if the pet comes from, or transits, a country not listed in Annex II of Reg 577/2013.",
+    "microchip": "Required: transponder (ISO), or a legible tattoo applied before 3 July 2011",
+    "vaccinations": [
+      "Rabies: at ≥12 weeks of age; ≥21 days must have elapsed since the primary vaccination; boosters within the validity period"
+    ],
+    "rabies_titer": "Only from, or via, non-listed countries: ≥0.5 IU/ml, sample ≥30 days after vaccination and ≥3 months before the certificate is issued. Not required for US/EU/other listed origins",
+    "parasite_treatment": null,
+    "documents": [
+      "Montenegro animal health certificate for non-commercial movement (bilingual, EU 576/2013 model), signed by an official/authorised vet. US origin: APHIS-endorsed",
+      "Owner declaration that the movement is non-commercial (pet accompanies the owner within 5 days)"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1 month from listed countries (4+ months otherwise): microchip → rabies (wait 21 days) → [titer + 3 months] → certificate shortly before travel",
+    "restricted_breeds": null,
+    "private_aviation": "Certificate names the Montenegro border inspection post of entry; arrange entry at an airport with veterinary border control (e.g. Podgorica/Tivat)",
+    "export": null,
+    "authority": "Administration for Food Safety, Veterinary and Phytosanitary Affairs of Montenegro",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-montenegro",
+      "https://www.aphis.usda.gov/sites/default/files/us-pets-to-montenegro_june-2025_fillable.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MK",
+    "name": "North Macedonia",
+    "status": "requirements",
+    "summary": "EU-style health certificate for dogs and cats. A titer test is needed only if the pet does not come directly from, or transits, a country outside Annex II. For US origin, APHIS must endorse the certificate within 10 days of travel.",
+    "microchip": "Required (EU-model certificate: ISO microchip or pre-3 July 2011 tattoo)",
+    "vaccinations": [
+      "Rabies: must be current (EU-model timing: ≥12 weeks old, ≥21 days after primary vaccination)"
+    ],
+    "rabies_titer": "Not required when travelling directly from, or only via, Annex II-listed countries. Otherwise required per the model certificate (≥0.5 IU/ml, ≥30 days after vaccination, ≥3 months before travel)",
+    "parasite_treatment": null,
+    "documents": [
+      "North Macedonia health certificate for dogs and cats (APHIS-endorsed within 10 days of travel for US origin)",
+      "Owner declarations where applicable (unvaccinated young pet; transit through non-Annex II country)"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1 month (4+ months if titer needed): microchip → rabies (21 days) → certificate within 10 days of travel",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Food and Veterinary Agency of North Macedonia (AHV)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-north-macedonia",
+      "https://www.aphis.usda.gov/sites/default/files/north-macedonia-dog-cat-hc.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "RS",
+    "name": "Serbia",
+    "status": "requirements",
+    "summary": "EU-model certificate for up to 5 pets: microchip and a valid rabies vaccination (21-day wait after primary). A titer test is needed only from, or via, non-listed countries. For US origin, the certificate must be issued and APHIS-endorsed within 10 days of travel (within 24 hours if more than 5 pets).",
+    "microchip": "Required (permanent marking by microchip; tattoo accepted only if applied before 3 July 2011)",
+    "vaccinations": [
+      "Rabies: vaccine with ≥1 antigenic unit/dose (WHO); for a primary vaccination, 21 days must pass before entry; boosters within validity",
+      "Pets under 16 weeks: accepted only with owner declaration of no contact with wild rabies-susceptible animals, or accompanied by vaccinated mother"
+    ],
+    "rabies_titer": "Only if coming from, or transiting, a non-listed country: ≥0.5 IU/ml at an approved lab, sample ≥30 days after vaccination and ≥3 months before import",
+    "parasite_treatment": "Echinococcus treatment optional for entry into Serbia (APHIS)",
+    "documents": [
+      "Serbia certificate for non-commercial movement of ≤5 dogs/cats/ferrets (separate form for >5) — valid for 4 months after issue for onward movement, or until rabies vaccine expiry",
+      "Owner's non-commercial declaration",
+      "Pet passport from origin country (Serbian government tourism page)"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1 month from listed countries (4+ months otherwise): microchip → rabies (21 days) → certificate within 10 days of travel",
+    "restricted_breeds": null,
+    "private_aviation": "APHIS notes Serbia restricts imports/transit from Germany and Hungary over foot-and-mouth disease; avoid routing via DE/HU with animals until confirmed this does not apply to pets",
+    "export": null,
+    "authority": "Veterinary Directorate, Ministry of Agriculture, Forestry and Water Management of Serbia (Uprava za veterinu)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-serbia",
+      "https://www.aphis.usda.gov/sites/default/files/serbia-cat-dog-ferret_0.pdf",
+      "https://welcometoserbia.gov.rs/traveling-with-a-pet"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MD",
+    "name": "Moldova",
+    "status": "requirements",
+    "summary": "Microchip (implanted before rabies vaccination), rabies vaccination, international pet passport and a veterinary health certificate. Official Moldovan guidance also calls for a rabies antibody titer report, but the APHIS certificate for US pets does not mention one. Confirm the titer requirement with ANSA before booking.",
+    "microchip": "Required: electronic transponder implanted before rabies vaccination (ISO 11784/11785 recommended)",
+    "vaccinations": [
+      "Rabies: required, current; vaccination after microchipping. Pets under 3 months only if dam was vaccinated (APHIS certificate)"
+    ],
+    "rabies_titer": "ANSA guide (based on older Gov. Decision 839/2009): titer ≥0.5 IU/ml, done ≤24 months and ≥3 months before shipment. ANSA's 2025 notice lists a lab titer report among documents. Not mentioned on the APHIS US-origin certificate. Unclear whether titer is waived under current Gov. Decision 660/2022 — confirm",
+    "parasite_treatment": null,
+    "documents": [
+      "Veterinary health certificate from origin country (APHIS US version: valid 30 days after issuance)",
+      "International pet passport with microchip and rabies data",
+      "Rabies titer lab report (per ANSA)",
+      "Written declaration of the animal at the border; present to the border veterinary inspector"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 4 months to be safe (if titer applies): microchip → rabies → titer ≥30 days later → wait 3 months → health certificate",
+    "restricted_breeds": null,
+    "private_aviation": "Enter via a border point with veterinary inspection (Chișinău airport); ANSA Border Inspection Directorate +373 22 29-47-15",
+    "export": "ANSA 'Certificate for non-commercial movement of pets' applied online (servicii.gov.md / EVO app) at least 3–5 days before travel; needs ID, pet passport (microchip, rabies details), official titer lab report, clinical exam record; issued on paper by ANSA territorial office",
+    "authority": "National Food Safety Agency of Moldova (ANSA)",
+    "sources": [
+      "https://ansa.gov.md/media/comunicate-de-presa/atentia-detinatorilor-de-animale-de-companie-ansa-faciliteaza-obtinerea",
+      "https://customs.gov.md/en/articles/animale-de-companie-1919-ro",
+      "https://www.ansa.gov.md/sites/default/files/documents/S%C4%83n%C4%83tatea_%C8%99i_bun%C4%83starea_animalelor/GHID%20PRIVIND%20CIRCULA%C5%A2IA%20ANIMALELOR%20DE%20COMPANIE%20(1).pdf",
+      "https://www.aphis.usda.gov/sites/default/files/moldova-dog-cat-hc.pdf"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "UA",
+    "name": "Ukraine",
+    "status": "requirements",
+    "summary": "International certificate for non-commercial movement (up to 5 pets): ISO microchip, current rabies vaccination, and, per the US-origin model certificate, a rabies titer test. Ukrainian airspace is closed to civil flights, so entry is overland only.",
+    "microchip": "Required: ISO microchip, or tattoo applied before 3 July 2011",
+    "vaccinations": [
+      "Rabies: over 12 weeks must be current (US-licensed vaccine for US origin); ≥21 days after primary vaccination or after a booster given outside the validity period",
+      "Pets under 12 weeks: must NOT have been vaccinated; 12–16 weeks unvaccinated/<21 days: allowed only with no-wildlife-contact declaration or vaccinated mother"
+    ],
+    "rabies_titer": "US origin (APHIS): required, ≥0.5 IU/ml at an approved lab, sample >3 months before export; remains valid if no vaccination lapse. Model certificate wording also references 'not more than 12 months' — confirm with Ukrainian authority. Whether a titer is required from EU/other countries could not be verified (Order No. 553 of 16.11.2018 governs)",
+    "parasite_treatment": "Model certificate includes an anti-Echinococcus treatment section; APHIS page does not list it as mandatory — confirm",
+    "documents": [
+      "International certificate for introduction into Ukraine of dogs, cats and ferrets for non-commercial movement (issued by accredited vet, endorsed by competent authority)",
+      "International pet passport with rabies vaccination",
+      "Original rabies titer lab report"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 4 months: microchip → rabies → titer → 3-month wait → certificate",
+    "restricted_breeds": null,
+    "private_aviation": "Ukrainian airspace closed to civil aviation since 24 Feb 2022 (martial law); no flights possible — reach via neighbouring country (e.g. Poland, Moldova) and cross by land at a border post with veterinary control",
+    "export": null,
+    "authority": "State Service of Ukraine on Food Safety and Consumer Protection (Derzhprodspozhyvsluzhba / DPSS)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-ukraine",
+      "https://www.aphis.usda.gov/sites/default/files/ukraine-cat-dog-ferret_5.pdf",
+      "https://dpss.gov.ua/news/vvezennia-domashnikh-tvaryn-v-ukrainu"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "BY",
+    "name": "Belarus",
+    "status": "requirements",
+    "summary": "EAEU common rules: up to 2 personal dogs/cats with an international pet passport (rabies + core vaccines, clinical exam within 14 days), or an EAEU Form 15 certificate. For US origin, APHIS allows up to 5 pets on a Form 15 certificate issued within 5 days of travel. Flights are heavily restricted by sanctions.",
+    "microchip": "Not mandated by EAEU rules (strongly recommended; required in practice to match documents)",
+    "vaccinations": [
+      "Rabies: all dogs/cats ≥3 months, given ≥20 days before travel unless vaccinated within the last 12 months (multi-year vaccine accepted while valid, or titer ≥0.5 IU/ml)",
+      "Dogs: distemper, hepatitis (adenovirus), parvovirus, adenovirus, leptospirosis (or dihydrostreptomycin prophylaxis) — ≥20 days and ≤12 months before travel",
+      "Cats: panleukopenia — ≥20 days and ≤12 months before travel"
+    ],
+    "rabies_titer": "Not required; only an alternative to a lapsed vaccination (≥0.5 IU/ml)",
+    "parasite_treatment": "Not mandatory (any treatment given should be recorded)",
+    "documents": [
+      "≤2 pets: international veterinary passport with vaccinations and competent-authority mark of clinical exam within 14 days before dispatch, OR",
+      "EAEU Veterinary Certificate Form 15 (APHIS: vet exam and issue within 5 days, APHIS-endorsed); cats examined clinically for ringworm"
+    ],
+    "import_permit": "Not needed for ≤2 personal dogs/cats (EAEU). More than 2 / unaccompanied may need a permit and quarantine. APHIS states up to 5 pets total without special permission on Form 15",
+    "quarantine": "None for compliant personal pets (≤2 under EAEU passport rule; ≤5 under APHIS/Form 15 guidance)",
+    "timeline": "Plan at least 1 month: rabies + core vaccines ≥20 days before travel → clinical exam/certificate within 5 days (Form 15) or 14 days (passport mark)",
+    "restricted_breeds": null,
+    "private_aviation": "Heavily restricted: EU bans Belarusian carriers and EU operators avoid Belarus airspace; US export controls restrict flights of US-origin aircraft to Belarus. Check with Elysium Jet operations",
+    "export": null,
+    "authority": "Ministry of Agriculture and Food of Belarus — Department of Veterinary and Food Supervision (EAEU rules)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-belarus",
+      "https://www.aphis.usda.gov/sites/default/files/russia-dog-cat-guidance_0.pdf",
+      "https://fsvps.gov.ru/news/v-veterinarnye-trebovanija-pri-vvoze-v-evrazijskij-jekonomicheskij-sojuz-sobak-koshek-horkov-i-krolikov-vneseny-izmenenija/",
+      "https://inspection.canada.ca/en/animal-health/terrestrial-animals/exports/pets/eurasian-economic-union"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "RU",
+    "name": "Russia",
+    "status": "requirements",
+    "summary": "EAEU rules: up to 2 personal dogs/cats with an international pet passport (rabies and core vaccines, clinical-exam mark within 14 days of departure) need no permit or quarantine. Without a passport, or for unaccompanied pets, an EAEU Form 15 certificate is needed. More than 2 pets needs a permit (annual Form 1 permit covers up to 5). Flights are heavily restricted by sanctions.",
+    "microchip": "Not required by Rosselkhoznadzor for import (unidentified pets may be imported for home keeping); recommended",
+    "vaccinations": [
+      "Rabies: all dogs/cats ≥3 months, ≥20 days before dispatch unless vaccinated within last 12 months; 3-year vaccine accepted if vet confirms still valid; or titer ≥0.5 IU/ml",
+      "Dogs: distemper, hepatitis, parvovirus, adenovirus, leptospirosis (or dihydrostreptomycin prophylaxis) — ≥20 days before, within last 12 months",
+      "Cats: panleukopenia — ≥20 days before, within last 12 months",
+      "Unvaccinated puppies/kittens <3 months: only with Form 15 certificate"
+    ],
+    "rabies_titer": "Not required (only an alternative to proof of valid vaccination)",
+    "parasite_treatment": "Not required",
+    "documents": [
+      "≤2 pets accompanied by owner: international veterinary passport with vaccination records and stamp of the origin country's competent authority confirming clinical exam within 14 days before shipment (serves as the veterinary certificate)",
+      "Otherwise: EAEU Veterinary Certificate Form 15 (US: APHIS-endorsed, exam within 5 days per APHIS guidance; APHIS page states Russia allows exam up to 14 days before)"
+    ],
+    "import_permit": "None for ≤2 personal dogs/cats with owner. >2 animals or unaccompanied: Rosselkhoznadzor permit via Argus system; annual generic Form No. 1 permit covers up to 5 pets from listed countries (non-commercial)",
+    "quarantine": "None for compliant personal pets",
+    "timeline": "Plan at least 1 month: vaccines ≥20 days before → clinical exam/stamp within 14 days (passport) or 5 days (Form 15) → enter via a border point with veterinary control",
+    "restricted_breeds": "No import ban found. Russia has a government list of potentially dangerous dog breeds subject to keeping/walking rules (not verified in this research)",
+    "private_aviation": "Heavily restricted: reciprocal airspace bans with EU/UK/US/Canada and others; US/EU/UK export controls and sanctions bar many business jets (US-origin or Western-registered/operated) from flying to Russia. Check with Elysium Jet operations before quoting. Entry only at border points with veterinary control. APHIS also notes temporary transit restrictions via Germany/Hungary for FMD-susceptible animals (not dog/cat specific)",
+    "export": "Rosselkhoznadzor: check destination rules; microchip (ISO) and rabies vaccination as required by destination; titer at approved lab for EU, Switzerland, UAE, Japan, Israel, Turkey, US (dogs) etc. Obtain Form No. 1 veterinary certificate from district state vet station (СББЖ) via Mercury, ≤5 days before departure. At airport veterinary control (or in advance at Rosselkhoznadzor offices/VGNKI, up to 5 days ahead, or online via ecert.vetrf.ru) exchange for EU certificate, Form 5a or destination-specific export certificate. No permit for owner-accompanied pets. Within EAEU (BY/KZ/AM/KG) Form 1 suffices. Rosselkhoznadzor guidance does not mention any cultural-value certificate for pedigree dogs; no current official source found requiring one",
+    "authority": "Rosselkhoznadzor (Federal Service for Veterinary and Phytosanitary Surveillance), applying EAEU common veterinary requirements",
+    "sources": [
+      "https://fsvps.gov.ru/puteshestvujushhim-s-pitomcami-vvoz-vyvo/instrukcija-kak-vvezti-domashnee-zhivotnoe-v-rossiju/",
+      "https://fsvps.gov.ru/puteshestvujushhim-s-pitomcami-vvoz-vyvo/instrukcija-kak-puteshestvovat-s-zhivotnym-za-rubezh/",
+      "https://fsvps.gov.ru/news/v-veterinarnye-trebovanija-pri-vvoze-v-evrazijskij-jekonomicheskij-sojuz-sobak-koshek-horkov-i-krolikov-vneseny-izmenenija/",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-russian-federation",
+      "https://www.aphis.usda.gov/sites/default/files/russia-dog-cat-guidance_0.pdf"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TR",
+    "name": "Turkey",
+    "status": "requirements",
+    "summary": "Max 2 pets per passenger. Each needs a microchip (before rabies vaccination), rabies vaccination, a rabies titer of at least 0.5 IU/ml (blood drawn 30+ days after vaccination, then a 90-day wait) and a health certificate issued within 2 days of travel. Several dog breeds are banned from entry.",
+    "microchip": "Required: ISO 11784/11785 microchip (or legible tattoo) applied before rabies vaccination; owner must supply reader if non-ISO",
+    "vaccinations": [
+      "Rabies: inactivated or recombinant vaccine (not modified live), given on/after microchip date; booster after lapse counts as primary. Canada's CFIA notes Türkiye does not accept 3-year vaccine validity",
+      "Pets <3 months unvaccinated: admitted only under Ministry conditions (APHIS: 21-day home quarantine, or no-wildlife-contact declaration, or accompanied by vaccinated mother)"
+    ],
+    "rabies_titer": "Required: ≥0.5 IU/ml at an EU-approved lab, blood sampled ≥30 days after vaccination, and travel ≥3 months (90 days) after the test. Valid for life if boosters are never lapsed. Without a valid titer, 21-day quarantine and titer testing on arrival may apply (APHIS)",
+    "parasite_treatment": "APHIS guidance (US origin): tick (ectoparasite) treatment and Echinococcus (tapeworm) treatment within 30 days before travel, signed by vet",
+    "documents": [
+      "Veterinary Health and Origin Certificate for cats/dogs/ferrets with passenger (one certificate per pet), issued by origin competent authority within 2 days before travel (US: APHIS endorsement ≤2 days before departure)",
+      "Pet passport or ID showing ownership",
+      "Original rabies titer report",
+      "Rabies vaccination certificate"
+    ],
+    "import_permit": null,
+    "quarantine": "None if compliant; 21 days possible if titer missing or for young unvaccinated pets",
+    "timeline": "Plan at least 4–5 months: microchip → rabies vaccine → titer blood draw ≥30 days later → wait 3 months → tick + tapeworm treatment within 30 days → health certificate within 2 days of travel",
+    "restricted_breeds": "Import banned (Law 5199 Art. 14(1)(l) and Ministry dangerous-animals circular): American Pit Bull Terrier, Japanese Tosa, Dogo Argentino, Fila Brasileiro, American Staffordshire Terrier, American Bully, and their crosses (list per Ministry; may change)",
+    "private_aviation": "Pets must enter through Ministry-approved border posts (approved port list on APHIS page). Effective 17 July 2026, Türkiye restricts dogs/cats from Texas and New Mexico (New World screwworm): no export from/transit via TX or NM",
+    "export": "Pet must be microchipped and registered in PETVET with a Turkish pet passport (foreign pets keep existing chip/passport). Rabies vaccine at ≥12 weeks, on/after chip date. FAVN titer (Etlik VKMAEM, ≥30 days after vaccination) if destination requires. Veterinary Health Certificate from the Provincial/District Directorate of Agriculture within 48 hours before departure. Protected native breeds (Kangal, Akbaş, Kars dog, Çatalburun, Zağar, Ankara cat, Van cat) need prior permission to leave; passports listing breed/colour only as 'mix' are rejected. Banned dangerous breeds may leave only if registered and destination accepts",
+    "authority": "Ministry of Agriculture and Forestry of the Republic of Türkiye (General Directorate of Food and Control; Veterinary Border Control Posts)",
+    "sources": [
+      "https://vskn.tarimorman.gov.tr/ataturk/Link/16/Kedi-Kopek-Gelincik-Seyahati",
+      "https://vskn.tarimorman.gov.tr/adnanmenderes/Duyuru/3/Yolcu-Beraberi-Kedi-Kopek-Seyahati",
+      "https://vskn.tarimorman.gov.tr/tekirdag/Belgeler/D%C3%96K%C3%9CMAN/Kedi%20Ve%20K%C3%B6peklerin%20Yurt%20D%C4%B1%C5%9F%C4%B1na%20Yolcu%20Beraberi%20Ve%20Ticari%20Sevklerine%20%C4%B0li%C5%9Fkin%20Uygulama%20Talimat%C4%B1.pdf",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-turkey",
+      "https://www.aphis.usda.gov/sites/default/files/turkey-pet-guidance_5.pdf",
+      "https://inspection.canada.ca/en/animal-health/terrestrial-animals/exports/pets/republic-turkiye"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GE",
+    "name": "Georgia",
+    "status": "requirements",
+    "summary": "No import permit for up to 5 non-commercial pets. Each needs a current rabies vaccination (at least 21 days after primary) and a health certificate valid 10 days. Dogs must be treated for internal and external parasites. A titer test is needed only when transiting a country outside the Article 7 list (or the owner signs Annex 3).",
+    "microchip": "Identification required on the model certificate (microchip)",
+    "vaccinations": [
+      "Rabies: current; ≥21 days after primary vaccination (else Annex No. 2 for pets <12 weeks unvaccinated, or 12–16 weeks with <21 days unless accompanied by vaccinated mother)"
+    ],
+    "rabies_titer": "Not required when travelling directly or only via Article 7-listed countries. If transiting a non-listed country: titer ≥3 months before export and >30 days after last rabies vaccination, OR owner signs Annex No. 3",
+    "parasite_treatment": "Dogs: internal (anthelmintic) and external (flea/tick) treatment before travel",
+    "documents": [
+      "International health certificate for pet dogs, cats and ferrets (valid 10 days from issue; US: APHIS-endorsed)",
+      "Annex No. 5 non-commercial declaration (all pets)",
+      "Annex No. 2 / No. 3 where applicable"
+    ],
+    "import_permit": "Not required (US-origin pets, per APHIS)",
+    "quarantine": null,
+    "timeline": "Plan at least 1 month: rabies (21 days) → dog parasite treatments → certificate within 10 days of travel",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "National Food Agency of Georgia (Ministry of Environmental Protection and Agriculture)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-georgia",
+      "https://www.aphis.usda.gov/sites/default/files/georgia-guidance-information-for-pets_4.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "AM",
+    "name": "Armenia",
+    "status": "requirements",
+    "summary": "EAEU member with the same rules as Russia. Up to 2 personal dogs/cats may enter on an international passport with rabies and core vaccines and a clinical-exam mark from within 14 days; otherwise an EAEU Form 15 certificate is needed. For US origin, APHIS allows up to 5 pets on Form 15 issued within 5 days of travel.",
+    "microchip": "Not mandated by EAEU rules; recommended",
+    "vaccinations": [
+      "Rabies: dogs/cats ≥3 months, ≥20 days before travel unless vaccinated within last 12 months (multi-year vaccine OK while valid)",
+      "Dogs: distemper, hepatitis, parvovirus, adenovirus, leptospirosis — ≥20 days, ≤12 months before",
+      "Cats: panleukopenia — ≥20 days, ≤12 months before"
+    ],
+    "rabies_titer": "Not required (alternative only)",
+    "parasite_treatment": null,
+    "documents": [
+      "International pet passport with clinical exam mark ≤14 days (≤2 pets), or EAEU Form 15 certificate (APHIS: issued and endorsed within 5 days of travel)"
+    ],
+    "import_permit": "Not needed for ≤2 personal pets (EAEU); APHIS states up to 5 without special permission",
+    "quarantine": "None for compliant personal pets",
+    "timeline": "Plan at least 1 month: vaccines ≥20 days before → exam/certificate within 5 days",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Food Safety Inspection Body of Armenia (EAEU common veterinary requirements)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-armenia",
+      "https://www.aphis.usda.gov/sites/default/files/russia-dog-cat-guidance_0.pdf",
+      "https://fsvps.gov.ru/news/v-veterinarnye-trebovanija-pri-vvoze-v-evrazijskij-jekonomicheskij-sojuz-sobak-koshek-horkov-i-krolikov-vneseny-izmenenija/"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "AZ",
+    "name": "Azerbaijan",
+    "status": "unknown",
+    "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+    "microchip": "Unverified (third-party sites only): ISO 11784/11785 microchip",
+    "vaccinations": [
+      "Unverified (third-party sites only): rabies at least 21–30 days before arrival (sources disagree)"
+    ],
+    "rabies_titer": "Unverified: third-party sites say not required",
+    "parasite_treatment": null,
+    "documents": [
+      "Unverified: international health certificate from origin country's accredited vet, government-endorsed"
+    ],
+    "import_permit": "Unverified: third-party sites say not required for personal pets",
+    "quarantine": null,
+    "timeline": "Plan at least 2 months and confirm with the Azerbaijan Food Safety Agency (AFSA)",
+    "restricted_breeds": null,
+    "private_aviation": "Unverified: third-party sites say live animals enter via Heydar Aliyev International Airport (Baku)",
+    "export": null,
+    "authority": "Azerbaijan Food Safety Agency (AFSA)",
+    "sources": [
+      "https://www.pettravel.com/information/pet-passports/azerbaijan-pet-import-requirements/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KZ",
+    "name": "Kazakhstan",
+    "status": "requirements",
+    "summary": "EAEU member with the same rules as Russia. Up to 2 personal dogs/cats may enter on an international passport with rabies and core vaccines and a clinical-exam mark from within 14 days; otherwise an EAEU Form 15 certificate is needed. For US origin, APHIS allows up to 5 pets on Form 15 issued within 5 days of travel.",
+    "microchip": "Not mandated by EAEU rules; recommended",
+    "vaccinations": [
+      "Rabies: dogs/cats ≥3 months, ≥20 days before travel unless vaccinated within last 12 months (multi-year vaccine OK while valid)",
+      "Dogs: distemper, hepatitis, parvovirus, adenovirus, leptospirosis — ≥20 days, ≤12 months before",
+      "Cats: panleukopenia — ≥20 days, ≤12 months before"
+    ],
+    "rabies_titer": "Not required (alternative only)",
+    "parasite_treatment": null,
+    "documents": [
+      "International pet passport with clinical exam mark ≤14 days (≤2 pets), or EAEU Form 15 certificate (APHIS: issued and endorsed within 5 days of travel)"
+    ],
+    "import_permit": "Not needed for ≤2 personal pets (EAEU); APHIS states up to 5 without special permission",
+    "quarantine": "None for compliant personal pets",
+    "timeline": "Plan at least 1 month: vaccines ≥20 days before → exam/certificate within 5 days",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Committee of Veterinary Control and Supervision, Ministry of Agriculture of Kazakhstan (EAEU common veterinary requirements)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-kazakhstan",
+      "https://www.aphis.usda.gov/sites/default/files/arm-kaz-kry-dog-cat.pdf",
+      "https://fsvps.gov.ru/news/v-veterinarnye-trebovanija-pri-vvoze-v-evrazijskij-jekonomicheskij-sojuz-sobak-koshek-horkov-i-krolikov-vneseny-izmenenija/"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "KG",
+    "name": "Kyrgyzstan",
+    "status": "requirements",
+    "summary": "EAEU member with the same rules as Russia. Up to 2 personal dogs/cats may enter on an international passport with rabies and core vaccines and a clinical-exam mark from within 14 days; otherwise an EAEU Form 15 certificate is needed. For US origin, APHIS allows up to 5 pets on Form 15 issued within 5 days of travel.",
+    "microchip": "Not mandated by EAEU rules; recommended",
+    "vaccinations": [
+      "Rabies: dogs/cats ≥3 months, ≥20 days before travel unless vaccinated within last 12 months (multi-year vaccine OK while valid)",
+      "Dogs: distemper, hepatitis, parvovirus, adenovirus, leptospirosis — ≥20 days, ≤12 months before",
+      "Cats: panleukopenia — ≥20 days, ≤12 months before"
+    ],
+    "rabies_titer": "Not required (alternative only)",
+    "parasite_treatment": null,
+    "documents": [
+      "International pet passport with clinical exam mark ≤14 days (≤2 pets), or EAEU Form 15 certificate (APHIS: issued and endorsed within 5 days of travel)"
+    ],
+    "import_permit": "Not needed for ≤2 personal pets (EAEU); APHIS states up to 5 without special permission",
+    "quarantine": "None for compliant personal pets",
+    "timeline": "Plan at least 1 month: vaccines ≥20 days before → exam/certificate within 5 days",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Veterinary authority of the Kyrgyz Republic, Ministry of Water Resources, Agriculture and Processing Industry (EAEU common veterinary requirements)",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-kyrgyzstan",
+      "https://www.aphis.usda.gov/sites/default/files/arm-kaz-kry-dog-cat.pdf",
+      "https://fsvps.gov.ru/news/v-veterinarnye-trebovanija-pri-vvoze-v-evrazijskij-jekonomicheskij-sojuz-sobak-koshek-horkov-i-krolikov-vneseny-izmenenija/"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TJ",
+    "name": "Tajikistan",
+    "status": "unknown",
+    "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Contact the Tajik veterinary authority / embassy at least 2 months before travel",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Veterinary authority of Tajikistan (Committee for Food Security under the Government of the Republic of Tajikistan) — not verified",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "TM",
+    "name": "Turkmenistan",
+    "status": "unknown",
+    "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+    "microchip": null,
+    "vaccinations": [],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Contact the Turkmen veterinary authority / embassy at least 2 months before travel",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "State Veterinary Service of Turkmenistan (Ministry of Agriculture) — not verified",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "UZ",
+    "name": "Uzbekistan",
+    "status": "requirements",
+    "summary": "For US origin: a microchip, a current rabies vaccination, and a veterinary health certificate issued by an accredited vet and APHIS-endorsed (valid 30 days after issuance). Rules for other origins were not verified.",
+    "microchip": "Required (microchip number verified on certificate)",
+    "vaccinations": [
+      "Rabies: current at time of export (vaccine name, batch and validity recorded)"
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Veterinary Health Certificate for Export of Dogs and Cats to Uzbekistan (US: accredited vet + APHIS endorsement; valid 30 days after issuance)"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1 month: microchip → rabies vaccination (current) → certificate within 30 days of arrival",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "Committee for Veterinary and Livestock Development of the Republic of Uzbekistan",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-uzbekistan",
+      "https://www.aphis.usda.gov/sites/default/files/uzbekistan-dog-cat-hc.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MN",
+    "name": "Mongolia",
+    "status": "requirements",
+    "summary": "For US origin: a microchip, a current rabies vaccination, and a veterinary health certificate issued by an accredited vet and APHIS-endorsed (valid 30 days after issuance). Rules for other origins were not verified.",
+    "microchip": "Required (microchip number verified on certificate)",
+    "vaccinations": [
+      "Rabies: current at time of export (vaccine name, batch and validity recorded)"
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Veterinary Health Certificate for Export of Dogs and Cats to Mongolia (US: accredited vet + APHIS endorsement; valid 30 days after issuance)"
+    ],
+    "import_permit": null,
+    "quarantine": null,
+    "timeline": "Plan at least 1 month: microchip → rabies vaccination (current) → certificate within 30 days of arrival",
+    "restricted_breeds": null,
+    "private_aviation": null,
+    "export": null,
+    "authority": "General Authority for Veterinary Services of Mongolia / General Agency for Specialized Inspection",
+    "sources": [
+      "https://www.aphis.usda.gov/pet-travel/pet-travel-united-states-mongolia",
+      "https://www.aphis.usda.gov/sites/default/files/pet-dogs-cats-mongolia-hc.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  }
+]

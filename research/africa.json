@@ -1,0 +1,1502 @@
+[
+ {
+  "cc": "AO",
+  "name": "Angola",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "For US-origin pets (APHIS): no Angola pet page or certificate; APHIS's Angola live-animal export page (last modified 1 Oct 2025) lists only livestock/germplasm certificates and says requirements for unlisted species are not known. APHIS's general advice for unknown-requirement countries is a health certificate from a vet (e.g. APHIS Form 7001, ideally USDA-endorsed) plus proof of current rabies vaccination."
+  ],
+  "import_permit": "Not confirmed by an official source. Non-official pet-travel sites contradict each other on whether an Instituto dos Serviços de Veterinária (ISV) import permit is required — confirm with ISV/embassy.",
+  "quarantine": null,
+  "timeline": "Plan at least 2 months before travel: obtain written requirements from Angola's veterinary services (ISV) or embassy, then rabies vaccination, health certificate and government endorsement as instructed.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Instituto dos Serviços de Veterinária (ISV), Ministry of Agriculture (per non-official sources)",
+  "sources": [
+   "https://www.aphis.usda.gov/live-animal-export/export-live-animals-angola",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "BJ",
+  "name": "Benin",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "For US-origin pets (APHIS): Benin is listed (Green Banner) on APHIS's 'Unknown Requirements' page (last modified 29 Jul 2026) — APHIS has not been officially informed of Benin's requirements. APHIS advises a vet-issued health certificate (e.g. APHIS Form 7001, preferably USDA-endorsed) and proof of current rabies vaccination."
+  ],
+  "import_permit": "Not confirmed by an official source (non-official sources mention a permit from the Direction de l'Élevage).",
+  "quarantine": null,
+  "timeline": "Plan at least 2 months before travel: obtain written requirements from Benin's Direction de l'Élevage (Ministry of Agriculture, Livestock and Fisheries) or embassy, then vaccination and certificate as instructed.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministère de l'Agriculture, de l'Élevage et de la Pêche — Direction de l'Élevage",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "BW",
+  "name": "Botswana",
+  "status": "requirements",
+  "summary": "Dogs and cats need a health certificate from the exporting country's veterinarian (government-endorsed) and current rabies vaccination. An import permit from the Department of Veterinary Services is reported as required for most origins, but sources conflict for SADC neighbours; confirm with DVS.",
+  "microchip": "Microchip number required on the US-origin certificate. ISO 11784/11785 recommended.",
+  "vaccinations": [
+   "Rabies: current at export. Animals under 3 months may travel if the dam was vaccinated (US certificate). Pet-shipper sources: 30 days to 12 months before entry.",
+   "Core vaccines (dogs: DHPPi+L; cats: FVRCP) recommended – not on the US certificate"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Veterinary health certificate (US: 'Veterinary Health Certificate for Export of Dogs and/or Cats from the USA to Botswana', USDA ink-signed and embossed)",
+   "Rabies vaccination certificate",
+   "Botswana import permit from DVS, if required for the origin"
+  ],
+  "import_permit": "DVS issues live-animal import permits (government service listing). A pet shipper states no permit for South Africa-origin pets; other sources say a permit is required except from some SADC neighbours. Confirm with DVS before booking.",
+  "quarantine": "No routine quarantine reported. Non-compliant animals may be quarantined, re-exported or euthanised at the owner's cost.",
+  "timeline": "Plan at least 4-6 weeks: rabies vaccination (30+ days ahead) → check with DVS whether a permit is needed → health certificate and government endorsement (US: APHIS ink endorsement) shortly before travel.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": "Namibia accepts Botswana-origin pets with a state-vet health certificate and rabies vaccination.",
+  "authority": "Ministry of Lands and Agriculture – Department of Veterinary Services (DVS), Botswana",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-botswana",
+   "https://www.aphis.usda.gov/sites/default/files/botswana-dog-cat.pdf",
+   "https://keringa.com/wp-content/uploads/2022/05/Botswana-Regulations-as-at-4-May-2022.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "BF",
+  "name": "Burkina Faso",
+  "status": "requirements",
+  "summary": "For US-origin pets (APHIS): USDA-accredited vet issues the bilingual APHIS 'Veterinary Health Certificate for Export of Dogs and Cats to Burkina Faso' (valid 30 days) certifying health and rabies vaccination; USDA original ink endorsement required. Official Burkinabè requirements for other origins were not found.",
+  "microchip": "For US-origin pets (APHIS): not stated as mandatory; vet verifies any microchip listed on the certificate (animal identified by microchip number and/or name).",
+  "vaccinations": [
+   "Rabies: animals must be vaccinated; certificate records vaccination date, vaccine name, batch number and end of validity (no minimum wait stated on the APHIS certificate)."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "Not required on the APHIS certificate (optional section for other vaccinations/treatments/tests).",
+  "documents": [
+   "APHIS bilingual health certificate for Burkina Faso, issued by a USDA-accredited vet (electronic signature via VEHCS accepted), valid 30 days after issuance",
+   "Clinical exam on date of issue: free of infectious/contagious disease incl. rabies; from an area not quarantined for rabies",
+   "USDA APHIS endorsement with original ink signature and embossed seal (can be returned by mail with prepaid label); original must travel with the animal"
+  ],
+  "import_permit": "Not mentioned by APHIS. Non-official sources report a permit from the Direction des Services Vétérinaires (Ouagadougou) — confirm locally.",
+  "quarantine": "None mentioned by APHIS.",
+  "timeline": "Plan at least 6 weeks before travel: confirm current rabies vaccination → vet exam and certificate within 30 days of arrival → APHIS ink endorsement (allow mailing time) → travel with original.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministère de l'Agriculture, des Ressources animales et halieutiques — Direction des Services Vétérinaires; USDA APHIS (US export)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-burkina-faso",
+   "https://www.aphis.usda.gov/sites/default/files/burkina-faso-dog-cat.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "BI",
+  "name": "Burundi",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "For US-origin pets (APHIS): no Burundi pet page; APHIS 'Unknown Requirements' guidance advises a vet-issued health certificate (e.g. APHIS Form 7001, preferably USDA-endorsed) and proof of current rabies vaccination."
+  ],
+  "import_permit": "Not confirmed by an official source (non-official sources contradict each other).",
+  "quarantine": null,
+  "timeline": "Plan at least 2 months before travel: obtain written requirements from Burundi's Ministry in charge of livestock/veterinary services or embassy, then vaccination and certificate as instructed.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Environment, Agriculture and Livestock — veterinary services (to be confirmed)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "CV",
+  "name": "Cabo Verde",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "For US-origin pets (APHIS): no Cabo Verde pet page; APHIS 'Unknown Requirements' guidance advises a vet-issued health certificate (e.g. APHIS Form 7001, preferably USDA-endorsed) and proof of current rabies vaccination."
+  ],
+  "import_permit": "Not confirmed by an official source (a non-official source mentions a DGASP import authorization).",
+  "quarantine": null,
+  "timeline": "Plan at least 2 months before travel: obtain written requirements from Cabo Verde's DGASP (Direção Geral da Agricultura, Silvicultura e Pecuária) or embassy, then vaccination and certificate as instructed.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Direção Geral da Agricultura, Silvicultura e Pecuária (DGASP)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "CM",
+  "name": "Cameroon",
+  "status": "requirements",
+  "summary": "Rules differ by origin. For US-origin pets (APHIS): microchipped dog/cat, current rabies vaccination, APHIS Cameroon health certificate (valid 30 days) with USDA original ink endorsement. For UK-origin pets (UK EHC 3038): rabies vaccination 30 days–12 months before export, official-vet exam within 48 h, certificate valid 10 days, import permit number if applicable.",
+  "microchip": "For US-origin pets (APHIS): microchip number must be listed and verified by the vet. UK certificate allows identification incl. tattoo.",
+  "vaccinations": [
+   "Rabies (US origin, APHIS): current at time of export; certificate records date, vaccine, batch and end of validity.",
+   "Rabies (UK origin, EHC 3038): given not less than 30 days and not more than 12 months before export; copy of vaccination certificate attached."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "US origin: APHIS 'Veterinary Health Certificate for Export of Dogs and Cats from the USA to Cameroon' (form dated Aug 2025) by USDA-accredited vet, valid 30 days; original USDA ink-signed and embossed endorsement must accompany the animal",
+   "UK origin: Export Health Certificate 3038 signed by an Official Veterinarian, exam within 48 h of export, valid 10 days from signature"
+  ],
+  "import_permit": "UK certificate has a field 'Import permit no. (if applicable)'; APHIS does not mention a permit. Non-official sources report a MINEPIA import authorization — confirm with MINEPIA before travel.",
+  "quarantine": "None stated in official certificates.",
+  "timeline": "Plan at least 6 weeks before travel: microchip + rabies vaccination (≥30 days before for UK route) → ask MINEPIA whether an import permit is needed → vet exam/certificate (US: within 30 days; UK: within 48 h, valid 10 days) → government endorsement → travel with originals.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministère de l'Élevage, des Pêches et des Industries Animales (MINEPIA)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/pet-travel-united-states-cameroon",
+   "https://www.aphis.usda.gov/sites/default/files/cameroon-dog-cat.pdf",
+   "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-cameroon-certificate-3038",
+   "https://assets.publishing.service.gov.uk/media/5bc5c928e5274a362f62c1a4/3038EHC_V3.pdf",
+   "https://assets.publishing.service.gov.uk/media/5bc5c944ed915d0ae91ee8eb/3038NFG.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "CF",
+  "name": "Central African Republic",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "For US-origin pets (APHIS): no CAR pet page; APHIS 'Unknown Requirements' guidance advises a vet-issued health certificate (e.g. APHIS Form 7001, preferably USDA-endorsed) and proof of current rabies vaccination."
+  ],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 2 months before travel: obtain written requirements from CAR's ministry in charge of livestock (veterinary services) or embassy, then vaccination and certificate as instructed.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministère de l'Élevage et de la Santé Animale — veterinary services (to be confirmed)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "TD",
+  "name": "Chad",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "For US-origin pets (APHIS): no Chad pet page; APHIS 'Unknown Requirements' guidance advises a vet-issued health certificate (e.g. APHIS Form 7001, preferably USDA-endorsed) and proof of current rabies vaccination."
+  ],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 2 months before travel: obtain written requirements from Chad's ministry in charge of livestock (veterinary services) or embassy, then vaccination and certificate as instructed.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministère de l'Élevage et des Productions Animales — veterinary services (to be confirmed)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "KM",
+  "name": "Comoros",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "For US-origin pets (APHIS): no Comoros pet page; APHIS 'Unknown Requirements' guidance advises a vet-issued health certificate (e.g. APHIS Form 7001, preferably USDA-endorsed) and proof of current rabies vaccination."
+  ],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 2 months before travel: obtain written requirements from the Comoros Ministry of Agriculture (veterinary services) or embassy, then vaccination and certificate as instructed.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Agriculture, Fisheries and Environment — veterinary services (to be confirmed)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "CG",
+  "name": "Congo-Brazzaville",
+  "status": "requirements",
+  "summary": "Dogs and cats need a recent official health/origin certificate plus a rabies vaccination certificate (Congolese Arrêté of Dec 1968: vaccination more than 1 month and less than 6 months before travel; under-3-month-olds exempt). For US-origin pets (APHIS): bilingual APHIS Congo health certificate valid 30 days, digital USDA endorsement accepted.",
+  "microchip": "Not required by the Congolese arrêté; APHIS certificate identifies by microchip number and/or name (vet verifies any listed microchip).",
+  "vaccinations": [
+   "Rabies: per Congolese Arrêté (1968, art. 5), certificate showing vaccination given more than 1 month and less than 6 months before travel; dogs/cats under 3 months exempt from formalities. APHIS certificate records date, vaccine, batch and validity end date."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Certificate of origin and health issued shortly before departure (scanned 1968 arrêté text, art. 5, refers to 3 days; OCR ambiguous — confirm)",
+   "Rabies vaccination certificate",
+   "US origin: APHIS bilingual 'Veterinary Health Certificate for Export of Dogs and Cats to the Republic of Congo' by USDA-accredited vet, valid 30 days; APHIS digital endorsement accepted — printed endorsed certificate must accompany the animal"
+  ],
+  "import_permit": "Not required for carnivores under the 1968 arrêté (permit regime applies to live animals other than carnivores); APHIS mentions none.",
+  "quarantine": "None for dogs/cats in the arrêté; veterinary inspection on arrival — animals showing contagious disease or lacking documents may be refused entry.",
+  "timeline": "Plan at least 6 weeks before travel: rabies vaccination 1–6 months before arrival → vet exam and health certificate a few days before departure (US: within 30-day validity) → government endorsement → travel with originals.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministère de l'Agriculture, de l'Élevage et de la Pêche — Direction des services vétérinaires",
+  "sources": [
+   "https://faolex.fao.org/docs/pdf/con203872.pdf",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-republic-congo-brazzaville",
+   "https://www.aphis.usda.gov/sites/default/files/congo-dog-cat_4.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "CD",
+  "name": "DR Congo",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "For US-origin pets (APHIS): no DR Congo pet page; APHIS 'Unknown Requirements' guidance advises a vet-issued health certificate (e.g. APHIS Form 7001, preferably USDA-endorsed) and proof of current rabies vaccination."
+  ],
+  "import_permit": "Not confirmed by an official source (non-official sources contradict each other).",
+  "quarantine": null,
+  "timeline": "Plan at least 2 months before travel: obtain written requirements from DRC veterinary services (Ministry of Livestock / Kinshasa) or embassy, then vaccination and certificate as instructed.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministère de la Pêche et Élevage — Direction de la production et santé animales (to be confirmed)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/unknown-requirements"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "CI",
+  "name": "Côte d'Ivoire",
+  "status": "requirements",
+  "summary": "Dogs and cats need a prior import authorization (import permit) from the Directorate of Veterinary Services (DSV) plus an official health certificate issued close to travel, with current rabies vaccination. For US-origin pets (APHIS): certificate endorsed by APHIS within 10 days of travel.",
+  "microchip": "For US-origin pets (APHIS): the certificate verifies microchips listed for identification; no standalone microchip mandate stated in official sources found. Recommended for identification.",
+  "vaccinations": [
+   "Rabies: must be current. For US-origin pets (APHIS): if primary vaccination, or a booster given after the previous vaccine's validity expired, wait at least 21 days before import; a booster given within validity needs no wait.",
+   "Older UK guidance (APHA NFG 3927, cleared 1996) says rabies not required, but its certificate allows vaccination 30 days to 12 months before export; treat the newer APHIS rule (current rabies) as authoritative."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "For US-origin pets (APHIS certificate): vet certifies animals free of mange for at least the last 6 months; no specific treatment mandated.",
+  "documents": [
+   "Prior import authorization (autorisation préalable d'importation) from the DSV, Ministry of Animal and Fish Resources",
+   "Official veterinary health certificate (US: APHIS 'ivory-coast-cat-dog' form, valid 10 days, original ink USDA endorsement and embossing required)",
+   "Rabies vaccination certificate / vaccination record",
+   "Owner declaration of 6-month residency (UK-origin guidance only)"
+  ],
+  "import_permit": "Required. Apply to the DSV using the bilingual DSV application form; send the completed form and a copy of the rabies certificate by email (APHIS lists carv.dsvci@gmail.com and dsv.sdsa2017@gmail.com). An endorsed health certificate is not needed for the application. The DSV form asks for a copy of the international veterinary certificate and vaccination record.",
+  "quarantine": null,
+  "timeline": "Plan at least 4–6 weeks before travel: rabies vaccination (21+ days before entry if primary) → email permit application to DSV → health certificate and government endorsement within 10 days of travel → carry original permit and certificate.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Direction des Services Vétérinaires (DSV), Ministère des Ressources Animales et Halieutiques, Côte d'Ivoire",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-ivory-coast",
+   "https://www.aphis.usda.gov/sites/default/files/ivory-coast-cat-dog_2.pdf",
+   "https://www.aphis.usda.gov/sites/default/files/ptw-ivory-coast-import-permit-application.pdf",
+   "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-the-ivory-coast-certificate-3927",
+   "https://assets.publishing.service.gov.uk/media/5bc5e77b40f0b6384b2bc8f8/3927NFG.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "DJ",
+  "name": "Djibouti",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 6–8 weeks before travel: contact Djibouti's veterinary authority via embassy for written requirements; as APHIS fallback, carry a government-endorsed health certificate and proof of current rabies vaccination.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Agriculture (veterinary services), Djibouti — not confirmed",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export",
+   "https://www.aphis.usda.gov/print/pdf/node/3735"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "GQ",
+  "name": "Equatorial Guinea",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [
+   "Rabies: UK guidance (APHA NFG 4798, cleared 1999) states rabies vaccination is not compulsory for UK-origin pets; outdated, verify."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "UK-origin only (old): official health certificate EHC 4798, exam within 48 hours of export, valid 7 days; owner 6-month residency declaration"
+  ],
+  "import_permit": null,
+  "quarantine": "UK guidance (1999): on arrival the dog must be taken to the Veterinary Services of the Department of Agriculture, Fisheries and Stockfarming for official registration and identification. No quarantine stated.",
+  "timeline": "Plan at least 6–8 weeks before travel: obtain current written requirements from Equatorial Guinea's veterinary services via embassy; vet exam and official certificate within days of departure; register the pet with veterinary services on arrival.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Veterinary Services, Ministry of Agriculture, Livestock and Forests (Department of Agriculture, Fisheries and Stockfarming per UK guidance)",
+  "sources": [
+   "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-equatorial-guinea-certificate-4798",
+   "https://assets.publishing.service.gov.uk/media/5bc5eddce5274a362f62c1ae/4798NFG.pdf",
+   "https://assets.publishing.service.gov.uk/media/5bc5edbfe5274a363252202c/4798EHC_V2.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "ER",
+  "name": "Eritrea",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 6–8 weeks before travel: contact Eritrea's Ministry of Agriculture (veterinary services) via embassy for written requirements; as APHIS fallback, carry a government-endorsed health certificate and proof of current rabies vaccination.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Agriculture (veterinary services), Eritrea — not confirmed",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export",
+   "https://www.aphis.usda.gov/print/pdf/node/3735"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SZ",
+  "name": "Eswatini",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": "Not confirmed from an official source. Non-official guides conflict on whether a veterinary import permit is needed (some say only for high-rabies-risk origins). The government site (gov.sz) was unreachable. Most routings transit South Africa, which requires its own veterinary import permit for dogs and cats.",
+  "quarantine": null,
+  "timeline": "Plan at least 8–12 weeks before travel: confirm with Eswatini Ministry of Agriculture, Veterinary Services whether an import permit is needed for the pet's origin; check South African transit rules if routing via South Africa.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Agriculture, Department of Veterinary and Livestock Services, Eswatini",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export",
+   "https://www.aphis.usda.gov/print/pdf/node/3735"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "ET",
+  "name": "Ethiopia",
+  "status": "requirements",
+  "summary": "Dogs and cats need an official, government-endorsed health certificate with microchip ID and current rabies vaccination; UK official guidance also requires an Ethiopian Ministry of Agriculture import permit that travels with the animal. Requirements differ by origin country.",
+  "microchip": "Microchip identification listed and verified on the official certificate (APHIS July 2026 certificate; UK certificates identify by microchip number).",
+  "vaccinations": [
+   "Rabies: current at time of export (APHIS). UK-origin: given at least 30 days before export and still valid.",
+   "Leptospirosis: UK-origin dogs, at least 30 days before export (UK EHC 6543).",
+   "Slovenia/EU-origin certificate (2024): primary rabies 6–12 months before shipment (given at 3+ months of age) or booster within the last year, unless from a rabies-free country."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "Certificates require animals clinically free of external parasites (UK) / internal and external parasites (Slovenian certificate, exam within 72 hours); Slovenian certificate also requires screwworm inspection within 5 days before shipment.",
+  "documents": [
+   "Ethiopian import permit from Ministry of Agriculture (Animal & Plant Health Regulatory Directorate) — must accompany the animal (UK guidance)",
+   "Official veterinary health certificate (US: APHIS 'pet-dogs-cats-ethiopia' form, July 2026, valid 30 days, digital VEHCS endorsement accepted; UK: valid 10 days, exam within 48 hours)",
+   "Rabies vaccination certificate"
+  ],
+  "import_permit": "Required per UK official guidance (dogs: Veterinary Public Health, Inspection and Quarantine Team; cats: Ministry of Agriculture, Animal & Plant Health Regulatory Directorate, Addis Ababa). Not mentioned on the APHIS page; confirm with the Ministry.",
+  "quarantine": null,
+  "timeline": "Plan at least 6–8 weeks before travel: microchip → rabies vaccination at least 30 days before export → apply for Ethiopian import permit → vet exam (48–72 h) and government-endorsed certificate (US cert valid 30 days) → carry permit and originals.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Agriculture, Animal & Plant Health Regulatory Directorate (Ethiopia)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/pet-travel-united-states-ethopia",
+   "https://www.aphis.usda.gov/sites/default/files/pet-dogs-cats-ethiopia.pdf",
+   "https://www.gov.uk/export-health-certificates/export-dogs-to-ethiopia-certificate-6543",
+   "https://assets.publishing.service.gov.uk/media/5bc5ee5040f0b6385ea2d7a0/6543NFG.doc",
+   "https://assets.publishing.service.gov.uk/media/5bc5ee3a40f0b6386a796bb5/6543EHC_V3.pdf",
+   "https://www.gov.uk/export-health-certificates/export-cats-to-ethiopia-certificate-7361",
+   "https://assets.publishing.service.gov.uk/media/5bc5eec8e5274a361ac03dc2/7361NFG.doc",
+   "https://gov.si/assets/organi-v-sestavi/UVHVVR/Mednarodni/Afrika/Etiopija/Ethiopia_dog-cat_VS_40_12_1.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "GA",
+  "name": "Gabon",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 6–8 weeks before travel: obtain written requirements from Gabon's veterinary services via embassy; as APHIS fallback, carry a government-endorsed health certificate and proof of current rabies vaccination.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Agriculture / Livestock (veterinary services), Gabon — not confirmed",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export",
+   "https://www.aphis.usda.gov/print/pdf/node/3735"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "GM",
+  "name": "Gambia",
+  "status": "requirements",
+  "summary": "Only older UK official guidance found: obtain an import permit from the Department of Livestock Services (Abuko) and travel with an official health certificate showing microchip/tattoo ID and vaccinations including rabies. Verify current rules before booking.",
+  "microchip": "UK-origin dogs: identified by microchip or tattoo number plus full description (UK NFG 6544, 2006).",
+  "vaccinations": [
+   "UK-origin dogs: rabies, distemper, leptospirosis and parvovirus per manufacturer's instructions (UK EHC 6544, 2006). No cat guidance found."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "Certificate states dog free of external parasites at exam within 72 hours of export.",
+  "documents": [
+   "Import permit from Department of Livestock Services, Abuko",
+   "Official health certificate (UK EHC 6544: exam within 72 h, valid 10 days)",
+   "Vaccination records"
+  ],
+  "import_permit": "Advised (UK guidance): Department of Livestock Services, Abuko, The Gambia.",
+  "quarantine": null,
+  "timeline": "Plan at least 6–8 weeks before travel: microchip and vaccinations → request import permit from Department of Livestock Services → vet exam within 72 h and official certificate (valid 10 days).",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Department of Livestock Services, Abuko (Ministry of Agriculture), The Gambia",
+  "sources": [
+   "https://www.gov.uk/export-health-certificates/export-dogs-to-the-gambia-certificate-6544",
+   "https://assets.publishing.service.gov.uk/media/5bc5f207e5274a361191a030/6544NFG.doc",
+   "https://assets.publishing.service.gov.uk/media/5bc5f1f6ed915d0ae91ee8fa/6544EHC_V3.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "GH",
+  "name": "Ghana",
+  "status": "requirements",
+  "summary": "Dogs and cats may only enter with a signed Veterinary Import Permit from the Veterinary Services Department (VSD), issued after MOFA approval via ICUMS, plus an official health certificate. Dogs need negative lab tests and core vaccinations; cats need a health attestation and vaccination records.",
+  "microchip": "Not stated by VSD. APHIS certificate records microchip numbers if present; recommended for identification.",
+  "vaccinations": [
+   "Dogs: rabies, canine distemper, hepatitis, parvovirus, Leptospira canicola and L. icterohaemorrhagiae, parainfluenza — each at least one month old and valid for 12 months before departure (VSD).",
+   "Cats: rabies, feline panleukopenia, calicivirus, rhinotracheitis (VSD).",
+   "UK-origin guidance (APHA NFG 3901, revised 12/2023) says rabies not more than 6 months before export — conflicts with VSD; follow the stricter if UK-origin."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "Dogs: negative tests required before permit — Brucella canis, Trypanosoma evansi, Babesia gibsoni, Dirofilaria immitis (microfilaria/Knott), Leishmania spp.; original lab reports, valid 31 days.",
+  "documents": [
+   "Veterinary Import Permit (VSD, via ICUMS)",
+   "MOFA ministerial approval letter",
+   "Official veterinary health certificate signed by the exporting country's official vet (US: APHIS 'ghana-dog-cat' form, valid 30 days, digital VEHCS endorsement accepted)",
+   "Original lab reports (dogs) and vaccination records; health attestation report (cats)",
+   "Proof of fee payment",
+   "UK-origin: owner declaration of residency for prior 6 months"
+  ],
+  "import_permit": "Required. Apply to the Chief Veterinary Officer (P.O. Box M161, Accra); Minister of MOFA approves; approval letter submitted on ICUMS to Director of VSD; processing about 72 working hours. UK guidance asks for notice at least 4 weeks before arrival. Airlines are told pets can only be carried on a signed permit. Contact: vsd@mofa.gov.gh, Import Desk +233 242649497.",
+  "quarantine": "Not stated for domestic dogs/cats; inspection and possible sampling at port of entry. (30-day quarantine listed for felids/wild cats.)",
+  "timeline": "Plan at least 8 weeks before travel: vaccinations at least 1 month before departure → dog lab tests (reports valid 31 days) → apply to CVO/MOFA and VSD via ICUMS (≥4 weeks before arrival) → official health certificate → inspection on arrival at KIA.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Veterinary Services Department (VSD), Ministry of Food and Agriculture (MOFA), Ghana",
+  "sources": [
+   "https://vsd.gov.gh/255-2/",
+   "https://vsd.gov.gh",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-ghana",
+   "https://www.aphis.usda.gov/sites/default/files/ghana-dog-cat_4.pdf",
+   "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-ghana-certificate-3901",
+   "https://assets.publishing.service.gov.uk/media/5bc5f5bbe5274a36357d5169/3901NFG.pdf"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "GN",
+  "name": "Guinea",
+  "status": "requirements",
+  "summary": "For US-origin pets (APHIS): a USDA-endorsed bilingual health certificate (valid 30 days) certifying a clinical exam, no rabies exposure and rabies vaccination. No official import-permit information found; rules for other origins unknown.",
+  "microchip": "For US-origin pets (APHIS): microchip verified if listed; not explicitly mandatory.",
+  "vaccinations": [
+   "Rabies: required per APHIS certificate (date, vaccine, batch and validity recorded); no minimum interval stated."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "For US-origin pets: APHIS 'guinea-pet' health certificate (English/French), valid 30 days, digital VEHCS endorsement accepted",
+   "Rabies vaccination certificate"
+  ],
+  "import_permit": "Not mentioned by APHIS; confirm with Guinea's Direction Nationale des Services Vétérinaires.",
+  "quarantine": null,
+  "timeline": "Plan at least 4–6 weeks before travel: rabies vaccination → confirm with Guinea's veterinary services whether a permit is needed → health certificate and endorsement within 30 days of travel.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Direction Nationale des Services Vétérinaires, Ministry of Livestock (Guinea)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-guinea",
+   "https://www.aphis.usda.gov/sites/default/files/guinea-pet_2.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "GW",
+  "name": "Guinea-Bissau",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 6–8 weeks before travel: obtain written requirements from Guinea-Bissau's veterinary services via embassy; as APHIS fallback, carry a government-endorsed health certificate and proof of current rabies vaccination.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Direção Geral de Pecuária / veterinary services, Ministry of Agriculture (Guinea-Bissau) — not confirmed",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export",
+   "https://www.aphis.usda.gov/print/pdf/node/3735"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "KE",
+  "name": "Kenya",
+  "status": "requirements",
+  "summary": "An import permit for dogs and cats (issued under the Animal Diseases and Rabies Acts via Kenyan missions/the Directorate of Veterinary Services) is required, together with a recent veterinary health certificate and rabies vaccination certificate. Arrivals are cleared by the veterinary office at the port of entry, normally Nairobi JKIA or Mombasa.",
+  "microchip": "Not stated in official sources. Recommended for identification.",
+  "vaccinations": [
+   "Rabies: certificate must state vaccine type, manufacturer, batch number, animal's age and date. Inactivated vaccine is valid from 1 to 12 months after vaccination. If vaccinated less than 6 months before arrival, an official certificate of no rabies within 30 miles of origin for 6 months is also needed. Exemption for direct arrivals from Australia, Ireland, New Zealand, Norway, Sweden, UK (per mission pages).",
+   "US-origin certificate (APHIS): rabies vaccination within 12 months before export; other routine vaccinations up to date"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Kenyan import permit for dogs/cats",
+   "Veterinary health certificate signed no more than 5 days before departure (mission pages). The US APHIS certificate is stated as valid for 30 days after issuance.",
+   "Rabies vaccination certificate",
+   "Formal request letter and copy of owner's passport (for the permit)",
+   "US-origin: USDA-endorsed 'Veterinary Health Certificate for Export of Dogs and Cats to Kenya' (residence in US 6+ months, rabies-free premises 12 months)"
+  ],
+  "import_permit": "Required. Apply through a Kenyan embassy/high commission or the Directorate of Veterinary Services. Example fees: R100 in Pretoria (1-day processing), CHF 70 in Bern. Mission sources state validity as a maximum of 30 days, one consignment.",
+  "quarantine": "None if compliant. Animals arriving without the required certificates may be quarantined for up to 6 months at the owner's expense.",
+  "timeline": "Plan at least 4-6 weeks: rabies vaccination (30+ days ahead recommended) → apply for the permit via the mission → vet health certificate within 5 days of departure (government endorsement) → notify the Veterinary Department, Nairobi of arrival.",
+  "restricted_breeds": null,
+  "private_aviation": "Standard entry points are Nairobi (air) and Mombasa (sea). Arrivals at any other port must be reported to the nearest veterinary office within 3 days. Advance notice to the veterinary department in Nairobi is required for inspection. Private aircraft should arrive at JKIA (or Wilson after confirming vet availability) with inspection pre-arranged. Some non-official sources say pets must come as manifest cargo; unconfirmed officially.",
+  "export": null,
+  "authority": "Directorate of Veterinary Services (State Department for Livestock Development), Kenya",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-kenya",
+   "https://www.aphis.usda.gov/sites/default/files/kenya-dog-cat.pdf",
+   "https://kenya.org.za/import-permit/",
+   "https://kenyaembassy-bern.ch/pet-import-license/"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LS",
+  "name": "Lesotho",
+  "status": "requirements",
+  "summary": "Pets need a live-animal import permit from Lesotho's Ministry of Agriculture, Food Security and Nutrition. The fee is M200 and processing takes 3–5 days. The official listing names the documents (application, lab reports, vaccination history) but gives no pet-specific health rules, so confirm vaccination and certificate details with the Ministry.",
+  "microchip": null,
+  "vaccinations": [
+   "Vaccination history required with the permit application (official gov.ls listing); specific vaccines/timing not stated officially"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Completed import application form",
+   "Laboratory reports for the animal(s)",
+   "Vaccination history",
+   "Proof of registered establishment (as listed generically for live animals)",
+   "Transit/removal permit if passing through a third country",
+   "Veterinary health certificate from origin country (expected; not detailed on official page)"
+  ],
+  "import_permit": "Required: 'Import and export of live animals' service, Ministry of Agriculture, Food Security and Nutrition. Fee for pets M200; processing 3–5 days; apply online via gov.ls e-service. Contact: +266 8001 0100, contact.centre@gov.ls.",
+  "quarantine": null,
+  "timeline": "Plan at least 3–4 weeks before travel: confirm health requirements with the Ministry → gather vaccination history/lab reports → apply for permit (3–5 days) → origin health certificate shortly before departure.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Agriculture, Food Security and Nutrition (Lesotho) – livestock/veterinary services",
+  "sources": [
+   "https://www.gov.ls/eservice/import-and-export-of-live-animals/"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LR",
+  "name": "Liberia",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": "Non-official sources say an import permit from the Ministry of Agriculture is required, but others disagree. Not confirmed officially.",
+  "quarantine": null,
+  "timeline": "Plan at least 4–6 weeks before travel: obtain written confirmation of requirements from Liberia's Ministry of Agriculture before booking.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Agriculture (Liberia) – not verified from an official source",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MG",
+  "name": "Madagascar",
+  "status": "requirements",
+  "summary": "Per UK official export guidance, a Madagascar import permit is needed only for unaccompanied pets. Animals need rabies vaccination 30 days–12 months before export, roundworm/tapeworm treatment within 3 days of export, and an official health certificate issued within 48 hours of export. That guidance dates from 1996, and non-official sources also mention a DSV entry authorization and rabies serology, so confirm with Madagascar's veterinary services.",
+  "microchip": null,
+  "vaccinations": [
+   "Rabies: at least 30 days and at most 12 months before export; vaccination certificate (completed by the vaccinating vet) attached to health certificate (UK official guidance)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "Treatment effective against roundworm and tapeworm within 3 days of export; animal free of external parasites at exam (UK official certificate 3951).",
+  "documents": [
+   "Official export health certificate (UK model: OV exam ≤48 h before export; certificate valid 7 days)",
+   "Rabies vaccination certificate",
+   "Import permit (unaccompanied pets only, per UK guidance)",
+   "Exporter declaration that the animal was not imported into the exporting country in the previous 6 months (UK model)"
+  ],
+  "import_permit": "Per UK official guidance, required only if pets are unaccompanied. Apply to the Director of Animal Production and Sea Fisheries, Antananarivo (title per 1996 guidance; current body likely the Direction des Services Vétérinaires). Non-official sources say all pets need prior entry authorization from the DSV to avoid quarantine.",
+  "quarantine": null,
+  "timeline": "Plan at least 6 weeks before travel: rabies vaccination ≥30 days before export → request DSV authorization (recommended even if accompanied) → deworming within 3 days and official health certificate within 48 h of departure.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Madagascar veterinary services (Direction des Services Vétérinaires, Antananarivo)",
+  "sources": [
+   "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-madagascar-certificate-3951",
+   "https://assets.publishing.service.gov.uk/media/5bc70b8240f0b6384eb14644/3951NFG.pdf",
+   "https://assets.publishing.service.gov.uk/media/5bc70b6e40f0b6384eb14643/3951EHC_V3.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MW",
+  "name": "Malawi",
+  "status": "requirements",
+  "summary": "Malawi's Animal (Import) Rules require a written import permit from the Chief Veterinary Officer for any animal. UK official guidance adds rabies vaccination 30 days–12 months before export and an official health certificate issued within 14 days of export. That guidance dates from 1996, so confirm current details with the CVO.",
+  "microchip": null,
+  "vaccinations": [
+   "Rabies: at least 30 days and at most 12 months before export; certificate must show animal description, vaccine batch number and production laboratory (UK official guidance). Cats must be vaccinated before export; dogs from rabies-free Great Britain may instead be vaccinated on arrival."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Import permit from Chief Veterinary Officer, Malawi",
+   "Official export health certificate (exam ≤14 days before export, UK model)",
+   "Rabies vaccination certificate",
+   "Owner declaration of no contact with a rabid animal in the 6 months before export"
+  ],
+  "import_permit": "Required for all animals under the Animal (Import) Rules (Control and Diseases of Animals Act). Written permit from the Chief Veterinary Officer, P O Box 30372, Lilongwe; the CVO may attach conditions.",
+  "quarantine": null,
+  "timeline": "Plan at least 6 weeks before travel: apply to CVO for permit → rabies vaccination ≥30 days before export → official health certificate within 14 days of export → notify CVO of arrival date/flight.",
+  "restricted_breeds": null,
+  "private_aviation": "UK guidance: for air travel, report the arrival date and flight number to the Chief Veterinary Officer, Lilongwe, before departure. For a private flight, give the aircraft registration/flight details and arrival airport.",
+  "export": null,
+  "authority": "Chief Veterinary Officer, Department of Animal Health and Livestock Development (Malawi)",
+  "sources": [
+   "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-malawi-certificate-3944",
+   "https://assets.publishing.service.gov.uk/media/5bc70bf340f0b638518795ab/3944NFG.pdf",
+   "https://tradebarriers.org/ntm/measures/view/211"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "ML",
+  "name": "Mali",
+  "status": "requirements",
+  "summary": "For US-origin pets (APHIS): rabies vaccination, a vet exam, and a bilingual USDA-endorsed health certificate valid 30 days after issuance. No official rules found for other origins.",
+  "microchip": "For US-origin pets (APHIS): microchip number recorded if present; not stated as mandatory.",
+  "vaccinations": [
+   "Rabies: required; certificate records date, vaccine, batch and validity end date (no specific timing stated on APHIS certificate)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "For US-origin pets (APHIS): Veterinary Health Certificate for Export of Dogs and Cats to Mali (English/French), signed by USDA-accredited vet and endorsed by APHIS (original ink endorsement and embossing required); valid 30 days after issuance"
+  ],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 3–4 weeks before travel: rabies vaccination current → accredited-vet exam and certificate → APHIS endorsement (ink) → travel within 30 days of issuance.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Mali national veterinary services (US-origin certificate per USDA APHIS)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-mali",
+   "https://www.aphis.usda.gov/sites/default/files/mali-dog-cat_0.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MR",
+  "name": "Mauritania",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 4–6 weeks before travel: obtain written requirements from Mauritania's veterinary services or embassy before booking.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Mauritania veterinary services (ministry responsible for livestock) – not verified",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MU",
+  "name": "Mauritius",
+  "status": "requirements",
+  "summary": "Import permit from the Veterinary Services (Ministry of Agro-Industry) is required before shipment. Requirements include a rabies titer at least 3 months before travel, a sterilisation certificate, manifest-cargo arrival with a local broker, and a minimum 5-day quarantine at Réduit. Several dog breeds are banned.",
+  "microchip": "Required (verified on the certificate). ISO 11784/11785 recommended.",
+  "vaccinations": [
+   "Rabies: inactivated vaccine per manufacturer. US-origin certificate: at least 3 months of age, more than 2 months before export for a primary vaccination, or at least 30 days for a booster.",
+   "Dogs: distemper, infectious hepatitis, leptospirosis, parvovirus – up to date, given more than 14 days before dispatch",
+   "Cats: feline enteritis (panleukopenia), rhinotracheitis, calicivirus – between 14 days and 12 months before export"
+  ],
+  "rabies_titer": "Required for dogs and cats: FAVN or RFFIT ≥0.5 IU/ml at a lab approved by the exporting country, or a WOAH reference lab. Blood sample at least 4 weeks after vaccination. Travel no earlier than 3 months after sampling, and the test must be no more than 12 months before shipment. The lab must also send results directly to the Mauritius veterinary services. Alternative: 6 months in an approved quarantine station in the exporting country.",
+  "parasite_treatment": "External parasite treatment, within coverage at export (US certificate).",
+  "documents": [
+   "Import permit (number and date shown on the veterinary certificate)",
+   "International veterinary certificate from the exporting country's competent authority (US: APHIS-endorsed)",
+   "Rabies vaccination certificate and RNATT lab report (endorsed by the competent authority)",
+   "Dogs: Ehrlichia canis (IFAT, negative at 1:40) within 45 days before departure, and a negative Brucella canis test",
+   "Sterilisation certificate (except breeding animals with a pedigree and breeder's licence)",
+   "Application form per animal, motivation letter to the Principal Veterinary Officer, owner's passport copy, copy of the vaccination book"
+  ],
+  "import_permit": "Mandatory: 'No animal should be embarked for Mauritius without an import permit.' Apply to petimport@govmu.org at least 3 months before departure. Issue depends on quarantine kennel availability. Fees: Rs 500 import fee plus Rs 500 veterinary clearance per animal.",
+  "quarantine": "Minimum 5 days at the government Quarantine Facility, Réduit, at the owner's cost (kennel Rs 15/day; the owner supplies food and litter). An older permit template mentioned up to 1 month depending on origin.",
+  "timeline": "Plan at least 4-5 months: microchip → rabies vaccination → titer test 4+ weeks later → wait 3 months from sampling → apply for the permit 3+ months ahead → dog Ehrlichia/Brucella tests within 45 days → health certificate and endorsement → email flight details 4+ days before arrival.",
+  "restricted_breeds": "Prohibited (Animal Welfare Act 2013, 4th Schedule): American Pit Bull Terrier, American Staffordshire Terrier, Staffordshire Terrier, Blue Nose Pit Bull, Red Nose Pit Bull, Japanese Tosa, Dogo Argentino, Fila Brasileiro, Boerboel. Other 'dangerous' breeds (e.g. Rottweiler, Doberman, Cane Corso, Bull Mastiff, Rhodesian Ridgeback, Alaskan Malamute, Kangal) are allowed only if pure-bred.",
+  "private_aviation": "High impact. Official guidelines: all pets must arrive as manifest CARGO ONLY (not in cabin, not as excess luggage), with a local customs broker present at the airport. Without a broker, the animal may be sent back at the owner's cost. A private flight must manifest the pet as cargo and arrange the broker and veterinary pickup at SSR International.",
+  "export": null,
+  "authority": "Ministry of Agro-Industry, Food Security, Blue Economy and Fisheries – Division of Veterinary Services / Livestock and Veterinary Division (petimport@govmu.org)",
+  "sources": [
+   "https://sps.govmu.org/wp-content/uploads/2022/12/2022-GUIDELINES-TO-BRING-DOGS-TO-MAURITIUS.pdf",
+   "https://sps.govmu.org/wp-content/uploads/2022/12/2022-GUIDELINES-TO-BRING-CATS-TO-MAURITIUS.pdf",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-mauritius",
+   "https://www.aphis.usda.gov/sites/default/files/mauritius-dogs-cats.pdf"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MZ",
+  "name": "Mozambique",
+  "status": "requirements",
+  "summary": "Pets need rabies vaccination within 12 months before export and an official health certificate (US: valid 30 days; UK: exam within 48 h of export). Since April 2024, Mozambique bans the import of listed dangerous dog breeds and their crosses unless authorized by the National Director of Livestock Development.",
+  "microchip": null,
+  "vaccinations": [
+   "Rabies: within 12 months before export (US/APHIS); UK guidance: at least 30 days and at most 12 months before export. US certificate allows pups/kittens under 3 months travelling with the mother's rabies certificate.",
+   "Routine vaccinations/treatments up to date (APHIS certificate)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "For US-origin pets (APHIS): animal must be free of external parasites at exam; routine treatments up to date.",
+  "documents": [
+   "Official export health certificate: For US-origin pets (APHIS): USDA-endorsed certificate (April 2024 form) valid 30 days after issuance, attesting no rabies on premises of origin for 12 months; UK: OV exam within 48 h of export",
+   "Rabies vaccination certificate",
+   "Authorization from National Director of Livestock Development for dangerous breeds (where allowed)"
+  ],
+  "import_permit": "General pet import permit not stated in APHIS/UK guidance. Dangerous-breed dogs need prior authorization from the National Director of Livestock Development (MADER).",
+  "quarantine": null,
+  "timeline": "Plan at least 4–6 weeks before travel (longer for listed breeds): rabies vaccination ≥30 days before export → check breed list/apply for authorization → official health certificate (US: ≤30 days; UK: exam ≤48 h).",
+  "restricted_breeds": "April 2024 MADER measure (reported by state news agency AIM) bans import of potentially dangerous breeds and crosses, including Fila Brasileiro, Dogo Argentino, Pit Bull, Rottweiler, American Staffordshire Terrier, Tosa Inu, Saint Bernard, Bull Terrier, Akita Inu, Doberman, Kangal, Bullmastiff, and others. Exceptions need authorization, e.g. assistance dogs, security dogs, and sterilized companion dogs over 2 years. Dogs must be at least 3 months old and registered within 10 days of entry. Sterilization is required.",
+  "private_aviation": null,
+  "export": null,
+  "authority": "National Directorate of Livestock Development (DNDP), Ministry of Agriculture and Rural Development (MADER)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-mozambique",
+   "https://www.aphis.usda.gov/sites/default/files/mozambique-dog-cat.pdf",
+   "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-mozambique-certificate-4143",
+   "https://assets.publishing.service.gov.uk/media/5bcecf21ed915d431874e31d/4143NFG.pdf",
+   "https://aimnews.org/2024/04/02/governo-interdita-importacao-de-caes-perigosos/"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "NA",
+  "name": "Namibia",
+  "status": "requirements",
+  "summary": "Pets from countries other than South Africa and Botswana need a veterinary import permit from the Directorate of Veterinary Services, Windhoek. The permit is valid 4 months and single use. After the exporting vet endorses it, the owner must obtain a 'landing permit' before travel. Pets from South Africa need only an inter-territorial movement permit and rabies vaccination.",
+  "microchip": "Not mandated by the DVS portal (microchip if transiting a country requiring it). The US dog certificate uses tag/tattoo/description.",
+  "vaccinations": [
+   "Rabies: at least 30 days and no more than 12 months before travel. Under 3 months old: the dam's vaccination is accepted and the pet must be vaccinated at 3 months in Namibia.",
+   "Full vaccination status expected (EU/USA origin)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "US-origin dogs: heartworm treatment (ivermectin, milbemycin, moxidectin, selamectin or DEC) from the negative test until export, and continued for 6 months after arrival. The owner must bring 6 months of supply because it is not easily available in Namibia.",
+  "documents": [
+   "Namibian veterinary import permit (number on the health certificate)",
+   "Health certificate from the exporting country's state vet (US: USDA-endorsed, exam within 10 days of export)",
+   "Rabies vaccination record",
+   "Dogs (US/EU and other origins): negative tests within 30 days of export for Brucella canis, Babesia gibsoni, Dirofilaria immitis, Leishmania (and T. evansi for non-US origins)",
+   "Landing permit from the Namibian state vet (send the endorsed permit, pet passport and lab results before travel)",
+   "From South Africa: inter-territorial movement permit from the local state vet. From Botswana: Veterinary Certificate of Identity, Rabies Vaccination and Movement Permit."
+  ],
+  "import_permit": "Required except for South Africa-origin pets (residence of 3+ months). Apply via Vet.Permits@mawlr.gov.na. Fee N$150 (or €50 at a Namibian mission). Processed within a maximum of 3 working days. Valid 4 months, single use.",
+  "quarantine": "None for EU/USA, South Africa and SADC origins. 30-day quarantine on arrival for pets from other countries (per the Namibia Trade Portal).",
+  "timeline": "Plan at least 6-8 weeks: rabies vaccination (30+ days ahead) → apply for the permit (≤3 days) → courier the permit to the exporting vet → dog blood tests within 30 days of export → health certificate and endorsement within 10 days → email documents to obtain the landing permit before departure.",
+  "restricted_breeds": null,
+  "private_aviation": "The permit names the state veterinary office responsible for inspection. Arrange inspection at the arrival airport (normally Hosea Kutako International) in advance. No official manifest-cargo rule found.",
+  "export": "To South Africa: inter-territorial movement permit from a local state vet. To Botswana: health certificate from a state vet. To the EU: state vet health certificate, microchip and rabies titer. Others: destination permit required.",
+  "authority": "Ministry of Agriculture, Fisheries, Water and Land Reform – Directorate of Veterinary Services (Vet.Permits@mawlr.gov.na)",
+  "sources": [
+   "https://namibiatradeportal.gov.na/trade-goods/procedure-details/view_express_entity/1173",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-namibia",
+   "https://www.aphis.usda.gov/sites/default/files/namibia-dog_0.pdf",
+   "https://van.org.na/section.php?secid=52&menuid=52"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "NE",
+  "name": "Niger",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 4–6 weeks before travel: obtain written requirements from Niger's veterinary services or embassy before booking.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Direction Générale des Services Vétérinaires (Ministry of Livestock, Niger) – pet rules not verified",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "NG",
+  "name": "Nigeria",
+  "status": "requirements",
+  "summary": "Pets need an import permit from the Federal Department of Veterinary and Pest Control Services (FMARD, Abuja). Required documents: an officially endorsed health certificate, rabies vaccination within 1 year (inactivated vaccine), and a rabies serology result. NAQS verifies the permit and inspects the animal on arrival.",
+  "microchip": "For US-origin pets (APHIS): all pets must be microchipped. UK certificate accepts a microchip or permanent tattoo.",
+  "vaccinations": [
+   "Rabies: inactivated vaccine, record not more than 1 year old (FMARD); For US-origin pets (APHIS): within one year of departure with a US-approved inactivated vaccine; UK certificate: given at ≥3 months of age, ≤1 year before export"
+  ],
+  "rabies_titer": "FMARD lists a laboratory rabies serology result as a permit document. UK certificate requires ≥0.5 IU/ml, with the sample taken 3–24 months before export. The APHIS US certificate does not include a titer statement. Plan for a titer regardless of origin.",
+  "parasite_treatment": null,
+  "documents": [
+   "Import permit (DVPCS/FMARD)",
+   "Health certificate signed by attending vet and endorsed by official vet of exporting country (US: APHIS ink endorsement, valid 30 days; UK: exam ≤48 h, valid 7 days)",
+   "Rabies vaccination record",
+   "Rabies serology lab result",
+   "Proof of permit fee payment"
+  ],
+  "import_permit": "Required. Apply to the Director, Dept of Veterinary and Pest Control Services, FMARD Abuja (hard copy or vpcs@fmard.gov.ng) using the application form with travel date. Fee: N5,000 per dog/cat via Remita. Processing ~3 working days; permit valid 14 days from issue. These details come from the FMARD page as indexed by search; fmard.gov.ng was unreachable (HTTP 525) on 2026-10-13.",
+  "quarantine": "NAQS inspects imported dogs/cats at the port of entry and verifies the permit and veterinary certificate. Under the NAQS SOP, live animals may be held for quarantine observation (NAQS or owner's facility); animals suspected of disease may be held 2–3 weeks; non-compliant or illegal animals may be seized or destroyed.",
+  "timeline": "Plan at least 3–4 months before travel if a titer is needed (UK model: sample ≥3 months before export). Steps: microchip → rabies vaccination → titer → apply for FMARD permit (~3 days, valid 14 days) → endorsed health certificate → notify NAQS of permit and arrival date.",
+  "restricted_breeds": null,
+  "private_aviation": "NAQS SOP: notify NAQS of the import permit details and arrival date, and declare the animal for NAQS inspection at the point of entry. Arrange NAQS presence at the arrival airport/FBO in advance.",
+  "export": null,
+  "authority": "Federal Department of Veterinary and Pest Control Services (FMARD) and Nigeria Agricultural Quarantine Service (NAQS)",
+  "sources": [
+   "https://fmard.gov.ng/l_page/vetpermit/",
+   "https://fmard.gov.ng/permits/",
+   "https://naqs.gov.ng/animal/",
+   "https://naqs.gov.ng/wp-content/uploads/2020/07/NAQS_SOP.pdf",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-nigeria",
+   "https://www.aphis.usda.gov/sites/default/files/nigeria-dog-cat_0.pdf",
+   "https://www.gov.uk/export-health-certificates/export-cats-and-dogs-to-nigeria-certificate-3713",
+   "https://assets.publishing.service.gov.uk/media/5bced68ee5274a6bc77adb1d/3713NFG.pdf",
+   "https://assets.publishing.service.gov.uk/media/5bced67b40f0b64428d1a161/3713EHC_V3.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "RW",
+  "name": "Rwanda",
+  "status": "requirements",
+  "summary": "RAB issues veterinary import permits (official). The pet-specific details come from a non-official source: rabies vaccination 30 days–12 months before entry, a government-endorsed health certificate, internal parasite treatment shortly before entry, and arrival via Kigali International Airport. Confirm with RAB.",
+  "microchip": "Non-official sources conflict (ISO 11784/11785 required vs. only recommended).",
+  "vaccinations": [
+   "Rabies: at least 30 days and at most 12 months before entry (non-official source)"
+  ],
+  "rabies_titer": "Not required for entry, per non-official sources.",
+  "parasite_treatment": "Internal parasite treatment within 1–5 days before entry (non-official source).",
+  "documents": [
+   "Veterinary import permit (RAB)",
+   "Health certificate issued/endorsed by government vet of origin country, within ~10–14 days of arrival (non-official, sources conflict)",
+   "Rabies vaccination certificate"
+  ],
+  "import_permit": "RAB lists 'Veterinary import/export/transit permits' among its services (official). A non-official source says applications go through the RAB e-portal with a RWF 15,000 fee. Contact info@rab.gov.rw, +250 788 385 312, toll free 4675.",
+  "quarantine": "Non-official: none if compliant; non-compliant pets may be quarantined, returned or euthanized at owner's expense.",
+  "timeline": "Plan at least 4–6 weeks before travel: apply for RAB permit → rabies vaccination ≥30 days before entry → deworm 1–5 days before entry → endorsed health certificate within ~10 days of arrival.",
+  "restricted_breeds": null,
+  "private_aviation": "Non-official: give veterinary officials at Kigali International Airport prior notice of arrival so an inspector is available.",
+  "export": "Pets leaving Rwanda need an international veterinary certificate signed by an official veterinarian of RAB (Rwanda migration authority travel page).",
+  "authority": "Rwanda Agriculture and Animal Resources Development Board (RAB)",
+  "sources": [
+   "https://www.rab.gov.rw/program-details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=29296&cHash=1206a25c5555b2d3022292bc5fa3484b",
+   "https://www.migration.gov.rw/1-1/travel-assistance",
+   "https://www.pettravel.com/immigration/Rwanda.cfm",
+   "https://wikiprocedure.com/index.php/Rwanda_-_Import_Pets_(Cats_and_Dogs)"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "ST",
+  "name": "São Tomé and Príncipe",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": "No pet-specific rule found. Decree-Law 06/2019 (Diário da República, 14 Aug 2019) states that live-animal imports follow the Livestock Code (Código da Pecuária). Requests to the Direcção da Pecuária must be in writing and are answered within 15 days.",
+  "quarantine": null,
+  "timeline": "Plan at least 4–6 weeks before travel: send a written request to the Direcção da Pecuária (15-day response time) before booking.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Direcção da Pecuária (Livestock Directorate), São Tomé and Príncipe",
+  "sources": [
+   "https://faolex.fao.org/docs/pdf/sao196904.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SN",
+  "name": "Senegal",
+  "status": "requirements",
+  "summary": "For US-origin pets (APHIS): get a Senegalese import permit (valid 3 months), make sure rabies vaccination is current, and travel with a health certificate (APHIS 7001) issued within 21 days of travel. No official rules were found for other origins.",
+  "microchip": null,
+  "vaccinations": [
+   "Rabies: required; a primary vaccination must be given at least 21 days before travel (APHIS, US-origin)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Import permit from the Ministry of Agriculture, Food Sovereignty and Livestock",
+   "Health certificate (APHIS 7001 accepted for US-origin pets) issued within 21 days of travel; no APHIS endorsement needed if a USDA-accredited vet signs it and adds their national accreditation number",
+   "Valid rabies vaccination certificate"
+  ],
+  "import_permit": "Required. Issued by the Ministry of Agriculture, Food Sovereignty and Livestock and valid 3 months from issue. Per APHIS, apply by email to dsvmepa@gmail.com (cc wadesanou@gmail.com) with country of origin, species and breed, owner's name and address of origin.",
+  "quarantine": null,
+  "timeline": "Plan at least 4-6 weeks before travel: apply for the import permit, then rabies vaccination at least 21 days before travel if it is a primary dose, then a health certificate within 21 days of travel.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Agriculture, Food Sovereignty and Livestock (Direction des Services Vétérinaires)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-senegal"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SC",
+  "name": "Seychelles",
+  "status": "requirements",
+  "summary": "Veterinary import permit is required for every dog and cat. All pets are quarantined on arrival: a minimum of 2 weeks if conditions are met, otherwise 6 months or return. Pets from rabies-affected countries need rabies vaccination plus a titer. Arrival must be as manifest cargo.",
+  "microchip": "Microchip number required on the application. ISO standard not stated in the official text.",
+  "vaccinations": [
+   "Rabies (rabies-affected countries): inactivated vaccine at 3 months of age or older. Booster between 30 days and 12 months before export. Not mandatory for rabies-free origins.",
+   "Dogs: distemper, parvovirus, infectious hepatitis, leptospirosis",
+   "Cats: panleukopenia, rhinotracheitis, calicivirus",
+   "All vaccinations at least 2 weeks before departure"
+  ],
+  "rabies_titer": "Required for animals from rabies-affected countries: RNATT >0.5 IU, at least 1 month after the primary vaccination and no more than 6 months before departure. Copy submitted with the permit application.",
+  "parasite_treatment": "Not specified in the official conditions. Heartworm is endemic in Seychelles; prevention is advised but not required.",
+  "documents": [
+   "Veterinary Import Permit",
+   "Official health certificate (English or French) from the exporting veterinary authority",
+   "Rabies vaccination certificate and RNATT result (rabies-affected origins)",
+   "Official certificate of no rabies in the locality of origin for the past 6 months",
+   "Sterilisation certificate for listed breeds",
+   "Import permit from the Ministry of Finance for customs clearance"
+  ],
+  "import_permit": "Mandatory. Apply at least 4 MONTHS ahead (rabies-infected countries) or 4 WEEKS ahead (rabies-free countries). Issued within 7 working days once complete. Valid 1 month from the intended arrival date, for one consignment only. Applications go to the National Biosecurity Agency (2024 form; older conditions name the Seychelles Agricultural Agency).",
+  "quarantine": "Mandatory for all: minimum 2 weeks at the single Mahé quarantine station (SR 1,000 per 2 weeks, including the permit, collection and kennel). Animals not meeting conditions face 6 months of quarantine or return. Book quarantine at least 2 weeks ahead and confirm 24 h before arrival.",
+  "timeline": "Plan at least 4-5 months from rabies-affected countries: microchip → rabies vaccination → titer 1+ month later → apply 4 months ahead → book quarantine 2+ weeks ahead → health certificate → arrive as manifest cargo → 14 days of quarantine.",
+  "restricted_breeds": "No breed ban, but listed breeds and their crosses must be surgically sterilised before entry (e.g. Akita, Alsatian/German Shepherd, Pit Bull types, Staffordshire types, Boerboel, Bulldog, Bullmastiff, Cane Corso, Doberman, Dogue de Bordeaux, French Bulldog, Great Dane, Rottweiler, Shar Pei, Tosa, Tibetan Mastiff and others).",
+  "private_aviation": "Official conditions: all animals must travel as manifest cargo, preferably on a direct or approved scheduled flight, in an IATA-compliant container. A Veterinary Officer collects them at the airport. Private-jet arrivals must manifest the pet as cargo and pre-arrange pickup with Veterinary Services. Confirm acceptance of a private flight in advance.",
+  "export": null,
+  "authority": "National Biosecurity Agency (formerly Seychelles Agricultural Agency – Veterinary Services)",
+  "sources": [
+   "https://environment.gov.sc/wp-content/uploads/2024/02/APPLICATION-TO-IMPORT-LIVE-ANIMALS-INTO-THE-REPUBLIC-OF-SEYCHELLES.pdf",
+   "https://anivetvoyage.com/wp-content/uploads/2022/04/Veterinary-Import-Conditions-for-Cats-and-Dogs1.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SL",
+  "name": "Sierra Leone",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Ministry of Agriculture and Food Security (Freetown) — not verified",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SO",
+  "name": "Somalia",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Unknown (national veterinary authority not confirmed)",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "ZA",
+  "name": "South Africa",
+  "status": "requirements",
+  "summary": "A veterinary import permit from the Department of Agriculture (Food Import & Export Standards / Animal Health) is required for every dog and cat. The permit, which lists the exact conditions and the authorised port of entry, must be in place before departure. Pets must arrive as manifested cargo at an airport with state veterinary inspection (Johannesburg O.R. Tambo, Cape Town, Durban King Shaka). Dogs need a series of pre-import blood tests.",
+  "microchip": "Mandatory for all dogs and cats; must be readable by ISO 11784/11785 scanners (tattoos not accepted). The microchip number must appear on all lab reports.",
+  "vaccinations": [
+   "Rabies (US-origin, per APHIS guidance Sept 2024): vaccinated within 12 months before export, and more than 30 days before export for a primary vaccination. The 30-day wait does not apply if the booster was given before the previous vaccination expired.",
+   "Other origins: as stated on the import permit / South African model health certificate."
+  ],
+  "rabies_titer": "Not on the US-origin dog certificate (APHIS guidance). Requirements for other origins are set on the permit; confirm with the Permit Office.",
+  "parasite_treatment": "Dogs (US-origin certificate): heartworm (D. immitis) preventive given at least once after the negative heartworm test and before certificate issue. Effective acaricide plus insect repellent within 30 days before departure, recorded on the certificate.",
+  "documents": [
+   "Original South African veterinary import permit (DoA, VetPermits@daff.gov.za)",
+   "Original veterinary health certificate on the South African model (dogs: IMP. DOG. GEN 05/22 CG), issued and endorsed by the exporting country's veterinary authority within 10 days of travel (US: USDA APHIS ink-signed and embossed)",
+   "Rabies vaccination certificate (original or copy)",
+   "Dogs: English lab reports, all within 30 days of import and all negative: Brucella canis, Trypanosoma evansi (CATT plus Giemsa smear at a WOAH reference laboratory), Babesia gibsoni (two tests), Dirofilaria immitis (microfilarial filtration only), Leishmania",
+   "Indemnity declaration where specified (e.g. dogs entering quarantine)"
+  ],
+  "import_permit": "Required for ALL dogs and cats. Apply at least 4 weeks before arrival (separate forms: domestic cats; dogs not subject to quarantine; dogs subject to quarantine). Proof of payment is required. Issued 3-5 working days after approval. Valid for a limited period (stated on the permit) and for one consignment only. Fees are set in the annual tariff list (2026/27 list published by DoA).",
+  "quarantine": "Cats are generally not quarantined. Dogs from some origins are subject to quarantine at state stations (Kempton Park/Johannesburg or Cape Town), which must be booked in advance using the 'subject to quarantine' application. APHIS lists no quarantine for US-origin dogs. Non-compliant dogs face a high risk of return or euthanasia: DoA has told APHIS they will no longer be placed in quarantine.",
+  "timeline": "Plan at least 8 weeks (more for dogs): apply for the permit 4+ weeks ahead → receive permit and model certificate → dog blood tests within 30 days of arrival (surra samples go abroad) → parasite treatments → vet exam, certificate and government endorsement within 10 days of travel → notify the port of entry.",
+  "restricted_breeds": null,
+  "private_aviation": "High impact. DoA: dogs and cats must be registered as manifested cargo, not excess baggage. No state veterinarians at passenger terminals, so pets clear only via the cargo terminal at O.R. Tambo, Cape Town or King Shaka (Durban, depending on the permit). On a private jet, the pet must be on the cargo manifest/air waybill, the aircraft should land at the airport named on the permit, and inspection must be arranged with the port's state vet/cargo handler. Do not plan an arrival at Lanseria or other private/regional airports unless DoA confirms it in writing on the permit.",
+  "export": "Exports follow the destination country's rules. South African state veterinarians endorse export health certificates. Movement to Namibia uses an inter-territorial movement permit from a local state vet.",
+  "authority": "Department of Agriculture (formerly DALRRD/DAFF), Directorate Animal Health – Import Export Policy Unit / Food Import & Export Standards (VetPermits@daff.gov.za)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-south-africa",
+   "https://www.aphis.usda.gov/sites/default/files/south-africa-dog-guidance.pdf",
+   "https://www.nda.gov.za/index.php/publication/439-animal-health",
+   "https://www.nda.gov.za/index.php/publication/423-import-export-policy-unit",
+   "https://www.gov.za/services/import/import-animals-and-animal-products",
+   "https://dirco.gov.za/newyork/importing-pets/",
+   "https://old.dalrrd.gov.za/vetweb/ImportExport/Information document for import of dogs and cats to RSA 06-2022.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SS",
+  "name": "South Sudan",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Unknown (national veterinary authority not confirmed)",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SD",
+  "name": "Sudan",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Unknown (national veterinary authority not confirmed)",
+  "sources": [],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "TZ",
+  "name": "Tanzania",
+  "status": "requirements",
+  "summary": "Get an import permit by writing to the Director of Veterinary Services, then travel with an official health certificate and vaccination records (rabies given at least 1 month and no more than 3 years before entry). For US-origin pets (APHIS), the certificate must be USDA-endorsed and is valid 30 days.",
+  "microchip": "Not explicitly required. The APHIS US-origin certificate accepts either a microchip number or the animal's name; a microchip is still recommended.",
+  "vaccinations": [
+   "Rabies: at least 1 month and no more than 3 years before entry (Tanzania Embassy); US-origin certificate: current at export, or for animals under 3 months the dam was vaccinated when they were born",
+   "Dogs: distemper, parvovirus, infectious hepatitis (adenovirus) and leptospirosis more than 1 month before export (APHIS US-origin certificate; the embassy lists DHLP as recommended)",
+   "Cats: panleukopenia, feline herpesvirus-1 and calicivirus (APHIS US-origin certificate)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "Embassy advice: deworm every 3 months (or worm tablets every 45 days). No pre-entry treatment window is stated in the official sources reviewed.",
+  "documents": [
+   "Import permit from the Director of Veterinary Services",
+   "Veterinary health certificate from the exporting country (US: Tanzania-specific APHIS certificate, NOV 2024 form, signed by an accredited vet and endorsed by USDA; can be endorsed digitally via VEHCS; valid 30 days after issue)",
+   "Vaccination certificates"
+  ],
+  "import_permit": "Required. Send a letter of request to the Director of Veterinary Services (Ministry of Livestock and Fisheries; the embassy page still uses the old ministry name) stating type/breed, age and port of entry, with vaccination certificates attached. APHIS directs US applicants to the Veterinary Investigation Centre (VIC). Embassy contacts: zoosanitary@mifugo.go.tz, epid1@mifugo.go.tz, +255 22 2862592.",
+  "quarantine": "No routine quarantine is stated. Animals are examined by a veterinarian at the port of entry and may be quarantined if needed.",
+  "timeline": "Plan at least 6 weeks before travel: vaccinations at least 1 month before entry, then apply for the import permit, then a health certificate within 30 days of travel (US: USDA endorsement).",
+  "restricted_breeds": null,
+  "private_aviation": "No private-aviation-specific rules found. Animals may enter only through designated ports. Zanzibar may have separate rules; no official Zanzibar pet-import information was found.",
+  "export": "An export permit is required to take the pet back out of Tanzania (Tanzania Embassy).",
+  "authority": "Director of Veterinary Services, Ministry of Livestock and Fisheries (Veterinary Investigation Centre, Dar es Salaam)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-tanzania",
+   "https://www.aphis.usda.gov/sites/default/files/tanzania-dog-cat.pdf",
+   "https://www.us.tzembassy.go.tz/services/import-permit-food-plants-pets-and-animal-products"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "TG",
+  "name": "Togo",
+  "status": "requirements",
+  "summary": "For US-origin pets (APHIS): microchip, current rabies vaccination, and a Togo-specific health certificate that USDA must ink-sign and emboss (no digital endorsement). No official rules were found for other origins or for an import permit.",
+  "microchip": "Required (US-origin certificate lists the microchip number as required and the vet must verify the chip).",
+  "vaccinations": [
+   "Rabies: current at the time of export; the certificate records vaccine name, batch number and validity end date (APHIS, US-origin)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Veterinary Health Certificate for Export of Dogs and Cats from the USA to the Togolese Republic (AUG 2025 form), signed by an accredited vet (electronic signature accepted) and ink-endorsed and embossed by USDA; the original must travel with the pet"
+  ],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Plan at least 3-4 weeks before travel: microchip and rabies vaccination, then an accredited-vet health certificate, then USDA ink endorsement (allow time for mail or appointment).",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Togolese veterinary authority (not named by APHIS); USDA APHIS for US-origin certification",
+  "sources": [
+   "https://direct.aphis.usda.gov/pet-travel/pet-travel-united-states-togo",
+   "https://www.aphis.usda.gov/sites/default/files/togo-dog-cat.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "UG",
+  "name": "Uganda",
+  "status": "requirements",
+  "summary": "Apply in writing to MAAIF's Commissioner for Animal Health for an import permit at least 7 days before arrival. Travel with an official English-language health certificate and vaccinations done at least 30 days before arrival; imported animals may be held in quarantine for 21-30 days.",
+  "microchip": null,
+  "vaccinations": [
+   "Dogs: rabies, distemper, hepatitis, leptospirosis, parvovirus, at least 30 days before arrival (Uganda Embassy Washington)",
+   "Cats: rabies and feline enteritis (panleukopenia), at least 30 days before arrival (Uganda Embassy Washington)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Import permit from the Commissioner for Animal Health (MAAIF)",
+   "Official veterinary health certificate from the origin country's veterinary authority, in English or with an English translation (the embassy says signed and stamped within 10 days of shipment, stating the pet is free from disease)",
+   "Movement permit from the veterinary authority of the area of origin (embassy)",
+   "Certificate or letter from the local veterinary authority that the area of origin is rabies-free (embassy)",
+   "Invoice or price list, packing list, and air waybill (MAAIF general procedure)"
+  ],
+  "import_permit": "Required. Written application to the Commissioner for Animal Health at least 7 days before import, stating country of origin, supplier, and animal type, breed, sex and quantity. The permit is then sent to the origin veterinary authority for inspection and certification. It may be refused if the disease risk is unmanageable.",
+  "quarantine": "MAAIF's general post-import procedure (which its dogs-and-cats page says applies) puts imported animals in quarantine or holding for 21-30 days, with release after tests. The page does not state this specifically for pets accompanying their owners, so confirm with MAAIF.",
+  "timeline": "Plan at least 5 weeks before travel: vaccinations at least 30 days before arrival, then the permit application at least 7 days before, then a health certificate within 10 days of shipment, then confirm arrival with the port veterinary officer at least 3 days before.",
+  "restricted_breeds": null,
+  "private_aviation": "No private-aviation-specific rules found. Confirm the arrival date with the port-of-entry veterinary official at least 3 days before arrival; pets must be crated individually with no contact with other animals.",
+  "export": "Apply to the Commissioner for Animal Health at least 15 days before export for a veterinary health certificate. Dogs need records of vaccination against rabies, distemper, parvovirus, infectious hepatitis, parainfluenza and tracheobronchitis. The destination country's import permit is also required.",
+  "authority": "Ministry of Agriculture, Animal Industry and Fisheries (MAAIF), Commissioner for Animal Health",
+  "sources": [
+   "https://agriculture.go.ug/?p=3255",
+   "https://www.agriculture.go.ug/dogs-and-cats/",
+   "https://washington.mofa.go.ug/node/271"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "ZM",
+  "name": "Zambia",
+  "status": "requirements",
+  "summary": "A veterinary import permit from the Department of Veterinary Services HQ in Lusaka is always required. Its conditions depend on the pet's origin and must be certified on a health certificate by the exporting country's veterinary authority; the nearest Veterinary Officer must be told of the arrival for inspection.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Zambian veterinary import permit (must accompany the animal)",
+   "Health certificate prepared by the exporting country's veterinary authority against the permit conditions"
+  ],
+  "import_permit": "Required ('always obligatory'). Obtain it from the veterinary department headquarters at Mulungushi House, Lusaka (P.O. Box 50060; attention Senior Veterinary Officer); a contact person in Lusaka can apply. Conditions vary by species, country of origin and its disease status, and purpose of import.",
+  "quarantine": null,
+  "timeline": "Plan at least 6 weeks before travel: get the import permit, send it to the origin veterinary authority, meet its conditions, obtain the health certificate, and notify the Veterinary Officer of arrival.",
+  "restricted_breeds": null,
+  "private_aviation": "No private-aviation-specific rules found. The importer must inform the nearest Veterinary Officer of the arrival so the animal can be inspected.",
+  "export": null,
+  "authority": "Department of Veterinary Services, Ministry of Fisheries and Livestock (the embassy page uses an older department name)",
+  "sources": [
+   "https://zambiaembassy.org/node/1843"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "ZW",
+  "name": "Zimbabwe",
+  "status": "requirements",
+  "summary": "Non-official source: an import permit is reportedly issued by the Chief Director, Veterinary Services in Harare, on written application with a copy of the rabies certificate. Confirm the current requirements directly with the Department of Veterinary Services.",
+  "microchip": null,
+  "vaccinations": [
+   "Rabies: copy of the rabies certificate attached to the permit application; for animals under 3 months, the mother's rabies certificate and a parvovirus vaccination record (non-official source)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Import permit from Veterinary Services (non-official source)",
+   "Health certificate from the country of origin (permit conditions apply; not verified officially)"
+  ],
+  "import_permit": "Reportedly required. Written application to the Chief Director, Veterinary Services, P.O. Box CY 66 Causeway, Harare (tel. 242-791516) stating breed, age and country of origin; reported fee US$150 per animal and processing 3-5 days (non-official source, Wikiprocedure, updated May 2025). A third-party site claims exemptions for some SADC origins, which is unverified.",
+  "quarantine": null,
+  "timeline": "Plan at least 4-6 weeks before travel: rabies vaccination, then the permit application (3-5 days reported), then a health certificate meeting the permit conditions.",
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "export": null,
+  "authority": "Department of Veterinary Services (Ministry of Lands, Agriculture, Fisheries, Water and Rural Development), Harare",
+  "sources": [
+   "https://www.wikiprocedure.com/index.php/Zimbabwe_-_Obtain_Import_Permit_for_Animals_and_Animal_Products",
+   "https://www.pettravel.com/immigration/Zimbabwe.cfm"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "RE",
+  "name": "Réunion",
+  "status": "requirements",
+  "summary": "Réunion is a French overseas department and part of the EU, so EU pet rules apply. From mainland France or the EU: microchip, valid rabies vaccination and an EU pet passport. From non-EU countries: EU animal health certificate. A rabies titer is needed for every African origin except Mauritius and Saint Helena.",
+  "microchip": "Required (implanted before or at the rabies vaccination). A legible tattoo applied before 3 July 2011 is accepted.",
+  "vaccinations": [
+   "Rabies: at 12 weeks of age or older, after microchipping. Valid from 21 days after the primary vaccination. Boosters must be given within validity."
+  ],
+  "rabies_titer": "Required for pets from non-listed third countries (all of mainland Africa, Madagascar, Comoros, Seychelles, etc.): ≥0.5 IU/ml at an EU-designated lab. Sample at least 30 days after vaccination and at least 90 days (3 months) before the health certificate is issued. Not required from the EU, or from listed territories such as Mauritius and Saint Helena.",
+  "parasite_treatment": null,
+  "documents": [
+   "From the EU: EU pet passport",
+   "From non-EU countries: EU animal health certificate (Implementing Regulation (EU) 2026/705, Annex III; old 577/2013 certificates are valid if issued before 1 Oct 2026), endorsed by the exporting country's competent authority, valid 10 days until the entry check",
+   "Owner's written non-commercial declaration",
+   "Titer lab report (non-listed origins)"
+  ],
+  "import_permit": null,
+  "quarantine": "None if EU rules are met. Non-compliant animals may be refused, returned or isolated at the owner's cost.",
+  "timeline": "From non-listed countries plan at least 4 months: microchip → rabies vaccination → titer 30+ days later → wait 3 months → EU health certificate within 10 days of arrival. From the EU: microchip + vaccination 21+ days before travel.",
+  "restricted_breeds": "French law: category 1 'attack' dogs (pit-bull, Boerbull and Tosa types without a pedigree) may not be imported into France. Category 2 dogs are subject to conditions.",
+  "private_aviation": "Pets from outside the EU must pass a documentary and identity check at a designated travellers' point of entry. Confirm with DAAF Réunion that the arrival airport (Roland Garros/Pierrefonds) and the private/FBO terminal can do the check. Max 5 animals for non-commercial movement.",
+  "export": "Leaving for other countries follows the destination's rules. The EU pet passport is issued by a Réunion vet.",
+  "authority": "DAAF de La Réunion (Direction de l'alimentation, de l'agriculture et de la forêt) – French Ministry of Agriculture",
+  "sources": [
+   "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en",
+   "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/listing-territories-and-non-eu-countries_en",
+   "https://www.service-public.gouv.fr/particuliers/vosdroits/F21374"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "YT",
+  "name": "Mayotte",
+  "status": "requirements",
+  "summary": "Mayotte is a French overseas department and part of the EU, so EU pet rules apply. From the EU: microchip, valid rabies vaccination and an EU pet passport. From non-EU countries (including Comoros and Madagascar): EU health certificate plus a rabies titer at least 3 months before. Local Mayotte-specific measures were not verified.",
+  "microchip": "Required (implanted before or at the rabies vaccination).",
+  "vaccinations": [
+   "Rabies: at 12 weeks of age or older, after microchipping. Valid from 21 days after the primary vaccination."
+  ],
+  "rabies_titer": "Required for non-listed third countries (all neighbouring African/Indian Ocean states except Mauritius): ≥0.5 IU/ml at an EU-designated lab. Sample at least 30 days after vaccination and at least 90 days before the health certificate is issued.",
+  "parasite_treatment": null,
+  "documents": [
+   "From the EU: EU pet passport",
+   "From non-EU countries: EU animal health certificate (Reg. (EU) 2026/705 Annex III), valid 10 days until the entry check, plus the owner's non-commercial declaration",
+   "Titer lab report (non-listed origins)"
+  ],
+  "import_permit": null,
+  "quarantine": "None if compliant. Non-compliant animals may be refused or returned.",
+  "timeline": "From non-listed countries plan at least 4 months: microchip → rabies vaccination → titer 30+ days later → wait 3 months → health certificate within 10 days of arrival.",
+  "restricted_breeds": "French law: category 1 attack dogs may not be imported. Category 2 dogs are subject to conditions.",
+  "private_aviation": "Non-EU arrivals must be checked at a designated travellers' point of entry. Confirm with DAAF Mayotte that Dzaoudzi-Pamandzi can perform the check for a private flight.",
+  "export": null,
+  "authority": "DAAF de Mayotte – French Ministry of Agriculture",
+  "sources": [
+   "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en",
+   "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/listing-territories-and-non-eu-countries_en"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SH",
+  "name": "Saint Helena",
+  "status": "requirements",
+  "summary": "Per the most recent official guidance found (April 2013), dogs and cats may be imported directly only from the UK (and Ascension). Pets from elsewhere, including South Africa, must first enter the UK under UK rules, then obtain a St Helena certificate via DEFRA/APHA with additional blood tests. St Helena no longer offers quarantine. Rules may have changed since the airport opened; confirm with SHG Biosecurity.",
+  "microchip": "Required under the UK-route protocol.",
+  "vaccinations": [
+   "Rabies: per UK entry rules, then St Helena certificate conditions"
+  ],
+  "rabies_titer": "Required under the UK entry protocol for non-listed countries (blood test 30+ days after vaccination, 3-month wait).",
+  "parasite_treatment": null,
+  "documents": [
+   "St Helena export health certificate agreed with UK DEFRA/APHA (issued by a UK Official Veterinarian)",
+   "Additional blood test results required by St Helena (about 1 month)"
+  ],
+  "import_permit": "Contact the SHG Biosecurity Officer (julie.balchin@sainthelena.gov.sh, tel +290 24724). Import licence forms exist for regulated goods.",
+  "quarantine": "No quarantine service on St Helena (abolished 2011). Direct imports from countries other than the UK/Ascension are not eligible under the 2013 guidance.",
+  "timeline": "Plan at least 6 months from non-UK origins (2013 guidance: 5-6 months from South Africa via the UK).",
+  "restricted_breeds": null,
+  "private_aviation": "High impact and unverified. The 2013 guidance predates St Helena Airport (2017). A direct private flight from Africa with a pet may be refused. Get written confirmation from SHG Biosecurity/Veterinary Section before booking.",
+  "export": "2013 guidance: pets could not return directly from St Helena to South Africa and had to travel via the UK. Check current South African permit conditions.",
+  "authority": "St Helena Government – Biosecurity / Veterinary Section, Agriculture & Natural Resources Division (ANRD)",
+  "sources": [
+   "https://www.sainthelena.gov.sh/documents/Dog-and-Cat-Imports-from-SA-April-2013",
+   "https://www.sainthelena.gov.sh/st-helena/government/portfolios/environment-natural-resources-planning/biosecurity/",
+   "https://www.sainthelena.gov.sh/public-services/veterinary/"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ }
+]
