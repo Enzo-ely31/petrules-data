@@ -1,0 +1,582 @@
+[
+ {
+  "cc": "VN",
+  "name": "Vietnam",
+  "status": "requirements",
+  "summary": "Vietnam needs a health certificate from the exporting country (for US pets: a USDA-endorsed, Vietnam-specific certificate stating current rabies vaccination, valid 30 days). Up to 2 pets travelling with their owner are cleared directly by the airport animal quarantine office on arrival, with no prior permit. 3 or more need prior quarantine registration with the Department of Livestock Production and Animal Health. No titer and no routine quarantine.",
+  "microchip": "Microchip number required on the USDA Vietnam certificate, and the vet verifies the chip. Vietnamese law sets no separate chip standard; ISO 11784/11785 is advised.",
+  "vaccinations": [
+   "Rabies: current at time of export (USDA Vietnam certificate, Sept 2025). Vaccine name, batch and validity end date must be listed. No minimum wait is stated on the certificate.",
+   "At the border, Vietnamese quarantine officers vaccinate animals not already vaccinated against dangerous infectious diseases (Circular 25/2016, Art. 10)."
+  ],
+  "rabies_titer": "Not required (no titer on the USDA Vietnam certificate or in Circular 25/2016).",
+  "parasite_treatment": "None specified.",
+  "documents": [
+   "Health/quarantine certificate issued by the exporting country. For the USA: the Vietnam-specific USDA certificate (Sept 2025 version), signed by an accredited vet and USDA-endorsed (digital endorsement accepted). It covers the microchip check, a clinical exam on the day of issue, origin outside rabies-quarantined areas, and current rabies vaccination. Valid 30 days from issue to departure.",
+   "On arrival: import quarantine registration at the border-gate animal quarantine office. The office checks the certificate and examines the pet, then issues a Vietnamese import quarantine certificate."
+  ],
+  "import_permit": "Not needed for up to 2 animals carried by a person for pet/household use, travel or transit: register directly with the border-gate animal quarantine office (Circular 25/2016/TT-BNNPTNT, Art. 10.1). For more than 2 animals, file prior quarantine registration with the Department of Livestock Production and Animal Health (Cục Chăn nuôi và Thú y) via the National Single Window, then declare at the border (Art. 8 and 10.3).",
+  "quarantine": "No fixed quarantine for compliant pets: clinical inspection at the border only. Animals with a dangerous infectious disease are destroyed near the border gate. An invalid export certificate means the pet is held and dealt with under the regulations (Art. 10.2).",
+  "timeline": "An already chipped and vaccinated pet needs about 1 week: accredited-vet exam and Vietnam certificate → USDA (or EU official) endorsement → fly within 30 days of issue. For 3 or more animals, add time for Department registration.",
+  "lead_days": 7,
+  "restricted_breeds": "No breed ban found in the national quarantine rules.",
+  "private_aviation": "No private-aircraft rule found. The 2-animal 'carried by a person' route matches owner-accompanied pets on a private jet. Arrange in advance for the airport animal quarantine office (regional Sub-Department of Livestock Production and Animal Health) to inspect at the GA/FBO arrival point.",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Department of Livestock Production and Animal Health (Cục Chăn nuôi và Thú y, formerly Department of Animal Health), Ministry of Agriculture and Environment. Border work is done by regional sub-departments / border-gate animal quarantine offices.",
+  "sources": [
+   "https://direct.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-vietnam",
+   "https://direct.aphis.usda.gov/sites/default/files/pet-dogs-cats-vietnam-hc.pdf",
+   "https://static.luatvietnam.vn/xem-noi-dung-file-van-ban-hop-nhat-48-vbhn-bnnmt-nam-2025-do-bo-nong-nghiep-va-moi-truong-ban-hanh-hop-nhat-thong-tu-quy-dinh-ve-kiem-dich-dong-vat-san-pham-dong-vat-tren-can-409677-d5/uploaded/vietlawfile/2025/8/48_vbhn_bnnmt_2025_270825090152.pdf.aspx"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LA",
+  "name": "Laos",
+  "status": "requirements",
+  "summary": "A DLF import licence is required before shipment, plus the official Lao import health certificate (Form 3). Requirements: microchip, core vaccines at least 14 days before export, rabies vaccination at least 30 days before export, and a titer of at least 0.5 IU/ml (blood drawn at least 30 days after vaccination and within 6 months of export). Internal and external parasite treatment 2–7 days before export. Certificate valid 7 days. Pets not meeting the rabies rules are vaccinated on arrival and confined at home for at least 21 days.",
+  "microchip": "Required in practice: the certificate records a microchip (or ID) number scanned before export that matches the vaccination certificate.",
+  "vaccinations": [
+   "Rabies: inactivated or recombinant vaccine acceptable to DLF, at least 1 month before export, and a valid primary or booster course.",
+   "Dogs: distemper, infectious hepatitis and parvovirus, at least 14 days before export.",
+   "Cats: calicivirus, rhinotracheitis and panleukopenia, at least 14 days before export."
+  ],
+  "rabies_titer": "Rabies neutralising antibody of at least 0.5 IU/ml by a WOAH-prescribed test. Blood drawn at least 30 days after rabies vaccination and within 6 months before export. The test report must go with the certificate. The form says 'whenever require'; if the rabies conditions are not met, the pet is vaccinated on arrival and confined separately at home for at least 21 days.",
+  "parasite_treatment": "External (fleas and ticks) and internal (nematodes and cestodes) treatment between 2 and 7 days before export, with product, active ingredient and date recorded.",
+  "documents": [
+   "DLF import licence (number shown on the certificate)",
+   "Animal Health Certificate for the Import of Dogs and Cats into Lao PDR (Form 3). Sections I–III by a government-approved or official vet; Section IV endorsed by the official government vet of the exporting country (USDA for the US). Valid 7 days.",
+   "Rabies vaccination certificate and titer report",
+   "Present the import licence and health certificate to customs and quarantine officers at the port of entry"
+  ],
+  "import_permit": "Yes. A valid Department of Livestock and Fisheries (DLF) import licence must be obtained before shipment. Processing time and fees are not published officially; secondary sources cite an application at least 15 days before arrival.",
+  "quarantine": "No routine quarantine for compliant pets. Pets not meeting the rabies conditions are vaccinated on arrival and confined at home for at least 21 days.",
+  "timeline": "An already chipped and vaccinated pet (vaccine at least 30 days old) needs about 1 month: titer blood draw → result → DLF licence → parasite treatments, exam and official endorsement within 7 days of export.",
+  "lead_days": 30,
+  "restricted_breeds": "Banned with crosses: Pit Bull types (incl. American Pit Bull Terrier), American Staffordshire Terrier, Staffordshire Bull Terrier, American Bulldog, Neapolitan Mastiff, Tosa, Akita, Dogo Argentino, Boerboel, Fila Brasileiro, Perro de Presa Canario. Also Bengal and Savannah cat crosses of 4th generation and below. Pregnant females are not accepted.",
+  "private_aviation": "No private-aircraft rule found. Clearance needs customs and quarantine officers at the port of entry, so arrange this in advance for a GA arrival (e.g. Vientiane Wattay).",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Department of Livestock and Fisheries (DLF), Ministry of Agriculture and Forestry, Lao PDR",
+  "sources": [
+   "https://laotradeportal.gov.la/upload/files/Animal_Health_Certificate_for_Dogs_and_Cat.pdf",
+   "https://laotradeportal.gov.la/en-gb/site/display/2735"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MM",
+  "name": "Myanmar",
+  "status": "requirements",
+  "summary": "Myanmar's LBVD dog and cat import regulation needs an import licence, an official health certificate, and rabies vaccination (or origin rabies-free for 12 months) plus distemper, hepatitis, leptospirosis and parvovirus vaccination at least 21 days before departure. Then at least 30 days of quarantine at approved premises on arrival. The regulation found is labelled 'purpose: breeding' and may be dated, so confirm the pet procedure with LBVD.",
+  "microchip": "Not specified in the LBVD regulation. The certificate must fully identify each animal; a microchip is advised.",
+  "vaccinations": [
+   "Rabies: official approved vaccine at least 21 days before departure, unless the origin region has been rabies-free for at least 12 months (LBVD regulation; UK certificate 7961EHC).",
+   "Distemper, hepatitis, leptospirosis and parvovirus: official approved vaccines at least 21 days before export (dogs)."
+  ],
+  "rabies_titer": "Not required in the regulations found.",
+  "parasite_treatment": "No treatment specified. The animal must be free of ectoparasites at export.",
+  "documents": [
+   "Myanmar import licence issued by a Government authority",
+   "Health certificate signed by an authorised official vet, describing each animal (UK version valid 7 days from signature)",
+   "Vaccination records"
+  ],
+  "import_permit": "Yes. A valid Myanmar import licence must accompany the consignment (LBVD regulation). The pet application route and processing time are not published.",
+  "quarantine": "At least 30 days at approved premises on arrival, with tests or treatment if needed, at the owner's cost (LBVD regulation, stated for 'breeding' imports). Non-compliance means return or destruction without compensation. Animals landed in transit must not be exposed to other animals.",
+  "timeline": "Get the import licence first (lead time unpublished). Vaccines at least 21 days before departure, and the official health certificate shortly before travel.",
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": "No private-aircraft rule found. The 30-day post-arrival quarantine at approved premises still applies.",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Livestock Breeding and Veterinary Department (LBVD), Ministry of Agriculture, Livestock and Irrigation",
+  "sources": [
+   "https://dpss.gov.ua/storage/app/sites/12/uploaded-files/%20%D0%91%D0%95%D0%97%D0%9F%D0%95%D0%A7%D0%9D%D0%9E%D0%A1%D0%A2%D0%86%20%D0%A5%D0%90%D0%A0%D0%A7%D0%9E%D0%92%D0%98%D0%A5%20%D0%9F%D0%A0%D0%9E%D0%94%D0%A3%D0%9A%D0%A2%D0%86%D0%92%20%D0%A2%D0%90%20%D0%92%D0%95%D0%A2%D0%95%D0%A0%D0%98%D0%9D%D0%90%D0%A0%D0%9D%D0%9E%D0%87%20%D0%9C%D0%95%D0%94%D0%98%D0%A6%D0%98%D0%9D%D0%98/vimogi-krayin-svitu/regulationforimportationdogscats.pdf",
+   "https://assets.publishing.service.gov.uk/media/5bcecfbae5274a6bd864f36e/7961NFG.pdf",
+   "https://assets.publishing.service.gov.uk/media/5bcecf9d40f0b6441b98d89d/7961EHC_V2.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "BN",
+  "name": "Brunei",
+  "status": "requirements",
+  "summary": "A Brunei import permit from the Department of Agriculture and Agrifood is required before shipment, and it sets the conditions for each import. For non-rabies-free origins (CFIA guidance): ISO microchip, rabies vaccination 60 days to 1 year before departure, and a titer of at least 0.5 IU/ml at least 30 days after vaccination. Veterinary inspection on arrival. Non-compliant animals can be held in quarantine for 6 months.",
+  "microchip": "ISO microchip (CFIA guidance for Brunei).",
+  "vaccinations": [
+   "Rabies: at least 60 days and no more than 1 year before departure. Not needed under 3 months of age (CFIA). For UK (rabies-free) origin, rabies vaccination is optional (APHA notes, revised Dec 2023)."
+  ],
+  "rabies_titer": "Required for Canada origin (and expected for other non-rabies-free origins such as the USA): approved lab, at least 30 days after vaccination, at least 0.5 IU/ml, valid 1 year from sampling. Confirm against the permit.",
+  "parasite_treatment": null,
+  "documents": [
+   "Brunei import permit, obtained before export, with transport arrangements and ETA notified",
+   "Official export health certificate. UK version: exam no more than 48 hours before export",
+   "Rabies vaccination certificate and titer report",
+   "Carrier declaration that the animals were carried separately and, if transhipped, kept isolated (UK notes)"
+  ],
+  "import_permit": "Yes. From the Department of Agriculture and Agrifood (Veterinary Public Health and Animal Import Management Unit, upa.jpt@agriculture.gov.bn, +673 2388 048). The permit sets the exact conditions.",
+  "quarantine": "Veterinary inspection on arrival. Suspect animals may be quarantined at the authority's discretion. If documents or shipment rules are not met, quarantine of up to 6 months from arrival (APHA notes).",
+  "timeline": "An already chipped and vaccinated pet (vaccine at least 60 days old) needs about 1 month: apply for the permit → titer blood draw → result → health certificate and exam shortly before departure.",
+  "lead_days": 30,
+  "restricted_breeds": null,
+  "private_aviation": "No private-aircraft rule found. The permit requires notice of transport arrangements and ETA, and transit landings must keep animals isolated.",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Department of Agriculture and Agrifood (DAA), Brunei",
+  "sources": [
+   "https://inspection.canada.ca/en/animal-health/terrestrial-animals/exports/pets/brunei-darussalam",
+   "https://assets.publishing.service.gov.uk/media/6579e8ba254aaa0010050cc2/3895NFG.pdf",
+   "https://www.agriculture.gov.bn/faqs/"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "NP",
+  "name": "Nepal",
+  "status": "requirements",
+  "summary": "Pets enter Nepal via Tribhuvan International Airport with an international health certificate (issued within 10 days of arrival) and a rabies vaccination card. The Animal Quarantine Office must be emailed the flight details, passport copy, health certificate and rabies card 72 hours before arrival. The pet is checked at the airport animal quarantine checkpoint. Exact rabies timing and microchip rules are not stated officially.",
+  "microchip": "Not stated on the official embassy guidance; secondary sources expect an ISO microchip.",
+  "vaccinations": [
+   "Rabies: rabies vaccination card required (Embassy of Nepal, London). Timing not stated officially; secondary sources cite 30 days to 12 months before arrival."
+  ],
+  "rabies_titer": "Not required per available guidance.",
+  "parasite_treatment": null,
+  "documents": [
+   "International health certificate issued within 10 days of arrival in Nepal (valid 30 days; a new one can be issued in Nepal)",
+   "Rabies vaccination card/certificate",
+   "Owner's passport copy and flight details (sent to the Animal Quarantine Office in advance)",
+   "Optional: Embassy recommendation letter (UK embassy, GBP 40, not mandatory)"
+  ],
+  "import_permit": "No separate import permit in the embassy guidance for personal pets. Advance notification to the Animal Quarantine Office, Tribhuvan International Airport (ktmquarantine@gmail.com) 72 hours before arrival.",
+  "quarantine": "Inspection at the airport animal quarantine checkpoint, then customs clearance. No fixed quarantine is described for compliant pets.",
+  "timeline": "An already vaccinated pet needs under a week: health certificate within 10 days of arrival → email the Animal Quarantine Office 72 hours before arrival.",
+  "lead_days": 5,
+  "restricted_breeds": null,
+  "private_aviation": "Kathmandu (TIA) Animal Quarantine Office handles arrivals; give 72 hours' notice. No private-aircraft-specific rule found.",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Animal Quarantine Office, Tribhuvan International Airport (Department of Livestock Services, Ministry of Agriculture and Livestock Development)",
+  "sources": [
+   "https://uk.nepalembassy.gov.np/pages/taking-pets-to-nepal/"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "PK",
+  "name": "Pakistan",
+  "status": "requirements",
+  "summary": "For US-origin dogs and cats, USDA lists Pakistan's health certificate: issued by a licensed vet (USDA endorsement NOT required), recording the microchip, a healthy exam, origin outside rabies-quarantined areas, and current rabies vaccination. Valid 30 days. Secondary sources also mention an import NOC from the Ministry of National Food Security & Research (Animal Quarantine Department, now merging into NAFSA). The NOC is unconfirmed, so check before travel.",
+  "microchip": "The certificate records the microchip number (or animal name) and the vet verifies the chip. ISO 11784/11785 is advised.",
+  "vaccinations": [
+   "Rabies: listed on the certificate with date, vaccine name and validity period. Must be current. No minimum wait is stated officially; secondary sources cite at least 21–30 days."
+  ],
+  "rabies_titer": "Not required (none on the USDA Pakistan certificate).",
+  "parasite_treatment": "None mandated on the certificate (an 'other treatments, if required' table is provided).",
+  "documents": [
+   "USDA 'Veterinary Health Certificate for Export of Birds, Dogs and Cats from the USA to Pakistan', signed by a licensed vet. USDA endorsement not required. Valid 30 days after issue.",
+   "Rabies vaccination record",
+   "Unverified: import NOC from the Animal Quarantine Department / NAFSA"
+  ],
+  "import_permit": "Unverified. Secondary sources say an NOC/permit is needed. Pakistan's Animal Quarantine Department was reportedly merged into the National Agri-trade and Food Safety Authority (NAFSA) in 2025. Confirm with the Ministry of National Food Security & Research.",
+  "quarantine": "No routine quarantine is described for documented pets (secondary sources). Non-compliant pets may be quarantined or returned.",
+  "timeline": "An already vaccinated pet needs about 1 week for the health certificate (valid 30 days). Add time for any NOC.",
+  "lead_days": 7,
+  "restricted_breeds": null,
+  "private_aviation": "No private-aircraft rule found. Secondary sources cite entry via Islamabad, Lahore or Karachi.",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Ministry of National Food Security & Research (Animal Quarantine Department / NAFSA)",
+  "sources": [
+   "https://direct.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-pakistan",
+   "https://direct.aphis.usda.gov/sites/default/files/pakistan-dog-cat-bird_0.pdf"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "ID",
+  "name": "Indonesia",
+  "status": "requirements",
+  "summary": "The USDA certificate for Indonesia requires: a pet at least 3 months old, a killed rabies vaccine, a rabies antibody (FAVN) result of 0.5 IU/ml or more, 6 months' residence in the exporting country, no rabies in the area for the last 6 months, and a vet exam within 5 days of departure. Cats (not dogs) also need a negative SARS-CoV-2 PCR result before export. Barantin's import procedure, quarantine length and authorised entry points could not be confirmed officially. Bali has historically closed entry to dogs and cats (Governor Reg. 88/2008), so do not route pets to Bali without written confirmation.",
+  "microchip": "Microchip number is recorded on the USDA certificate.",
+  "vaccinations": [
+   "Rabies: killed vaccine, pet at least 3 months old (USDA certificate for Indonesia).",
+   "Cats only: negative COVID-19 (SARS-CoV-2) PCR result before export (USDA Indonesia page)."
+  ],
+  "rabies_titer": "FAVN result of 0.5 IU/ml or more (USDA certificate). The official sources reviewed give no wait period or sample timing.",
+  "parasite_treatment": null,
+  "documents": [
+   "USDA-endorsed 'Veterinary Health Certificate for Export of Dogs and Cats from the USA to Indonesia'. It covers the microchip check, the exam (within 5 days of departure), 6 months' residence, no rabies in the area for 6 months, killed rabies vaccine, and FAVN of 0.5 IU/ml or more.",
+   "FAVN laboratory report",
+   "Cats: negative SARS-CoV-2 PCR report",
+   "Barantin import/quarantine documents (not verified)"
+  ],
+  "import_permit": "Barantin (Indonesian Quarantine Agency) handles pet entry through its PTK Online system. Permit details were not confirmed from official sources.",
+  "quarantine": "Not confirmed officially. Secondary sources cite 7-14 days at a Barantin facility.",
+  "timeline": "An already chipped and vaccinated pet needs at least 1 month: FAVN blood draw → result (no official wait period published) → Barantin pre-notification/permit → exam and USDA endorsement within 5 days of departure (and PCR for cats).",
+  "lead_days": 30,
+  "restricted_breeds": null,
+  "private_aviation": "Unverified secondary sources say pets must enter via designated airports such as Jakarta (CGK), not Denpasar (DPS). Bali (rabies-affected) has closed entry to dogs, cats and monkeys under Governor Regulation 88/2008 (cited in later Denpasar regulations; current status unconfirmed). Get written Barantin and Bali confirmation before routing pets to Bali.",
+  "private_jet_alert": true,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Indonesian Quarantine Agency (Badan Karantina Indonesia, Barantin)",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-indonesia",
+   "https://direct.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-indonesia",
+   "https://direct.aphis.usda.gov/sites/default/files/indonesia-dog-cat_2.pdf",
+   "https://karantinaindonesia.go.id/"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "KR",
+  "name": "South Korea",
+  "status": "requirements",
+  "summary": "ISO microchip plus a government-endorsed health certificate. Dogs and cats aged 90 days or older from non-rabies-free countries (incl. the USA) also need a current rabies vaccination and a rabies antibody test of at least 0.5 IU/ml. No post-titer waiting period. Pets missing the chip or titer are held in quarantine at the owner's cost until it is done.",
+  "microchip": "ISO 11784/11785 compliant, number on the health certificate. If missing, it can be implanted after arrival during quarantine at the owner's cost.",
+  "vaccinations": [
+   "Rabies (age 90 days or older, non-rabies-free origin): current at arrival. The APQA FAQ indicates at least 30 days since vaccination and still within immunity. If under 30 days, the pet is held until 30 days have passed.",
+   "Pets under 90 days or from APQA-listed rabies-free countries: rabies vaccination not required, but chip and certificate still required."
+  ],
+  "rabies_titer": "Non-rabies-free origin, age 90 days or older: rabies-neutralising antibody result of at least 0.5 IU/ml, from an internationally approved lab or the exporting country's competent authority. Valid 24 months from blood draw. No waiting period after the result. Older sources say sampling must be at least 30 days after vaccination. If missing or under 0.5, the test is done in quarantine after arrival.",
+  "parasite_treatment": null,
+  "documents": [
+   "Health certificate issued or endorsed by the exporting country's veterinary authority, stating the microchip number, birth date, rabies vaccination and titer result. For US origin, USDA-endorsed within 30 days of export.",
+   "Rabies vaccination certificate",
+   "Rabies antibody test report (where required)",
+   "Cats from Australia and dogs/cats from Malaysia: extra Hendra/Nipah freedom certificate, otherwise quarantine is extended 21 days (older official guidance)"
+  ],
+  "import_permit": "No import permit for personal pets. Larger groups need advance notification to APQA and prior approval of a quarantine facility. Sources cite 5 or more and 10 or more animals, so confirm the threshold.",
+  "quarantine": "None if compliant (arrival inspection only). Pets missing the chip or titer, with a mismatched chip, or with a titer under 0.5 IU/ml are held at the owner's expense until it is resolved, typically about 10 days, sometimes longer. A missing health certificate can mean return to origin.",
+  "timeline": "An already chipped and vaccinated pet needs about 1 month: titer blood draw (common practice: at least 30 days after the vaccine) → lab result (usually 2–4 weeks) → Korea-specific health certificate (valid 30 days) and USDA/official endorsement. A titer result from the last 24 months can be reused.",
+  "lead_days": 30,
+  "restricted_breeds": "No import breed ban found. Korea has domestic 'dangerous dog' rules (e.g. Tosa, Pit Bull types, Rottweiler) that impose owner obligations after entry. Verify before travel.",
+  "private_aviation": "No private-aircraft-specific rule found. Arrange the APQA arrival inspection at the arrival airport (e.g. Incheon or Gimpo) in advance through the handler or FBO.",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": "APQA issues an export quarantine certificate after inspection at its airport or port office, based on the destination's requirements.",
+  "authority": "Animal and Plant Quarantine Agency (APQA / QIA), Ministry of Agriculture, Food and Rural Affairs",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-korea",
+   "https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_007-8.jsp",
+   "https://www.qia.go.kr/english/html/Community_plaza/listqiaEngFaqAnswerWebAction.do",
+   "https://cargo.koreanair.com/sites/default/files/2019-02/QUARANTINE_LIVEANIMAL.pdf",
+   "https://direct.aphis.usda.gov/sites/default/files/korea-dog-cat.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "TW",
+  "name": "Taiwan",
+  "status": "requirements",
+  "summary": "An import permit is required, and post-entry quarantine space must be reserved at least 20 days before shipment. From non-rabies-free countries: microchip, rabies vaccination, a titer of at least 0.5 IU/ml (sample 90 days to 1 year before shipment), and 7 days of post-entry quarantine with a re-test. Rabies-free origins (e.g. Hawaii, Guam) have no titer, but require 180 days of residence.",
+  "microchip": "Required. Pet must be at least 90 days old. No microchip means refusal, return, euthanasia or quarantine.",
+  "vaccinations": [
+   "Rabies (inactivated only; Merial Purevax accepted): given at 90 days of age or older, 30 days to 1 year before import."
+  ],
+  "rabies_titer": "Non-rabies-free origins: at least 0.5 IU/ml, sample taken 90 days to 1 year before shipment, at a WOAH reference lab or an APHIA-designated lab. Not required for recognised rabies-free origins (APHIS lists Hawaii and Guam).",
+  "parasite_treatment": null,
+  "documents": [
+   "Import permit from APHIA (apply with the rabies vaccination certificate, the importer's ID or passport, and the titer report)",
+   "Official veterinary health certificate on Taiwan's required form, government-endorsed. Original required. A non-compliant certificate means refusal of entry or destruction of the animal.",
+   "Rabies-free origin: statement of 180 days' continuous residence (or since birth) and no third-country visit",
+   "US form (version 20250228): pregnant dogs and cats are allowed only if under 4 weeks pregnant. The pet must arrive within 30 days of the USDA endorsement. A second titer is needed if export is more than 1 year after a satisfactory test."
+  ],
+  "import_permit": "Yes. Apply and reserve post-entry quarantine space at least 20 days before shipment.",
+  "quarantine": "Non-rabies-free origins: 7 days at a designated post-entry quarantine station, with a rabies antibody re-test (revaccinated if below 0.5 IU/ml). Rabies-free origins: reduced or no quarantine if compliant (confirm with APHIA).",
+  "timeline": "An already chipped and vaccinated pet needs at least 90 days: titer blood draw at a WOAH or APHIA-designated lab (US: KSU, DoD Texas, Auburn or Missouri FAVN) at least 90 days before shipment → import permit and quarantine booking at least 20 days before → Taiwan-form certificate, endorsed; arrival within 30 days of endorsement → 7-day quarantine. If shipped more than 1 year after the first titer test, a second test is needed.",
+  "lead_days": 90,
+  "restricted_breeds": "Pit Bull Terrier types (incl. American Pit Bull Terrier and American Staffordshire Terrier) banned from import and breeding since 1 March 2022 (reported by Taiwan News; confirm scope for mixes with APHIA).",
+  "private_aviation": "No private-aircraft-specific rule found. Transshipment through countries Taiwan does not recognise as rabies-free is not allowed for rabies-free-origin pets. The APHIA airport branch inspection and the quarantine booking apply as for any arrival.",
+  "private_jet_alert": true,
+  "prohibited_species": [],
+  "export": "APHIA branch offices issue export animal health certificates based on the destination's requirements. Apply in advance.",
+  "authority": "Animal and Plant Health Inspection Agency (APHIA, formerly BAPHIQ), Ministry of Agriculture",
+  "sources": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-taiwan",
+   "https://www.taiwannews.com.tw/en/news/4272040",
+   "https://direct.aphis.usda.gov/sites/default/files/taiwan-dog-cat.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MP",
+  "name": "Northern Mariana Islands",
+  "status": "requirements",
+  "summary": "CNMI entry permit (Division of Agriculture) required. From the USA: at least two rabies vaccinations, an FAVN titer above 1.0 IU/mL at a CDC-approved lab, core vaccines, parasite treatment within 14 days of arrival, and a health certificate within 10 days of travel. From non-US, non-rabies-free origins (e.g. EU), at least 120 days must pass from the FAVN blood draw. Dogs also need a CDC Dog Import Form, must be 6 months or older, and need an ISO chip. Pets from high-risk rabies countries must quarantine on Guam first.",
+  "microchip": "Required. The health certificate must show the microchip number and implant date. International dogs: ISO-compatible microchip.",
+  "vaccinations": [
+   "Rabies: at least two lifetime vaccinations (primary + booster), each with a formal vet-signed certificate. Do not re-vaccinate after the FAVN draw before import.",
+   "Dogs: DHPP (DHLPP), Leptospirosis and Bordetella current.",
+   "Cats: FVRCP current."
+  ],
+  "rabies_titer": "FAVN required unless the pet comes from a recognised rabies-free area (Hawaii, Guam, Japan). Use a CDC-approved lab, with the result greater than 1.0 IU/mL and destination listed as 'CNMI'. Draw blood at least 30 days after the second rabies vaccine. Non-US, non-rabies-free origin: at least 120 days from the FAVN draw before entry.",
+  "parasite_treatment": "Internal (helminths, heartworm) and external (fleas, ticks) treatment within 14 days of arrival, with date, product and method on the health certificate.",
+  "documents": [
+   "CNMI Entry Permit Application (Cat/Dog) with travel itinerary (note foreign layovers). Fee USD 50 per sterilised animal, USD 500 per unsterilised animal. Permit valid 60 days.",
+   "Two rabies certificates, FAVN report, and core vaccine records",
+   "Health certificate within 10 days of travel (microchip, rabies details, parasite treatment)",
+   "Rabies-free origins: vet certificate of origin showing at least 6 months' residence",
+   "International dogs: CDC Dog Import Form; dog at least 6 months old"
+  ],
+  "import_permit": "Yes. CNMI Entry Permit from DLNR Division of Agriculture (cnmianimalhealth@gmail.com, +1 670 256-3319/20). Submit documents at least 14 days before arrival; they need at least 1 week to prepare the permit.",
+  "quarantine": "None for compliant pets from the USA or rabies-free areas. Pets from international high-risk rabies areas: mandatory quarantine on Guam before arriving in the CNMI, plus re-vaccination with a US-made rabies vaccine.",
+  "timeline": "US pet with two rabies shots: about 4–6 weeks (FAVN result 2–4 weeks, permit at least 14 days). EU/other non-rabies-free origin: at least 120 days from the FAVN draw. lead_days uses the 120-day EU case.",
+  "lead_days": 120,
+  "restricted_breeds": null,
+  "private_aviation": "No private-aircraft rule found. The entry permit and itinerary (including foreign layovers) must be approved in advance. US CDC dog-import rules apply to dogs coming from abroad.",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": "For export to New Zealand, MPI treats the Northern Mariana Islands as Category 3 (same as the US mainland), per USDA.",
+  "authority": "CNMI Department of Lands and Natural Resources, Division of Agriculture (Animal Health)",
+  "sources": [
+   "https://dlnr.cnmi.gov/animal-import.html",
+   "https://dlnr.cnmi.gov/assets/docs/ag/entry-permit-for-dogs-or-cats-2025.pdf",
+   "https://dlnr.cnmi.gov/assets/docs/ag/pet-shipping-health-certificate-guide-updated-05282026.pdf"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "AS",
+  "name": "American Samoa",
+  "status": "requirements",
+  "summary": "Dog and cat imports to American Samoa are banned by law except: (1) from Hawaii, New Zealand or Australia under Department of Agriculture conditions; (2) from the continental US, Guam or former Trust Territories, but only after mandatory quarantine in Hawaii. EU and other origins are not on the allowed list. Rabies vaccination at least 30 days before arrival. Non-compliant pets are returned at the owner's cost or destroyed.",
+  "microchip": null,
+  "vaccinations": [
+   "Rabies: certificate from a salaried government vet (or other competent authority) that the pet was vaccinated no later than 30 days before arrival (A.S.A.C. 24.0307(d))."
+  ],
+  "rabies_titer": "Not specified in the territorial code. Pets from the US mainland must meet Hawaii's requirements (FAVN-based), since they must quarantine in Hawaii.",
+  "parasite_treatment": null,
+  "documents": [
+   "Government-vet rabies vaccination certificate (vaccinated at least 30 days before arrival)",
+   "Proof of compliance with Department of Agriculture entry conditions (permit/conditions set by the Director; get them before travel)",
+   "US mainland/Guam origin: proof of the mandatory Hawaii quarantine"
+  ],
+  "import_permit": "Entry is only under conditions set by the Director of Agriculture; get them in writing from the American Samoa Department of Agriculture before travel.",
+  "quarantine": "Hawaii, NZ or Australia origin: per DOA conditions. Continental US, Guam or Trust Territories origin: mandatory quarantine in Hawaii for a period set by the Department of Agriculture (A.S.A.C. 24.0317(2)).",
+  "timeline": "Get DOA conditions first. US mainland pets must first complete Hawaii's import programme and the required quarantine. Length is set by DOA and Hawaii rules, so no fixed lead time.",
+  "lead_days": null,
+  "restricted_breeds": "Not in the code reviewed. Secondary sources report Pit Bull types and crosses are banned; confirm with DOA.",
+  "private_aviation": "A direct private flight from the US mainland or Europe with a pet is not allowed. US-mainland pets must quarantine in Hawaii first, and EU-origin pets are not an allowed origin. Pets arriving without full prior compliance are returned or destroyed.",
+  "private_jet_alert": true,
+  "prohibited_species": [],
+  "export": "For export to New Zealand, MPI treats American Samoa as Category 2 (rabies-free); the crate needs a vet-applied seal on departure day (USDA).",
+  "authority": "American Samoa Department of Agriculture (Director of Agriculture)",
+  "sources": [
+   "https://faolex.fao.org/docs/pdf/ams68618.pdf"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "PG",
+  "name": "Papua New Guinea",
+  "status": "requirements",
+  "summary": "PNG import permit (NAQIA) required. Per Australian MICoR guidance, dogs and cats are accepted only from Australia, New Zealand, Hawaii, Solomon Islands and Vanuatu, with prior written permission from the Chief Stock Inspector. They must have been born and raised there, or cleared quarantine or lived there more than a year. Pets from the US mainland or the EU cannot fly in directly. Arrivals are Monday to Wednesday only, with post-arrival quarantine at NAQIA's Kilakila station, Port Moresby.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "NAQIA import permit and prior written permission of the Chief Stock Inspector",
+   "Official health certificate meeting permit conditions",
+   "Customs clearing agent engaged for clearance"
+  ],
+  "import_permit": "Yes. NAQIA import permit (animalbiosecurity@naqia.gov.pg); its conditions take precedence.",
+  "quarantine": "Post-arrival quarantine at the NAQIA animal quarantine station, Kilakila (Port Moresby). Duration is set by the permit.",
+  "timeline": "Not determinable for US/EU origin: the pet must first qualify through residence in an approved origin (e.g. more than 1 year in Australia, or cleared Australian quarantine).",
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": "Origin restricted to Australia, NZ, Hawaii, Solomon Islands and Vanuatu. Arrivals Monday–Wednesday only (no weekends or public holidays). Quarantine at Kilakila, and a customs clearing agent is needed.",
+  "private_jet_alert": true,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "National Agriculture Quarantine and Inspection Authority (NAQIA)",
+  "sources": [
+   "https://micor.agriculture.gov.au/live-animals/papua_new_guinea/dogs",
+   "https://micor.agriculture.gov.au/live-animals/papua_new_guinea/cats",
+   "https://www.naqia.gov.pg/"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "VU",
+  "name": "Vanuatu",
+  "status": "requirements",
+  "summary": "Biosecurity Vanuatu import permit required, using the health certificate attached to the permit (new conditions since 30 May 2024). Per Australian MICoR guidance, dogs must arrive by air as manifested cargo. Transit or offloading is allowed only in Australia, New Zealand or New Caledonia, and flight details must reach the Principal Veterinary Officer at least 1 working day before. Pregnant or nursing females and pups under 16 weeks are not eligible. Direct private-jet arrival from the US or EU is not compatible with these rules.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Biosecurity Vanuatu import permit",
+   "Health certificate attached to the permit (new format since 30 May 2024)",
+   "Flight details to the Principal Veterinary Officer at least 1 working day before embarkation"
+  ],
+  "import_permit": "Yes. Biosecurity Vanuatu (biosecurity@vanuatu.gov.vu, +678 33580 / 23519). The permit carries the applicable conditions and certificate.",
+  "quarantine": "On arrival a Veterinary Officer checks documents and inspects or treats the dog. The dog stays in the airport quarantine area until a Permit to Land is issued. Non-compliant dogs may be seized, destroyed or re-exported at the owner's cost.",
+  "timeline": "Not determinable for US/EU origin without the permit conditions. Origin and transit are restricted to Australia, NZ or New Caledonia routing.",
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": "Dogs must travel as manifested air cargo, transiting or offloading only in Australia, NZ or New Caledonia, in line with IATA live animal rules. Yacht arrivals have a separate schedule (4Y).",
+  "private_jet_alert": true,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Biosecurity Vanuatu",
+  "sources": [
+   "https://micor.agriculture.gov.au/live-animals/vanuatu/dogs",
+   "https://micor.agriculture.gov.au/live-animals/Pages/vanuatu/cats.aspx",
+   "https://biosecurity.gov.vu/index.php/imports/import-conditions"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "SB",
+  "name": "Solomon Islands",
+  "status": "requirements",
+  "summary": "Solomon Islands needs an import permit, a statutory declaration and a government vet health certificate. Dogs and cats must be desexed. The dog certificate (May 2021 permit) requires that rabies and canine brucellosis have not been diagnosed in the exporting country in the 5 years before export. In practice this excludes non-rabies-free origins such as the USA. Only dogs and cats from Australia or New Zealand are exempt from vet inspection before release from port.",
+  "microchip": null,
+  "vaccinations": [
+   "Dogs: distemper, hepatitis, canine parvovirus and parainfluenza (per the permit-based certificate)."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Import permit (Biosecurity Solomon Islands)",
+   "Owner/exporter statutory declaration (no disease signs and no contact with sick animals in the 30 days before export)",
+   "Government vet health certificate, one per animal"
+  ],
+  "import_permit": "Yes. Biosecurity Solomon Islands (enquiries@biosecurity.gov.sb). Permit conditions take precedence.",
+  "quarantine": "Biosecurity may inspect, test, detain or treat. Animals other than dogs and cats from Australia or NZ must be inspected by an approved vet before release. Non-compliant animals are destroyed or re-exported at the importer's cost.",
+  "timeline": null,
+  "lead_days": null,
+  "restricted_breeds": "Dogs and cats must be desexed before import.",
+  "private_aviation": "No private-aircraft rule found, but the origin condition (no rabies diagnosed in the exporting country for 5 years) blocks direct entry from the USA and other rabies-affected origins.",
+  "private_jet_alert": true,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Biosecurity Solomon Islands (Ministry of Agriculture and Livestock)",
+  "sources": [
+   "https://micor.agriculture.gov.au/live-animals/solomon_islands/dogs",
+   "https://micor.agriculture.gov.au/live-animals/solomon_islands/cats"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "WS",
+  "name": "Samoa",
+  "status": "requirements",
+  "summary": "Samoa import permit (Ministry of Agriculture and Fisheries) required, and dogs are subject to quarantine inspection on arrival. Conditions are set per permit and published only for Australian-origin dogs (Feb 2021 permit): tapeworm treatment (praziquantel) within 21 days, roundworm and long-acting tick/flea/lice treatment within 4 days, current distemper, hepatitis, leptospirosis and parvovirus vaccination, and a government vet certificate within 4 days of departure. Conditions for US/EU origin are not published.",
+  "microchip": null,
+  "vaccinations": [
+   "Dogs (Australia-origin permit): current distemper, infectious canine hepatitis, leptospirosis and parvovirus."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "Dogs (Australia-origin permit): praziquantel within 21 days before transport; roundworm treatment (e.g. pyrantel pamoate) and long-acting topical tick/flea/lice treatment within 4 days before transport.",
+  "documents": [
+   "Samoa import permit",
+   "International Animal Sanitary Certificate signed and stamped by a Government Veterinarian within 4 days of departure, recording treatments, doses and dates"
+  ],
+  "import_permit": "Yes. Ministry of Agriculture and Fisheries (maf.info@maf.gov.ws; Biosecurity: biosecurity.info@maf.gov.ws, +685 22561/22562).",
+  "quarantine": "Quarantine inspection on arrival. The importing country may set further pre- and post-arrival quarantine.",
+  "timeline": null,
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": "No private-aircraft rule found. The MAF permit sets the conditions, and US/EU-origin eligibility is unconfirmed.",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Ministry of Agriculture and Fisheries (MAF), Samoa Quarantine Service (biosecurity.info@maf.gov.ws)",
+  "sources": [
+   "https://micor.agriculture.gov.au/live-animals/samoa/dogs",
+   "https://micor.agriculture.gov.au/live-animals/samoa/cats",
+   "https://maf.gov.ws/biosecurity/"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "TO",
+  "name": "Tonga",
+  "status": "requirements",
+  "summary": "Tonga needs an import permit from MAFF, a signed owner/exporter declaration (identification, history, origin) and an international health certificate from the exporting country's official vet. On arrival, animals go straight into veterinary control at an approved quarantine ground or premises until released by a veterinary officer. Detailed conditions are set per permit; only Australian-origin permits (2019) are published, e.g. a cat exam within 24 hours of shipment.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "MAFF import permit",
+   "Signed owner/exporter declaration (identification, history, origin)",
+   "International animal health certificate, signed and stamped by the exporting country's official vet (cats: exam within 24 hours of shipment, per the 2019 Australian-origin permit)"
+  ],
+  "import_permit": "Yes. Ministry of Agriculture and Food, Forests and Fisheries (info@mafff.gov.to).",
+  "quarantine": "On arrival, held under veterinary control at an approved quarantine ground or premises until released by a veterinary officer. Duration is per permit.",
+  "timeline": null,
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": "No private-aircraft rule found. Post-arrival veterinary control and quarantine premises must be arranged.",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Ministry of Agriculture and Food, Forests and Fisheries (MAFFF), Quarantine Division",
+  "sources": [
+   "https://micor.agriculture.gov.au/live-animals/tonga/dogs",
+   "https://micor.agriculture.gov.au/live-animals/tonga/cats"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "WF",
+  "name": "Wallis and Futuna",
+  "status": "requirements",
+  "summary": "Dogs and cats need a Wallis import permit from BIVAP (agricultural and veterinary inspection service). Imports come via New Caledonia on a DAVAR export certificate (E.CD.WF.10/17). Pets from metropolitan France must first do quarantine in New Caledonia. Category 1 and 2 dogs (Pit Bull, Mastiff, Tosa, American Staffordshire, Rottweiler types) are banned from transport. US/EU pets cannot fly direct to Wallis.",
+  "microchip": "Microchip or tattoo matching the import permit (DAVAR certificate).",
+  "vaccinations": [
+   "Dogs: distemper, hepatitis, parvovirus, kennel cough (parainfluenza), leptospirosis. Cats: coryza, panleukopenia. Booster more than 14 days and less than 12 months before export (DAVAR certificate)."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": "Two internal treatments (nematodes and cestodes, incl. Echinococcus for dogs) and two external treatments (long-acting, fleas and ticks), at least 15 days apart: the first within 30 days, the second within 3 days of departure.",
+  "documents": [
+   "BIVAP import permit (owner application form, version 06/09/2019)",
+   "DAVAR health certificate E.CD.WF.10/17: exam within 3 days of departure, countersigned by an official vet and emailed to BIVAP Wallis (bivap@agripeche.wf) before export"
+  ],
+  "import_permit": "Yes. BIVAP Wallis (bivap@agripeche.wf).",
+  "quarantine": "Pets from metropolitan France must complete quarantine in New Caledonia before entry. Other origins: not published.",
+  "timeline": null,
+  "lead_days": null,
+  "restricted_breeds": "Category 1 and 2 dogs (Pit Bull, Mastiff, Tosa, American Staffordshire, Rottweiler and similar) are banned from transport.",
+  "private_aviation": "Entry goes through New Caledonia (DAVAR certificate, NC quarantine for pets from metropolitan France). A direct private flight with a pet from outside New Caledonia is not supported by the published procedure.",
+  "private_jet_alert": true,
+  "prohibited_species": [],
+  "export": "New Caledonia lists Wallis and Futuna as a rabies-free Pacific origin with its own dog/cat health certificate, so pets can move from Wallis and Futuna to New Caledonia under DAVAR conditions.",
+  "authority": "BIVAP – Bureau d'inspection vétérinaire, alimentaire et phytosanitaire (Service territorial des affaires rurales et de la pêche, Wallis and Futuna)",
+  "sources": [
+   "https://davar.gouv.nc/sites/default/files/atoms/files/exp-carnivores_domestiques_wf.pdf",
+   "https://www.wallis-et-futuna.gouv.fr/index.php/contenu/telechargement/10989/71176/file/2_FORMULAIRE%20Demande%20de%20Permis%20import%20CN%20CT%20pour%20Wallis%20V%2006%2009%202019.pdf",
+   "https://davar.gouv.nc/importations-exportations-importations-animaux-et-produits-animaux/les-chiens-et-chats"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ }
+]

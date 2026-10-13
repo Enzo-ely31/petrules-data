@@ -1,0 +1,378 @@
+[
+ {
+  "cc": "FO",
+  "name": "Faroe Islands",
+  "status": "prohibited",
+  "summary": "Visitors cannot bring dogs or cats: under Faroese Executive Order 82/2021 §6, only people with permanent residence in the Faroes or people moving there may import dogs and cats. Pets may not transit the Faroes, and pets carried on an aircraft or ship from abroad may not be landed (except in approved units of authorised carriers). Residents and movers need an HFS import permit (apply at least 6 business days before departure), microchip, full vaccinations at least 4 weeks old, parasite treatments and a health certificate no older than 2 days. A rabies titer and a 12-week wait apply from group B countries. From other countries (e.g. USA), the Chief Veterinary Officer sets conditions case by case.",
+  "microchip": "Required: ISO 11784 microchip (HDX or FDX-B, readable with ISO 11785). The number must appear on the permit application, the permit and the health certificate.",
+  "vaccinations": [
+   "Dogs: rabies, canine distemper, infectious canine hepatitis, parvovirus, parainfluenza, leptospirosis",
+   "Cats: rabies, feline panleukopenia, feline viral rhinotracheitis, feline calicivirus, feline leukaemia virus (FeLV)",
+   "All vaccinations at least 4 weeks old on arrival and within the manufacturer's validity. On-time boosters need no waiting period. Puppies/kittens must be at least 12 weeks old when vaccinated and arrive no earlier than 4 weeks after the last required vaccination."
+  ],
+  "rabies_titer": "Group A countries (Denmark excl. Greenland, Finland, Ireland, Iceland, Norway excl. Svalbard, UK, Sweden): not required. Group B countries (most other EU states, Switzerland, Liechtenstein, Greenland, Svalbard): required, ≥0.5 IU/ml at an EU-approved lab, sample at least 4 weeks after rabies vaccination; entry no earlier than 12 weeks after the sample. Other countries (e.g. USA): conditions set case by case by the Chief Veterinary Officer (§11).",
+  "parasite_treatment": "Required, within the product's validity when travel begins. Dogs: roundworm, French heartworm (Angiostrongylus vasorum), tapeworm incl. Echinococcus granulosus and E. multilocularis, scabies, lice, fleas, Ixodes ricinus ticks. Cats: same list except French heartworm. Must be certified in the health certificate.",
+  "documents": [
+   "HFS import permit application on the official form (a copy of the pet passport is not enough), with receipt for the fee (minimum DKK 750)",
+   "Veterinary health certificate on the HFS form (clinical exam and parasite treatments). It must reach HFS (hfs@hfs.fo) 2 business days before departure and be no more than 2 days old at departure",
+   "Import permit signed by an HFS official veterinarian, carried with the animal and shown to customs on arrival"
+  ],
+  "import_permit": "Required for every dog/cat, issued by the Faroese Food and Veterinary Authority (HFS). Only for permanent residents or people moving to the Faroes. Apply at least 6 business days before departure. Carriers must refuse to transport a pet without a valid permit.",
+  "quarantine": "None for compliant pets. Non-compliant pets may be quarantined under HFS supervision, returned to the country of dispatch or euthanised at the owner's expense.",
+  "timeline": "Visitors: not possible. Residents/movers from group A: apply ≥6 business days before departure → health certificate ≤2 days before departure, sent to HFS 2 business days ahead. Because of this, departures to the Faroes are only possible on Wednesday–Saturday (HFS publishes special dates around holidays). From group B: add a titer test and 12 weeks from the blood sample. From other countries: case-by-case conditions.",
+  "lead_days": null,
+  "restricted_breeds": "Dog breeds deemed dangerous are prohibited (list on hfs.fo). Hybrids are prohibited regardless of percentage, e.g. wolfdogs, Bengal and Savannah cats.",
+  "private_aviation": "Executive Order 82/2021 §6(3): dogs and cats taken on board aircraft or ships abroad may not be landed in the Faroes, and the crew must ensure they stay on board. This does not apply to approved transport units of an authorised carrier. §45: carriers transporting dogs/cats to the Faroes must hold an animal-transport authorisation, carry the valid permit and have a reception facility. §6(2): the owner or a designated escort must accompany the animal. Transit with a pet through the Faroes is prohibited.",
+  "private_jet_alert": true,
+  "prohibited_species": [
+   "dog",
+   "cat"
+  ],
+  "export": "Faroese residents travelling abroad and returning need an HFS travel permit (ferðaloyvi), with separate forms for group A and group B countries. EU lists the Faroes as an Annex I territory for entry into the EU.",
+  "authority": "Heilsufrøðiliga Starvsstovan (HFS, Faroese Food and Veterinary Authority), Smyrilsvegur 7, FO-100 Tórshavn, +298 55 64 00, hfs@hfs.fo",
+  "sources": [
+   "https://www.hfs.fo/webcenter/portal/HFS/pages_djor/oyubltilinnfl.avkelidjrumeftir1oktober2021",
+   "https://www.hfs.fo/webcenter/ShowProperty?nodeId=%2Fhfs2-cs%2FHFS094508%2F%2FidcPrimaryFile&revision=latestreleased",
+   "https://www.hfs.fo/webcenter/ShowProperty?nodeId=%2Fhfs2-cs%2FHFS094514%2F%2FidcPrimaryFile&revision=latestreleased",
+   "https://www.hfs.fo/webcenter/ShowProperty?nodeId=%2Fhfs2-cs%2FHFS094516%2F%2FidcPrimaryFile&revision=latestreleased",
+   "https://www.hfs.fo/webcenter/ShowProperty?nodeId=%2Fhfs2-cs%2FHFS094512%2F%2FidcPrimaryFile&revision=latestreleased",
+   "https://logir.fo/Kunngerd/82-fra-18-05-2021-um-at-innflyta-hundar-kettur-og-gitnadarevni"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "GL",
+  "name": "Greenland",
+  "status": "requirements",
+  "summary": "Every dog or cat needs an import permit from the Greenland Representation in Copenhagen. The permit is issued only after written approval from the municipality of residence. Rabies vaccination must be at least 30 days and at most 12 months old, and the vet health certificate no more than 14 days old. Female dogs and all cats must be sterilised/neutered. Dogs may only be imported to south-west Greenland (Kangaamiut south to Kap Farvel). They are banned north of 66°N on the west coast, including Sisimiut, Kangerlussuaq and Ilulissat up to Qaanaaq, and in all of East Greenland (sled-dog districts). Fighting/muscle dog breeds are banned.",
+  "microchip": "Not mentioned by the Greenland Representation's requirements (recommended, and an EU pet passport makes return to Denmark easier).",
+  "vaccinations": [
+   "Rabies: at least 30 days and no more than 12 months old at the time of application/travel (an older multi-year vaccination does not qualify). Puppies/kittens under 3 months may be exempt if the mother was rabies-vaccinated before birth.",
+   "Dogs: a vaccination certificate is also required (Norden/Info Norden lists it separately; diseases not specified)"
+  ],
+  "rabies_titer": "Not required.",
+  "parasite_treatment": "Cats: owner's declaration of tapeworm treatment and 14 days of isolation before departure. Dogs: none specified.",
+  "documents": [
+   "Application (letter or email, no set form)",
+   "Written permission to keep a dog/cat from the municipality of residence in Greenland (each municipality has its own dog and cat bylaws)",
+   "Rabies vaccination certificate",
+   "Veterinary health certificate no older than 14 days, plus owner's declaration (Danish Veterinary and Food Administration forms)",
+   "Female dogs: proof of sterilisation (Info Norden: dispensation possible for stays under 3 months). Cats: proof of sterilisation/neutering (Info Norden)",
+   "Cats: owner's declaration on tapeworm treatment and 14-day isolation",
+   "Import permit from the Greenland Representation, which must accompany the animal during the journey"
+  ],
+  "import_permit": "Required: issued by the Greenland Representation in Copenhagen (Strandgade 91, DK-1401 Copenhagen K, +45 3283 3800, info@ghsdk.dk), after the municipality has approved the application. Apply well before departure. Without the permit the animal can be refused at departure.",
+  "quarantine": "None mentioned.",
+  "timeline": "Get the municipality's written approval → rabies vaccination (≥30 days, ≤12 months old) → health certificate ≤14 days before travel → send everything to the Greenland Representation → permit issued. Processing times are not published, so allow several weeks.",
+  "lead_days": null,
+  "restricted_breeds": "Fighting and 'muscle' dog breeds may not be imported (Info Norden). At sheep-farming sites only Border Collie, Kelpie and their crosses are allowed. No dogs at all in the sled-dog districts (north of 66°N on the west coast and all of East Greenland), except sled, police or service dogs by dispensation from the Greenland Veterinary and Food Authority.",
+  "private_aviation": "Dogs cannot be imported to the sled-dog districts, which include Kangerlussuaq, Ilulissat and all of East Greenland (e.g. Kulusuk/Constable Pynt). A private jet carrying a dog must therefore use an airport in south-west Greenland (Nuuk, Narsarsuaq) and the dog must remain there. The import permit must travel with the animal.",
+  "private_jet_alert": true,
+  "prohibited_species": [],
+  "export": "EU lists Greenland as an Annex I territory for entry into the EU. An EU pet passport makes return to Denmark easier (Info Norden). The same permit procedure applies to re-import after a stay abroad.",
+  "authority": "Greenland Representation in Copenhagen (import permits); Veterinary and Food Authority of Greenland (Veterinær- og Fødevaremyndigheden i Grønland, dispensations); Greenland municipalities (permission to keep dogs/cats)",
+  "sources": [
+   "https://grl-rep.dk/da/dyr/",
+   "https://grl-rep.dk/da/dyr/hund",
+   "https://grl-rep.dk/da/dyr/kat",
+   "https://www.norden.org/da/info-norden/rejse-med-hund-eller-kat-til-groenland"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "GG",
+  "name": "Guernsey",
+  "status": "requirements",
+  "summary": "From the UK, Northern Ireland or the Crown Dependencies, pets travelling with their owners need no documents or vaccinations; pets from abroad must first have legally landed in the UK/Crown Dependencies. Directly from the EU, pets need a microchip, rabies vaccination (titer only if from an unlisted country), a pet passport or health certificate and tapeworm treatment for dogs. They must also be pre-notified at least 24 h ahead and arrive on an approved route/carrier. Listed restricted dog breeds need a specific licence.",
+  "microchip": "Required for entry directly from the EU. From UK/Crown Dependencies, no Guernsey document check, but UK law requires dogs over 8 weeks to be microchipped and registered.",
+  "vaccinations": [
+   "From UK/Crown Dependencies: none required",
+   "Directly from the EU: valid rabies vaccination"
+  ],
+  "rabies_titer": "Only for pets coming from a country that is not 'listed' (entry directly via the EU route).",
+  "parasite_treatment": "Dogs entering directly from the EU: tapeworm treatment by a vet (timing not stated on gov.gg; UK-standard 24–120 h before arrival). None from UK/Crown Dependencies.",
+  "documents": [
+   "From UK/Crown Dependencies: none (minimum age 8 weeks; operators may ask for a fitness-to-travel certificate)",
+   "Directly from the EU: valid pet passport (part 1 listed country), or AHC issued in GB/Channel Islands/Isle of Man (valid up to 4 months), or GB pet health certificate",
+   "Animal Import Notification to the Office of Environmental Health and Pollution Regulation at least 24 h before arrival (not required for pets with owners from UK/NI/Crown Dependencies)"
+  ],
+  "import_permit": "Not needed for pets with owners from the UK/Crown Dependencies. EU arrivals: written pre-notification ≥24 h. Listed restricted breeds and dog/cat hybrids: specific import licence. Commercial movements/re-homing: separate rules.",
+  "quarantine": "Pets that do not follow the rules may be quarantined for up to 4 months or refused entry, at the owner's expense.",
+  "timeline": "From UK/Crown Dependencies: no preparation. From the EU: pre-notify ≥24 h and give the dog tapeworm treatment shortly before arrival. From the USA: no direct route; the pet must first legally enter Great Britain under GB rules. LEAD TIME (lead_days): ~10 days, i.e. the GB health certificate before landing in GB, then onward travel; ~2 days from the EU.",
+  "lead_days": 10,
+  "restricted_breeds": "Need a specific licence: Akbash Dog, American Bulldog, American Bully (incl. XL Bully), American Staffordshire Bull Terrier, Anatolian Shepherd, Bandog type, Boerboel Mastiff, Cane Corso, Caucasian Shepherd, Central Asian Shepherd, Czechoslovakian Wolfdog, Dogo Argentino, Fila Brasileiro, Japanese Tosa/Tosa Inu, Kangal Shepherd, Moscow Guard Dog, Neapolitan Mastiff, Perro de Presa Canario, Perro de Presa Mallorquin, Pit Bull Terrier type, Šarplaninac, South Russian Ovcharka, Spanish Mastiff, Tornjak, Yugoslavian Shepherd Dog, Wolf hybrids F1–F4; also dog/cat hybrids.",
+  "private_aviation": "Pets may enter only via St Peter Port Harbour and Guernsey Airport. Pets may fly in with their owners on a private plane without approval only from the UK, Crown Dependencies, Ireland or Northern Ireland, with no foreign stop (other than Ireland/NI) en route. From elsewhere (e.g. the EU), entry must be via an approved carrier; at the airport this means handling through the Aiglle or ASG hangars (carriers can apply to the States Vets for approval). Direct arrival from outside the UK/EU is not provided for.",
+  "private_jet_alert": true,
+  "prohibited_species": [],
+  "export": "Bailiwick residents can no longer use EU pet passports: an animal health certificate (AHC) is needed for each trip to the EU/Northern Ireland (valid 10 days for EU entry, 4 months onward travel in the EU, 4 months for re-entry to the Bailiwick). Dogs travelling to FI, IE, NI, NO or MT also need tapeworm treatment.",
+  "authority": "States of Guernsey – States Veterinary Officer (svo@gov.gg) / Office of Environmental Health and Pollution Regulation",
+  "sources": [
+   "https://gov.gg/petmovements",
+   "https://gov.gg/pettravelscheme",
+   "https://www.gspca.org.gg/page/transporting-animals-and-out-guernsey"
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "XK",
+  "name": "Kosovo",
+  "status": "requirements",
+  "summary": "Kosovo's Administrative Instruction 02/2009 on non-commercial movement of pets (still published by the Food and Veterinary Agency) mirrors the old EU pet scheme. Pets from EU/listed countries, including the USA, need an ISO microchip, valid rabies vaccination and a passport or veterinary certificate. Pets from unlisted countries also need a rabies titer (≥0.5 IU/ml, ≥30 days after vaccination and 3 months before entry) and echinococcus treatment. IATA Timatic adds a ≥30-day wait after rabies vaccination and echinococcus treatment for dogs and cats.",
+  "microchip": "Required: electronic identification (ISO 11784 / Annex A ISO 11785). Tattoos were accepted only during the 4-year transitional period after 2009. If the chip is not ISO-compliant, the owner must provide a reader.",
+  "vaccinations": [
+   "Rabies: valid vaccination per manufacturer's recommendations, certified in a passport/veterinary certificate. IATA Timatic: at least 30 days before departure. Unvaccinated pets under 3 months only under specific conditions (passport, raised with mother, no wild-animal contact)."
+  ],
+  "rabies_titer": "Not required from EU/listed countries (Annex II Parts A–C, which include the USA, Canada, UAE, Bahrain, Japan, Russia, Belarus, Australia, etc.). Required from unlisted countries: ≥0.5 IU/ml, sample ≥30 days after vaccination and ≥3 months before entry (waived on re-entry if the titer was done before leaving).",
+  "parasite_treatment": "Echinococcus treatment for dogs and cats (praziquantel or epsiprantel), documented in the certificate/passport. Under AI 02/2009 it applies to animals from unlisted countries, '30 days before the import'. IATA Timatic lists it for all pet entries; treat and document to be safe.",
+  "documents": [
+   "Pet passport or veterinary certificate issued by an authorised veterinarian, certifying identification and valid rabies vaccination (plus titer and echinococcus treatment where applicable)"
+  ],
+  "import_permit": "Not mentioned for non-commercial pets.",
+  "quarantine": "Not mentioned for compliant pets.",
+  "timeline": "EU/listed origin (incl. USA): microchip → rabies vaccination ≥30 days before travel → vet certificate/passport (+ echinococcus treatment, documented). Unlisted origin: add titer ≥30 days after vaccination, then wait 3 months.",
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": "IATA Timatic gives no airport restriction. Pristina International Airport is the international entry point.",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Kosovo Food and Veterinary Agency (AUV/AUVK), Fushë Kosovë/Prishtinë, infoauv@rks-gov.net",
+  "sources": [
+   "https://auvk.rks-gov.net/udhezimet-administrative/",
+   "https://auvk.rks-gov.net/auvk/repository/docs/A_2009_02_aes.pdf",
+   "https://infopages.traveldoc.aero/Customs/RKS/Plain"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "JO",
+  "name": "Jordan",
+  "status": "requirements",
+  "summary": "Per advice from Jordan's Ministry of Agriculture relayed by Australia's export authority (27 Nov 2025), import permits for pet cats and dogs are no longer issued. Pets need a veterinary health certificate stating the animal is free of rabies and rabies-vaccinated, and each traveller may bring at most 2 pets of each species (cats/dogs). It is not explicit whether the end of permits means no permit is needed or that permit-based imports stopped, so confirm with the Ministry (Agri@moa.gov.jo). Belgium's foreign ministry advises against bringing pets to Jordan.",
+  "microchip": null,
+  "vaccinations": [
+   "Rabies: vaccination required (timing not specified by official sources)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Veterinary health certificate stating the animal is free of rabies and has received rabies vaccination"
+  ],
+  "import_permit": "Jordan MoA (via Australian DAFF Micor, 27 Nov 2025): import permits for pet cats and dogs will no longer be issued. Confirm with the Ministry what this means in practice.",
+  "quarantine": null,
+  "timeline": "Rabies vaccination → health certificate shortly before travel. Validity window not published; confirm with the Jordanian Ministry of Agriculture.",
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Ministry of Agriculture of Jordan (Agri@moa.gov.jo)",
+  "sources": [
+   "https://micor.agriculture.gov.au/live-animals/jordan/dogs",
+   "https://micor.agriculture.gov.au/live-animals/jordan/cats",
+   "https://diplomatie.belgium.be/fr/pays/jordanie/voyager-en-jordanie-conseils-aux-voyageurs/informations-pratiques-pour-la-jordanie"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "TN",
+  "name": "Tunisia",
+  "status": "requirements",
+  "summary": "Dogs and cats need an official health certificate (good health, no clinical signs of species-specific diseases) and a valid rabies vaccination given at least 30 days and at most 12 months before entry (Belgian foreign ministry). The certificate is checked at the border (IATA Timatic). Dangerous dogs such as pit bulls are prohibited. No Tunisian official page found.",
+  "microchip": null,
+  "vaccinations": [
+   "Rabies: at least 30 days and no more than 12 months before entry. A multi-year vaccine given more than 12 months ago would not qualify, so revaccinate."
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Official veterinary health certificate attesting good health and no clinical signs of species-specific diseases",
+   "Valid rabies vaccination certificate"
+  ],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "If the last rabies vaccination is more than 12 months old: revaccinate ≥30 days before entry. Then get the official health certificate shortly before travel (validity not published).",
+  "lead_days": null,
+  "restricted_breeds": "Dangerous dogs such as Pit Bulls are prohibited (full list not published).",
+  "private_aviation": null,
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": "For return to the EU: Tunisia is not EU-listed, so a rabies titer is needed (ideally done before leaving the EU).",
+  "authority": "Ministry of Agriculture, Water Resources and Fisheries – Direction Générale des Services Vétérinaires (DGSV); Tunisian Customs",
+  "sources": [
+   "https://diplomatie.belgium.be/fr/pays/tunisie/voyager-en-tunisie-conseils-aux-voyageurs/informations-pratiques-pour-la-tunisie",
+   "https://infopages.traveldoc.aero/Customs/TUN/Plain"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "IR",
+  "name": "Iran",
+  "status": "requirements",
+  "summary": "Domestic animals need a health certificate from the origin country and approval from the Iran Veterinary Organization (IATA Timatic). Australia's export authority, citing customs regulations of Tehran's veterinary quarantine division, lists further documents: an international health certificate with the microchip number, issued by the origin veterinary authority and no more than 7 days old, the vaccination record (especially rabies), and the owner's passport, all in original plus copy. Belgium's foreign ministry advises against travelling to Iran with pets.",
+  "microchip": "Microchip number to be stated on the international health certificate (Micor citing Tehran veterinary quarantine regulations)",
+  "vaccinations": [
+   "Rabies: vaccination must be documented on the animal's health/vaccination card"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "International health certificate issued by the official veterinary organisation of the origin country, with microchip number, issued no more than 7 days before presentation",
+   "Animal health identification card / vaccination record (especially rabies), original + copy",
+   "First page of the owner's passport, original + copy",
+   "Approval from the Iran Veterinary Organization (IVO)"
+  ],
+  "import_permit": "IVO approval required (IATA Timatic). Procedure not published.",
+  "quarantine": null,
+  "timeline": "Obtain IVO approval → health certificate within 7 days before arrival. Contact IVO 1–2 months ahead.",
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": "Leaving Iran: domestic animals need a health certificate from the Iran Veterinary Organization (IATA Timatic).",
+  "authority": "Iran Veterinary Organization (IVO)",
+  "sources": [
+   "https://infopages.traveldoc.aero/Customs/IRN/Plain",
+   "https://micor.agriculture.gov.au/live-animals/iran/dogs",
+   "https://micor.agriculture.gov.au/live-animals/iran/cats",
+   "https://diplomatie.belgium.be/fr/pays/iran/voyager-en-iran-conseils-aux-voyageurs/informations-pratiques-pour-liran"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "LY",
+  "name": "Libya",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [
+   "Belgian foreign ministry: the pet's vaccination booklet must be in order (details not specified)"
+  ],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [
+   "Up-to-date vaccination booklet (Belgian foreign ministry)"
+  ],
+  "import_permit": null,
+  "quarantine": "No quarantine (Belgian foreign ministry)",
+  "timeline": null,
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "Unknown (Libyan Ministry of Agriculture veterinary services)",
+  "sources": [
+   "https://diplomatie.belgium.be/fr/pays/libye/voyager-en-libye-conseils-aux-voyageurs/informations-pratiques-pour-la-libye",
+   "https://infopages.traveldoc.aero/Customs/LBY/Plain"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "TM",
+  "name": "Turkmenistan",
+  "status": "unknown",
+  "summary": "No reliable official information found — check with Elysium Jet operations before booking.",
+  "microchip": null,
+  "vaccinations": [],
+  "rabies_titer": null,
+  "parasite_treatment": null,
+  "documents": [],
+  "import_permit": null,
+  "quarantine": "Pets are subject to veterinary inspection on arrival (IATA Timatic). Quarantine rules not published.",
+  "timeline": "Contact the Turkmen embassy / State Veterinary Service at least 2 months before travel",
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": null,
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": null,
+  "authority": "State Veterinary Service of Turkmenistan (Ministry of Agriculture) — not verified",
+  "sources": [
+   "https://infopages.traveldoc.aero/Customs/TKM/Plain"
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MC",
+  "name": "Monaco",
+  "status": "requirements",
+  "summary": "Monaco is not in the EU but has harmonised its dog import conditions with the EU (Australian export authority Micor). It is also an EU Annex I listed territory. Pets arrive in practice via France (Nice Côte d'Azur), so EU/French entry rules apply: microchip, rabies vaccination, EU pet passport or EU animal health certificate, and a titer from unlisted countries. France's ban on category 1 dogs applies on arrival through France.",
+  "microchip": "ISO 11784/11785-compliant microchip, implanted or read before the rabies vaccination (EU rules).",
+  "vaccinations": [
+   "Rabies: given when the pet is at least 12 weeks old, on or after the microchip date. Primary vaccination valid 21 days after completion; on-time boosters need no wait (EU rules)."
+  ],
+  "rabies_titer": "Per EU rules: required only from unlisted third countries.",
+  "parasite_treatment": "None identified (EU tapeworm rule applies only to FI, IE, MT, NO, Northern Ireland).",
+  "documents": [
+   "EU pet passport (from EU), or EU animal health certificate + non-commercial declaration (from third countries), issued within 10 days before arrival in the EU"
+  ],
+  "import_permit": null,
+  "quarantine": "None identified if EU requirements are met.",
+  "timeline": "As for France. LEAD TIME (lead_days): ~10 days from the USA (EU animal health certificate issued and USDA-endorsed within 10 days before arrival). From the EU: none beyond a valid pet passport. From an unlisted country without a titer: ~100+ days.",
+  "lead_days": 10,
+  "restricted_breeds": "France's category 1 dog ban applies when entering via Nice. Monaco-specific breed rules not verified.",
+  "private_aviation": "No airport in Monaco (heliport only). Private jets land at Nice Côte d'Azur (France), where French/EU entry rules apply, including point-of-entry checks for third-country arrivals and the category 1 dog ban (including in transit).",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": "EU treats Monaco as an Annex I listed territory (pet passport/certificate, no titer, no point-of-entry requirement).",
+  "authority": "Direction de l'Action Sanitaire (Monaco); French authorities (DGAL/customs) at Nice",
+  "sources": [
+   "https://micor.agriculture.gov.au/live-animals/monaco/dogs",
+   "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/listing-territories-and-non-eu-countries_en",
+   "https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ },
+ {
+  "cc": "MD",
+  "name": "Moldova",
+  "status": "requirements",
+  "summary": "Microchip (before rabies vaccination), rabies vaccination at least 21 days before departure (pet ≥12 weeks at vaccination), a rabies antibody titer ≥0.5 IU/ml taken at least 30 days after the last vaccination and recorded in the pet passport, plus a veterinary health certificate. The titer is required by Moldovan Customs (via IATA Timatic) and the ANSA guide, but the APHIS certificate for US pets does not mention it, so plan for it and confirm with ANSA.",
+  "microchip": "Required: transponder implanted before rabies vaccination (ISO 11784/11785 recommended)",
+  "vaccinations": [
+   "Rabies: given by an official veterinarian of the origin country, pet ≥12 weeks old at vaccination, at least 21 days before departure (IATA Timatic / Moldovan Customs). Under 3 months only if the dam was vaccinated (APHIS certificate)",
+   "Compliance with other preventive sanitary measures for diseases other than rabies (Customs)"
+  ],
+  "rabies_titer": "Required per Moldovan Customs (IATA Timatic) and ANSA: ≥0.5 IU/ml, sample ≥30 days after the last rabies vaccination, result recorded in the pet passport. The older ANSA guide also says the test must be ≤24 months old and done ≥3 months before shipment; whether the 3-month wait still applies under Gov. Decision 660/2022 is unclear. Not mentioned on the APHIS US-origin certificate.",
+  "parasite_treatment": null,
+  "documents": [
+   "Veterinary health certificate from the origin country (APHIS US version: valid 30 days after issuance)",
+   "Pet passport with microchip, rabies vaccination and titer result",
+   "Declaration of the animal at the border to the border veterinary inspector"
+  ],
+  "import_permit": null,
+  "quarantine": null,
+  "timeline": "Microchip → rabies vaccination (≥21 days before departure) → titer blood sample ≥30 days after vaccination → (possibly 3-month wait per older ANSA guide) → health certificate. Allow up to 4 months to be safe if no prior titer.",
+  "lead_days": null,
+  "restricted_breeds": null,
+  "private_aviation": "Enter via a border point with veterinary inspection (Chișinău airport). ANSA Border Inspection Directorate +373 22 29-47-15",
+  "private_jet_alert": false,
+  "prohibited_species": [],
+  "export": "ANSA 'Certificate for non-commercial movement of pets', applied for online (servicii.gov.md / EVO app) at least 3–5 days before travel. Requires ID, pet passport (microchip, rabies details), official titer lab report and clinical exam record; issued on paper by the ANSA territorial office.",
+  "authority": "National Food Safety Agency of Moldova (ANSA); Customs Service of Moldova",
+  "sources": [
+   "https://infopages.traveldoc.aero/Customs/MDA/Plain",
+   "https://customs.gov.md/en/articles/animale-de-companie-1919-ro",
+   "https://ansa.gov.md/media/comunicate-de-presa/atentia-detinatorilor-de-animale-de-companie-ansa-faciliteaza-obtinerea",
+   "https://www.ansa.gov.md/sites/default/files/documents/S%C4%83n%C4%83tatea_%C8%99i_bun%C4%83starea_animalelor/GHID%20PRIVIND%20CIRCULA%C5%A2IA%20ANIMALELOR%20DE%20COMPANIE%20(1).pdf",
+   "https://www.aphis.usda.gov/sites/default/files/moldova-dog-cat-hc.pdf",
+   "https://diplomatie.belgium.be/fr/pays/moldavie/voyager-en-moldavie-conseils-aux-voyageurs/informations-pratiques-pour-la-moldavie"
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10"
+ }
+]

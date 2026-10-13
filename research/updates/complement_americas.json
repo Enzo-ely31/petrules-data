@@ -1,0 +1,311 @@
+[
+  {
+    "cc": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "status": "requirements",
+    "summary": "Under the Besluit invoer kleine dieren BES (Stb. 2010, 570), dogs and cats need a valid health certificate and valid proof of rabies vaccination. Dogs and cats coming from mainland South or Central America (except Suriname) are banned, unless they belong to someone settling on the islands who has owned them for 4+ months. Bonaire's veterinary service publishes no detailed timings, so confirm them.",
+    "microchip": "Not in the BES decree. Bonaire tourism guidance (secondary) cites an ISO 11784/11785 microchip implanted before the rabies vaccination. Confirm with the Bonaire veterinary service.",
+    "vaccinations": [
+      "Rabies: valid proof of vaccination required for dogs and cats (Besluit invoer kleine dieren BES, art. 2(2)). If proof is missing, the authority may have the animal vaccinated at the carrier's expense (art. 6).",
+      "Secondary sources (bonaire.com, Oct 2026) cite a rabies vaccine given at 12 weeks or older and at least 21–30 days before travel. This is not in the official text."
+    ],
+    "rabies_titer": "Not required by the BES decree. A secondary source suggests a titer for pets from EU-unlisted countries, but this is unconfirmed.",
+    "parasite_treatment": null,
+    "documents": [
+      "Valid health certificate (gezondheidsverklaring), required by art. 2(1). The decree sets no validity window. Secondary sources cite a certificate from the origin country's official veterinary authority within 10 days of travel, which from the US means APHIS 7001 with USDA endorsement.",
+      "Valid proof of rabies vaccination (art. 2(2)).",
+      "Per Belastingdienst Caribisch Nederland, small animals without valid papers are prohibited goods and must be declared to customs on arrival."
+    ],
+    "import_permit": "No veterinary import permit is set by the BES decree. Secondary sources say none is needed for travellers bringing their own pet. Pets imported as tax-exempt removal goods need a customs permit from Douane Caribisch Nederland.",
+    "quarantine": "None if the conditions are met. If they are not, the animal is quarantined immediately and the carrier must re-ship it at the first opportunity, paying all costs. The animal may be destroyed after quarantine (art. 3). Transit without rabies proof is allowed only in quarantine, for up to 6 weeks (art. 4).",
+    "timeline": "Plan at least 2 weeks before travel for an already microchipped and vaccinated pet: check rabies validity, then get the health certificate and official endorsement within about 10 days of arrival (secondary-source window).",
+    "lead_days": 10,
+    "restricted_breeds": null,
+    "private_aviation": "The ban applies to dogs and cats coming from mainland South and Central America (except Suriname), which matters for jets routing through Colombia, Venezuela or Panama. If the conditions are not met, the carrier (operator) must re-ship the animal and pay quarantine costs (art. 3). Declare the pet to customs on arrival at Flamingo Airport (BON).",
+    "private_jet_alert": true,
+    "prohibited_species": [],
+    "export": null,
+    "authority": "Openbaar Lichaam Bonaire veterinary department (vet.afdeling@bonairegov.com, per secondary source) and Douane Caribisch Nederland, under the Besluit invoer kleine dieren BES (Dutch Ministry of LVVN)",
+    "sources": [
+      "https://zoek.officielebekendmakingen.nl/stb-2010-570.pdf",
+      "https://english.belastingdienst-cn.nl/topics/customs-individuals/moving/moving-to-caribbean-netherlands",
+      "https://bonaire.com/en/travel-info/biaha-ku-pet-bonaire/",
+      "https://infobonaire.com/getting-to-bonaire/visiting-bonaire-with-your-pet/"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "SR",
+    "name": "Suriname",
+    "status": "requirements",
+    "summary": "Cats need a veterinary import permit from the Veterinary Inspection of Suriname (LVV, Directoraat Veeteelt). They also need an official health certificate in Dutch or English, a clinical exam and parasite treatment within 7 days of export, and rabies vaccination. From countries not free of rabies (including the USA), a titer test of at least 0.5 IU/ml done 3–12 months before shipment is required. Arrival must be notified 48 h ahead, followed by 2 weeks' isolation. The official document covers cats only, so confirm dog conditions with LVV.",
+    "microchip": "Not mentioned in the official LVV conditions for cats.",
+    "vaccinations": [
+      "Rabies: vaccinated or revaccinated according to the vaccine manufacturer's recommendations (LVV conditions for cats, 2026)."
+    ],
+    "rabies_titer": "From countries not free of rabies: a WOAH-method antibody titration test of at least 0.5 IU/ml, done not less than 3 months and not more than 12 months before export. Not required from rabies-free countries.",
+    "parasite_treatment": "Within 7 days before export: a broad-spectrum anthelmintic and a treatment against external parasites.",
+    "documents": [
+      "Valid veterinary import permit issued by the Veterinary Inspection of Suriname. Apply on paper or by email to secrdirvee@gmail.com.",
+      "Health certificate in Dutch or English from the origin country's competent veterinary authority. It must certify a clinical exam within 7 days before export with no signs of contagious disease or ectoparasites, the rabies vaccination, the titer (where required) and the parasite treatments."
+    ],
+    "import_permit": "Required: veterinary import permit from the Head of the Veterinary Service (Ministerie van LVV, Directoraat Veeteelt, Letitia Vriesdelaan 8–10, Paramaribo; tel. +597 479112; secrdirvee@gmail.com). If any condition is breached, entry can be refused and the permit withdrawn at the holder's cost.",
+    "quarantine": "No quarantine facility stay. The animal must be kept separate from other animals for at least 2 weeks after arrival, and may not be moved, sold or given away during that time without the Head of the Veterinary Service's permission. Inspectors may take blood or faecal samples at any time.",
+    "timeline": "From a rabies-affected country such as the US, plan at least 3 months before travel: titer blood draw (at least 3 months before export), then the import permit application, then the exam and parasite treatment within 7 days of export, then the endorsed health certificate. Notify the Veterinary Service at least 48 h before arrival.",
+    "lead_days": 90,
+    "restricted_breeds": null,
+    "private_aviation": "The Head of the Veterinary Service must be told the time and place of import at least 48 hours before arrival. Give the exact airport (e.g. Johan Adolf Pengel, PBM) and ETA.",
+    "private_jet_alert": true,
+    "prohibited_species": [],
+    "export": null,
+    "authority": "Ministerie van Landbouw, Veeteelt en Visserij (LVV), Directoraat Veeteelt, Veterinary Service / Veterinary Inspection, Paramaribo",
+    "sources": [
+      "https://gov.sr/wp-content/uploads/2026/08/Veterinaire-voorwaarden-voor-de-import-van-katten-Veterinary-requirements-for-the-importation-of-cats-to-Suriname.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "HN",
+    "name": "Honduras",
+    "status": "requirements",
+    "summary": "SENASA's 2026 regulation (Acuerdo CD-SENASA-001-2026, La Gaceta No. 37,146, 20 May 2026) applies to dogs and cats travelling with their owners. They need an International Veterinary Export Certificate from the origin country's competent authority and a current vaccination record. Rabies vaccination is preferably given 30 days before shipment, and internal and external deworming preferably within 30 days. Quarantine officers inspect pets at the point of entry. An import permit is needed only for 3 or more pets.",
+    "microchip": "Not required. The certificate must give full identification of the pet.",
+    "vaccinations": [
+      "Rabies (dogs and cats over 4 months): preferably given 30 days before the shipment date (art. 4.2.3).",
+      "The vaccination record must show the application date, expiry, vaccine type, brand and duration of protection (art. 4.2.1). If 1 or 2 non-rabies vaccines are missing, the owner signs an Acta de Compromiso to have them given within 5 days (art. 3.9)."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Internal and external deworming, preferably within 30 days before shipment, recorded with date, expiry, product type and brand (art. 4.2.2).",
+    "documents": [
+      "Certificado Veterinario Internacional de Exportación from the exporting country's competent authority, following WOAH model content. It must state the consignor and consignee, full identification of the pet, and an exam at embarkation by a veterinarian (healthy, no tumours, wounds, disease signs or ectoparasites), with the vet's name and date (art. 4.1).",
+      "Current vaccination record (cartilla de vacunación) including deworming.",
+      "For guide or emotional-support animals: a supporting document from the prescribing medical professional (art. 3.11).",
+      "Per USDA APHIS, Honduras does not require APHIS endorsement of US health certificates."
+    ],
+    "import_permit": "Required only when 3 or more pets are imported (art. 3.15c). For 1–2 pets, no permit is needed.",
+    "quarantine": "None if compliant. A healthy pet arriving by air or sea without health documents may enter only after a licensed Honduran vet issues a 'Constancia de Cuarentena Fiduciaria' committing to supervise at least 10 days of quarantine and then report to SENASA (art. 3.7).",
+    "timeline": "Plan at least 1 week before travel for an already vaccinated pet: deworm (within 30 days), get the vet exam and an official export certificate from the origin authority, then present the pet and documents at the SENASA quarantine post on arrival.",
+    "lead_days": 7,
+    "restricted_breeds": null,
+    "private_aviation": "The owner must present the pet and documents to the SENASA Agricultural Quarantine post at the customs office of entry (art. 3.1). Arrange an officer for the FBO arrival.",
+    "private_jet_alert": false,
+    "prohibited_species": [],
+    "export": "To leave Honduras, report to Agricultural Quarantine with the SENASA-issued Veterinary Export Certificate (art. 3.12–3.13). Short stays of 20 days or less with vaccines still current are exempt from the export certificate (art. 3.15). Return to the US: Honduras is a CDC high-risk dog-rabies country, and a screwworm certificate is required.",
+    "authority": "SENASA Honduras (Servicio Nacional de Sanidad e Inocuidad Agroalimentaria): Dirección Técnica de Cuarentena Agropecuaria / Salud Animal",
+    "sources": [
+      "https://zsbahughsyqimyrqnyhz.supabase.co/storage/v1/object/public/law-pdfs/uncategorized/12125-20260520-37146.pdf",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-honduras",
+      "https://www.cdc.gov/importation/dogs/high-risk-countries.html"
+    ],
+    "confidence": "high",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "CU",
+    "name": "Cuba",
+    "status": "requirements",
+    "summary": "Under Resolución 165/2026 (MINAG, Gaceta Oficial No. 75 Ordinaria of 9 Sep 2026, regulation of Decreto-Ley 127), animal-health inspectors may admit domestic dogs and cats that are vaccinated against rabies and other diseases in the import requirements and that carry a veterinary certificate from the origin country. Entry can be refused for zoosanitary reasons tied to the origin country. Home quarantine under supervision is permitted. Certificate timing and the list of other vaccines are not published, so confirm with CENASA.",
+    "microchip": "Not mentioned in Resolución 165/2026.",
+    "vaccinations": [
+      "Rabies: required (Res. 165/2026, art. 18.1a).",
+      "Other vaccines 'established in import requirements' are not listed in the regulation. Confirm with CENASA."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Veterinary certificate issued in the country of origin (art. 18.1a). Its content is harmonised between CENASA and the origin authority (art. 20)."
+    ],
+    "import_permit": "Not specified for accompanied pets. CENASA's director publishes a resolution, after risk analysis, listing countries and products eligible for travellers' imports (art. 17).",
+    "quarantine": "Arrival inspection is mandatory at ports and airports (art. 16). Dogs and cats may do home quarantine under the territorial animal-health department's supervision, if CENASA's requirements are met (arts. 13 and 43). Duration is not published. Non-compliant animals may be held, confiscated or re-shipped (art. 24).",
+    "timeline": "Plan at least 1 month before travel: get CENASA's current requirements in writing (vaccines, certificate validity), then vaccinate, then get the origin veterinary certificate. Expect inspection and home quarantine on arrival.",
+    "lead_days": null,
+    "restricted_breeds": null,
+    "private_aviation": "Aircraft arriving from abroad may not arrive with live animals unless authorised by CENASA, nor release animals, including pets, without animal-health control (Res. 165/2026, art. 42.3). The inspector briefs the captain on arrival. Get prior CENASA clearance for a private arrival. US sanctions and travel restrictions on Cuba also apply.",
+    "private_jet_alert": true,
+    "prohibited_species": [],
+    "export": "Return to the US: Cuba is a CDC high-risk dog-rabies country. US dogs need the USDA-endorsed CDC rabies certification before leaving the US, and Cuba is on APHIS's screwworm-affected list.",
+    "authority": "Centro Nacional de Sanidad Animal (CENASA), Ministerio de la Agricultura, Cuba",
+    "sources": [
+      "https://www.gacetaoficial.gob.cu/sites/default/files/goc-2026-o75.pdf",
+      "https://www.gacetaoficial.gob.cu/es/resolucion-165-de-2026-de-ministerio-de-la-agricultura",
+      "https://www.cdc.gov/importation/dogs/high-risk-countries.html"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "DM",
+    "name": "Dominica",
+    "status": "requirements",
+    "summary": "An import permit from the Veterinary Services (Livestock Development & Veterinary Unit) is required. To get it, a dog or cat needs rabies vaccination 30 days to 1 year before export, a FAVN/RNATT titer of at least 0.5 IU/ml drawn at least 1 month after vaccination (lab results sent direct to Veterinary Services), heartworm test and treatment, parasite freedom, DHLPP+C records and a vet health certificate. Official guidance dates from 2011, and the 1955 regulations limit dog and cat origins, so confirm before booking.",
+    "microchip": "Not mentioned in official guidance.",
+    "vaccinations": [
+      "Rabies: approved vaccine given by an official veterinarian, at least 30 days and not more than 1 year before export, recording type, serial number, expiry and date.",
+      "Current DHLPP+C immunisation record, or for other endemic diseases of importance."
+    ],
+    "rabies_titer": "RNATT/FAVN at a reputable rabies reference laboratory, at least 0.5 IU/ml, sampled at least 1 month after vaccination. The lab sends results directly to Veterinary Services before the permit is issued. Results take 3–4 weeks or longer.",
+    "parasite_treatment": "The animal must be free of internal and external parasites, and tested and treated for heartworm, with heartworm-free certification for export.",
+    "documents": [
+      "Import permit, sent by fax or email once the requirements are met.",
+      "Health certificate from a licensed, accredited veterinary authority in the exporting country.",
+      "Under the Animals Diseases (Importation) Control Regulations (Chap. 61:02, reg. 10, as amended 1990), the certificate must be by a government veterinary officer of the exporting country. It must state good health and that there has been no rabies among unquarantined animals in that country for the past 6 months.",
+      "Vaccination records and FAVN result."
+    ],
+    "import_permit": "Required for every animal (reg. 4), from the Chief Technical Officer / Veterinary Unit, Botanic Gardens, Roseau. 2011 contacts: tel. (767) 266-3827/3824; agrivet4@hotmail.com / forestvet@gmail.com. Processing and other fees may apply. Note: reg. 10(1) (as amended 1990) allows dogs and cats only directly from Great Britain, Northern Ireland, Ireland and Commonwealth Caribbean territories. The 2011 guidance covers 'all countries', so confirm in writing how US/EU-origin pets are permitted.",
+    "quarantine": "The inspector may order quarantine in an approved depot at the consignee's cost and risk (regs. 7–8). The 2011 guidance says the Quarantine Inspector examines the pet on arrival and may accept or reject it.",
+    "timeline": "For a vaccinated pet, plan at least 5–6 weeks before travel: FAVN blood draw (at least 1 month after vaccination) with a 3–4 week result, then heartworm test, parasite treatment, permit, health certificate and endorsement.",
+    "lead_days": 30,
+    "restricted_breeds": null,
+    "private_aviation": "Animals may be landed only at Roseau or Portsmouth ports or an official airport, unless the Chief Technical Officer gives a written permit for another place. No animal may be landed without the inspector's prior written permission (regs. 5–6). Coordinate the inspector for Douglas-Charles (DOM) or Canefield (DCF).",
+    "private_jet_alert": true,
+    "prohibited_species": [],
+    "export": null,
+    "authority": "Ministry of Agriculture, Fisheries, Blue and Green Economy: Division of Agriculture, Livestock Development & Veterinary Unit (Chief Technical Officer / Veterinary Services)",
+    "sources": [
+      "https://dominica.gov.dm/images/docs/services/returning_residents_information_manual_2011.pdf",
+      "https://faolex.fao.org/docs/pdf/dmi86997.pdf",
+      "https://agriculture.gov.dm/about-us/divisions/division-of-agriculture"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "MS",
+    "name": "Montserrat",
+    "status": "requirements",
+    "summary": "Under the Animals (Importation) Control Regulations (Cap. 9.06, revised 2002), every animal needs a permit from the Inspector and may land only at a customs port or airport with the Inspector's prior written permission. Dogs and cats face at least 6 months' quarantine unless imported directly from Great Britain, Northern Ireland, Ireland, Jamaica, St Kitts-Nevis, Barbados or Anguilla with a government health certificate. Current practice may differ, so confirm with the Department of Agriculture.",
+    "microchip": "Not in the regulations. Secondary sources cite a microchip requirement, but this is unconfirmed.",
+    "vaccinations": [
+      "Not specified in the regulations. Secondary sources cite rabies vaccination 30 days to 12 months before entry, but this is unconfirmed."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Import permit from the Inspector (reg. 3).",
+      "For quarantine exemption (origins in the First Schedule only): a certificate from the exporting country's appropriate authority (reg. 20) stating good health and no rabies among unquarantined animals there for the past 6 months. The pet must not have contacted uncertified dogs or cats in transit (reg. 8(2))."
+    ],
+    "import_permit": "Required (reg. 3), from the Inspector, Department of Agriculture, Brades (tel. 664-491-2075).",
+    "quarantine": "Per the regulations, at least 6 months in an approved quarantine depot, at the consignee's cost and risk, for dogs and cats not imported directly from a First Schedule country: GB, Northern Ireland, Ireland, Jamaica, St Kitts-Nevis, Barbados or Anguilla (reg. 8). The USA, Canada and the EU mainland are not on that list. Whether this is still applied in practice is unconfirmed.",
+    "timeline": "Plan at least 3 months before travel: contact the Department of Agriculture for written permit conditions and to confirm quarantine treatment for your origin.",
+    "lead_days": null,
+    "restricted_breeds": null,
+    "private_aviation": "Animals may land only at a customs port or airport, unless the Inspector gives a written permit. Each animal must be inspected before landing, and no animal may be landed without the Inspector's prior written permission (reg. 4). Aircraft carrying animals are subject to inspection and disinfection (reg. 5). A direct flight from a First Schedule country is required to avoid quarantine.",
+    "private_jet_alert": true,
+    "prohibited_species": [],
+    "export": null,
+    "authority": "Ministry of Agriculture, Lands, Housing & the Environment: Department of Agriculture (Veterinary Services / Inspector)",
+    "sources": [
+      "https://faolex.fao.org/docs/pdf/msr95350.pdf",
+      "https://www.gov.ms/government/ministries/ministry-of-agriculture-lands-housing-environment/department-of-agriculture/"
+    ],
+    "confidence": "low",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GD",
+    "name": "Grenada",
+    "status": "requirements",
+    "summary": "Dogs and cats from the USA need an import permit from the Veterinary Officer, presented at the port of entry. They also need rabies vaccination within 12 months before arrival and a vet health certificate issued within 2 weeks before arrival. The Veterinary Officer must be told the port of entry and arrival time. Submit the permit form by fax with the health certificate at least 2 weeks before arrival.",
+    "microchip": null,
+    "vaccinations": [
+      "Rabies: within 12 months before arrival (Ministry of Agriculture instructions). Secondary sources say 2- and 3-year vaccine validity is not accepted, so the vaccine must have been given within 12 months."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": null,
+    "documents": [
+      "Import permit (Pet Permit form): applicant name and country of residence, pet's age, sex, colour and breed, Grenada port or airport of landing, and expected arrival date. Fax it to (473) 440-4191 with the health certificate for approval and signature at least 2 weeks before arrival.",
+      "Health certificate issued by a veterinarian within 2 weeks before arrival. USDA APHIS says it must be APHIS-endorsed and issued no earlier than 3 weeks before arrival.",
+      "Rabies vaccination certificate."
+    ],
+    "import_permit": "Required: issued by the Veterinary Officer, Veterinary Department, Ministry of Agriculture, Ministerial Complex, Botanical Gardens, Tanteen, St George's. Tel. (473) 440-2708/3386/3078; agriculture@gov.gd; fax (473) 440-4191. It must be presented at the port of entry.",
+    "quarantine": null,
+    "timeline": "Plan at least 3 weeks before travel: have the vet issue the health certificate (and APHIS endorsement from the US) about 14 days before arrival, then fax the permit and certificate to the Veterinary Department at least 14 days before arrival, then notify the Veterinary Officer of the port and ETA.",
+    "lead_days": 14,
+    "restricted_breeds": null,
+    "private_aviation": "The permit names the port or airport of landing and the expected arrival date. The Veterinary Officer must be notified of the port of entry and arrival time, so give the FBO airport (e.g. Maurice Bishop International, GND) and ETA.",
+    "private_jet_alert": true,
+    "prohibited_species": [],
+    "export": null,
+    "authority": "Ministry of Agriculture, Grenada: Veterinary Department (Veterinary Officer)",
+    "sources": [
+      "https://gndembassyprc.mofa.gov.gd/wp-content/uploads/2024/08/Instructions-for-Pet-Permit.pdf",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-grenada",
+      "https://www.aphis.usda.gov/pet-travel/health-certificates/non-eu/grenada-permit-instructions.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GT",
+    "name": "Guatemala",
+    "status": "requirements",
+    "summary": "MAGA-VISAR requires a vet health certificate (practising vet's stamp and signature) stating the pet is healthy, free of infectious and parasitic disease signs, with current vaccinations and deworming. Pets also need a rabies vaccination record (animals under 3 months exempt) and SEPA/OIRSA inspection at the point of entry, for a fee. From the US, the bilateral USDA-endorsed dog/cat certificate may be used. Foreign-language documents must be translated into Spanish.",
+    "microchip": "Not required in the MAGA requirements sheet.",
+    "vaccinations": [
+      "Rabies: current, with validity shown and signed by the vet. Animals under 3 months are exempt. A 2021 government news item (AGN) cites vaccination at least 1 month and at most 1 year before travel. Confirm with MAGA."
+    ],
+    "rabies_titer": null,
+    "parasite_treatment": "Internal and external deworming recorded on the health certificate. No timing window is published by MAGA.",
+    "documents": [
+      "Health certificate stamped and signed by a practising veterinarian: pet details (name, age, sex, breed, colour), exam, healthy and free of infectious or parasitic disease signs, vaccinations with validity, and deworming. From the US, the bilingual 'US health certificate for dogs and cats to Guatemala', signed by an accredited vet and endorsed by USDA, may be used instead.",
+      "Rabies vaccination record.",
+      "Spanish translation of documents in other languages."
+    ],
+    "import_permit": "Not listed for dogs and cats in the MAGA requirements sheet.",
+    "quarantine": "Not listed. Inspection by SEPA/OIRSA staff at the point of entry (air, sea or land). A 2021 AGN item cites a fee of US$14 per pet.",
+    "timeline": "Plan at least 1 week before travel for a vaccinated pet: deworm, have the vet issue the certificate, get USDA endorsement (from the US), then SEPA/OIRSA inspection on arrival.",
+    "lead_days": 7,
+    "restricted_breeds": null,
+    "private_aviation": "SEPA/OIRSA inspection applies at any point of entry, so arrange an inspector for the FBO arrival.",
+    "private_jet_alert": false,
+    "prohibited_species": [],
+    "export": "If the pet leaves Guatemala more than 30 days after entry, a sanitary or international zoosanitary export certificate from MAGA is needed. Return to the US: Guatemala is a CDC high-risk dog-rabies country, and a screwworm certificate is required.",
+    "authority": "Ministerio de Agricultura, Ganadería y Alimentación (MAGA): VISAR, Departamento de Protección y Sanidad Pecuaria (cuarentenaanimal@maga.gob.gt; tel. 1557 ext. 7426)",
+    "sources": [
+      "https://www.maga.gob.gt/sitios/visar/wp-content/uploads/2025/02/requisitos-Mascotas1302.pdf",
+      "https://visar.maga.gob.gt/wp-content/uploads/2024/03/req-mascotas1903.pdf",
+      "https://agn.gt/guatemala-emite-requisitos-para-ingreso-y-egreso-de-mascotas/",
+      "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-guatemala",
+      "https://www.cdc.gov/importation/dogs/high-risk-countries.html"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  },
+  {
+    "cc": "GU",
+    "name": "Guam",
+    "status": "requirements",
+    "summary": "This US territory runs a rabies-free regime. Every dog and cat needs a Guam Department of Agriculture entry permit before travel. The default is 120 days in an approved quarantine facility. A '5 days or less' then home-quarantine program is open to pets from the mainland US (and CNMI) that meet pre-arrival requirements: microchip, 2 lifetime rabies vaccines, a FAVN of at least 1.0 IU/ml within 12 months, other core vaccines, and a 10-day health certificate.",
+    "microchip": "Required, except for the full 120-day quarantine. It must be readable by an AVID universal scanner, and its number must appear on the FAVN result and health certificate.",
+    "vaccinations": [
+      "Rabies: at least 2 lifetime vaccinations at least 30 days apart, using an inactivated (not modified-live) vaccine. The latest must be current at release, and must not be given after the FAVN draw.",
+      "Dogs: distemper, hepatitis/adenovirus-2, leptospirosis, parainfluenza, parvovirus, Bordetella. Cats: panleukopenia, rhinotracheitis, calicivirus. These must be given at least 10 days before departure (CQA, 2019 revision)."
+    ],
+    "rabies_titer": "FAVN drawn at least 10 days after a rabies vaccination, within 12 months of arrival, at an approved lab (e.g. KSU), with results sent directly to DOAG. The 5-day/home-quarantine program needs at least 1.0 IU/ml. 'Calculated' quarantine needs at least 0.5 IU/ml, and the pet stays quarantined until 120 days after the lab received the sample.",
+    "parasite_treatment": "Internal and external parasite treatment within 14 days of arrival, with products and dates on the health certificate.",
+    "documents": [
+      "Guam entry permit application. The fee is US$65 per pet per the DOAG brochure (2024 rev.); CQA's 2019 page says US$60. Pay by money order or cashier's cheque to 'Treasurer of Guam'.",
+      "Current and prior rabies certificates, FAVN result, health certificate from an accredited vet within 10 days of arrival (English, specific breed, microchip number), flight itinerary, and CDC Dog Import Form receipt (dogs).",
+      "Confirmed quarantine-facility reservation where applicable, including layovers over 4 hours."
+    ],
+    "import_permit": "Required for every animal, including service animals. Arriving without one can bring a fine of up to US$1,000 and penalties for the transporter. DOAG recommends submitting documents 2–3 months before arrival (quarantine@doag.guam.gov; tel. 671-300-7964/66).",
+    "quarantine": "120 days by default. 'Calculated' quarantine runs to 120 days from FAVN lab receipt. Pets from the mainland US with a FAVN of at least 1.0 IU/ml get 5 days or less, then home quarantine. Pets are exempt from quarantine after at least 120 days' residence in the British Isles, Australia, NZ, Japan or Hawaii, arriving direct. Draft amendments (Apr 2026) are not confirmed as adopted.",
+    "timeline": "Plan at least 2–3 months before travel: FAVN draw (if not current), then submit permit documents to DOAG 2–3 months ahead, then the quarantine reservation, then parasite treatment within 14 days and the health certificate within 10 days of arrival.",
+    "lead_days": 60,
+    "restricted_breeds": "Animals over 45 days pregnant are refused for quarantine, and permits are refused for pets under 5 months needing the 120-day quarantine. Ferrets and most other vertebrates are generally prohibited.",
+    "private_aviation": "A licensed quarantine facility collects non-exempt pets at the airport, where the quarantine vet examines them and verifies the microchip. Any flight change must be approved by DOAG and the facility. Exempt-area pets need clearance scheduled with Guam Customs & Quarantine (671-642-8071/2). Foreign-vaccinated dogs from CDC high-risk countries cannot enter the US via Guam.",
+    "private_jet_alert": true,
+    "prohibited_species": [],
+    "export": null,
+    "authority": "Guam Department of Agriculture: Division of Animal Health / Animal Quarantine Program (163 Dairy Road, Mangilao), with Guam Customs and Quarantine Agency",
+    "sources": [
+      "https://doag.guam.gov/wp-doag-content/uploads/2025/08/AH-PET-IMPORT-BROCHURE-FINAL-REV08092024.pdf",
+      "https://cqa.guam.gov/pet-import-requirements-3/",
+      "https://doag.guam.gov/wp-doag-content/uploads/2026/05/UPDATED-20260408-DRAFT-Proposed-Amendments-to-Animal-Import-Regulations.pdf"
+    ],
+    "confidence": "medium",
+    "last_checked": "2026-10"
+  }
+]

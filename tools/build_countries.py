@@ -38,6 +38,30 @@ def lead_days(entry):
     return value if isinstance(value, int) and 0 < value <= 400 else None
 
 
+EDITORIAL_KEYS = ("at_a_glance", "steps", "key_points", "export_points", "private_jet_note")
+GLANCE_KEYS = ("microchip", "rabies_vaccine", "titer", "permit", "health_certificate", "quarantine", "parasites")
+
+
+def editorial_fields(entry):
+    """Short, reader-friendly rewrites of the official text (no new facts). All optional."""
+    out = {}
+    glance = entry.get("at_a_glance")
+    if isinstance(glance, dict):
+        glance = {k: str(v).strip() for k, v in glance.items() if k in GLANCE_KEYS and v and str(v).strip()}
+        if glance:
+            out["at_a_glance"] = glance
+    steps = [s for s in entry.get("steps") or [] if isinstance(s, dict) and s.get("what")]
+    if steps:
+        out["steps"] = [{"when": str(s.get("when") or "").strip(), "what": str(s["what"]).strip()} for s in steps]
+    for key in ("key_points", "export_points"):
+        items = [str(x).strip() for x in entry.get(key) or [] if str(x).strip()]
+        if items:
+            out[key] = items
+    if isinstance(entry.get("private_jet_note"), str) and entry["private_jet_note"].strip():
+        out["private_jet_note"] = entry["private_jet_note"].strip()
+    return out
+
+
 def clean(entry, source):
     errors = []
     cc = str(entry.get("cc", "")).upper()
@@ -58,6 +82,8 @@ def clean(entry, source):
     out["prohibited_species"] = sorted({str(x).lower() for x in species if str(x).lower() in ("dog", "cat")})
     out["private_jet_alert"] = bool(entry.get("private_jet_alert")) or bool(
         out["private_aviation"] and PRIVATE_JET_ALERT.search(out["private_aviation"]))
+    for key, value in editorial_fields(entry).items():
+        out[key] = value
     out["confidence"] = entry.get("confidence") if entry.get("confidence") in ("high", "medium", "low") else "low"
     out["lead_days"] = lead_days(entry) if out["status"] == "requirements" else None
     out["region_file"] = source
@@ -94,6 +120,20 @@ def main():
             if item["cc"] and item["status"] in STATUSES:
                 countries[item["cc"]] = item
 
+    # research/editorial/*.json: {cc + editorial fields} merged on top, written from the verified text.
+    edited = []
+    for path in sorted((RESEARCH / "editorial").glob("*.json")):
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            problems.append(f"editorial/{path.name}: invalid JSON ({exc})")
+            continue
+        for entry in data:
+            cc = str(entry.get("cc", "")).upper()
+            if cc in countries:
+                countries[cc].update(editorial_fields(entry))
+                edited.append(cc)
+
     for item in countries.values():
         item.pop("region_file", None)
 
@@ -116,6 +156,7 @@ def main():
     print(f"Unknown ({len(unknown)}): {' '.join(unknown)}")
     print(f"Low confidence ({len(low)}): {' '.join(low)}")
     print(f"Countries with airports but no entry ({len(missing)}): {' '.join(missing)}")
+    print(f"Editorial rewrites: {len(set(edited))}")
     if overrides:
         print(f"Updated by research/updates ({len(overrides)}): {' '.join(overrides)}")
     if problems:
