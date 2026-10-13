@@ -368,7 +368,8 @@
   "authority": "Department of Livestock Services / Animal Quarantine Office (Ministry of Agriculture and Livestock Development)",
   "sources": [],
   "confidence": "low",
-  "last_checked": "2026-10"
+  "last_checked": "2026-10",
+  "lead_days": 10
  },
  {
   "cc": "BT",
@@ -431,7 +432,8 @@
   "last_checked": "2026-10",
   "prohibited_species": [
    "dog"
-  ]
+  ],
+  "lead_days": 42
  },
  {
   "cc": "AF",

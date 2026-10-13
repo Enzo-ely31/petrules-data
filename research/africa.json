@@ -797,7 +797,8 @@
    "https://tradebarriers.org/ntm/measures/view/211"
   ],
   "confidence": "medium",
-  "last_checked": "2026-10"
+  "last_checked": "2026-10",
+  "lead_days": 42
  },
  {
   "cc": "ML",
@@ -917,7 +918,8 @@
    "https://aimnews.org/2024/04/02/governo-interdita-importacao-de-caes-perigosos/"
   ],
   "confidence": "medium",
-  "last_checked": "2026-10"
+  "last_checked": "2026-10",
+  "lead_days": 28
  },
  {
   "cc": "NA",
@@ -953,7 +955,8 @@
    "https://van.org.na/section.php?secid=52&menuid=52"
   ],
   "confidence": "medium",
-  "last_checked": "2026-10"
+  "last_checked": "2026-10",
+  "lead_days": 42
  },
  {
   "cc": "NE",

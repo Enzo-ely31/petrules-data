@@ -159,7 +159,7 @@
   "import_permit": "No separate import permit in the embassy guidance for personal pets. Advance notification to the Animal Quarantine Office, Tribhuvan International Airport (ktmquarantine@gmail.com) 72 hours before arrival.",
   "quarantine": "Inspection at the airport animal quarantine checkpoint, then customs clearance. No fixed quarantine is described for compliant pets.",
   "timeline": "An already vaccinated pet needs under a week: health certificate within 10 days of arrival → email the Animal Quarantine Office 72 hours before arrival.",
-  "lead_days": 5,
+  "lead_days": 10,
   "restricted_breeds": null,
   "private_aviation": "Kathmandu (TIA) Animal Quarantine Office handles arrivals; give 72 hours' notice. No private-aircraft-specific rule found.",
   "private_jet_alert": false,
