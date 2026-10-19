@@ -1,10 +1,382 @@
 {
- "changed": {},
+ "changed": {
+  "AE": [
+   "https://moccae.gov.ae/Handlers/DownloadPDF.ashx?id=67445",
+   "https://moccae.gov.ae/en/services/animal-health-certificate-for-export-re-export-of-live-animals",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-united-arab-emirates",
+   "https://www.moccae.gov.ae/en/services/import-permit-pets"
+  ],
+  "AG": [
+   "https://www.aphis.usda.gov/aphis/pet-travel/by-country/pettravel-antigua-barbuda"
+  ],
+  "AI": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-anguilla"
+  ],
+  "AL": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-albania"
+  ],
+  "AM": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-armenia"
+  ],
+  "AO": [
+   "https://www.aphis.usda.gov/live-animal-export/export-live-animals-angola"
+  ],
+  "AR": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-argentina",
+   "https://www.argentina.gob.ar/noticias/vacaciones-de-invierno-cinco-pasos-para-viajar-con-mascotas-desde-la-argentina"
+  ],
+  "AU": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-australia"
+  ],
+  "AW": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-aruba",
+   "https://www.aphis.usda.gov/regionalization-evaluation-services/region-health-status"
+  ],
+  "BB": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-barbados"
+  ],
+  "BF": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-burkina-faso"
+  ],
+  "BH": [
+   "https://services.bahrain.bh/wps/portal/en/BSP/GSX-UI-EServiceDetails?esID=2177",
+   "https://www.aphis.usda.gov/pet-travel/pet-travel-united-states-bahrain"
+  ],
+  "BM": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-bermuda"
+  ],
+  "BO": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-bolivia"
+  ],
+  "BR": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-brazil",
+   "https://www.gov.br/pt-br/servicos/viajar-para-outro-pais-com-seu-cao-ou-gato-chile-cvi"
+  ],
+  "BS": [
+   "https://bahfsabahamas.com/services/epermitting-for-imports",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-bahamas"
+  ],
+  "BT": [
+   "https://www.bbs.bt/?p=232904"
+  ],
+  "BW": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-botswana"
+  ],
+  "BY": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-belarus"
+  ],
+  "CA": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-canada"
+  ],
+  "CG": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-republic-congo-brazzaville"
+  ],
+  "CI": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-ivory-coast"
+  ],
+  "CM": [
+   "https://www.aphis.usda.gov/pet-travel/pet-travel-united-states-cameroon"
+  ],
+  "CN": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-china"
+  ],
+  "CO": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-colombia",
+   "https://www.ica.gov.co/importacion-y-exportacion/otros-procedimientos/requisitos-para-importar-mascotas/ingreso-de-perros-y-gatos-a-colombia"
+  ],
+  "CR": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-costa-rica"
+  ],
+  "CW": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-curacao"
+  ],
+  "CZ": [
+   "https://en.svscr.cz/animal-health/travelling-with-pet-animals/",
+   "https://en.svscr.cz/animal-welfare/ponits-of-entry/"
+  ],
+  "DK": [
+   "https://en.foedevarestyrelsen.dk/animals/animal-welfare/danish-legislation-on-dogs",
+   "https://en.foedevarestyrelsen.dk/animals/travelling-with-pet-animals"
+  ],
+  "DO": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-dominican-republic"
+  ],
+  "DZ": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-algeria"
+  ],
+  "EC": [
+   "https://www.gob.ec/arcfz/tramites/solicitud-permiso-zoosanitario-importacion-animales-compania"
+  ],
+  "EG": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-egypt"
+  ],
+  "ES": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-spain"
+  ],
+  "ET": [
+   "https://www.aphis.usda.gov/pet-travel/pet-travel-united-states-ethopia"
+  ],
+  "FI": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-finland-malta-ireland-including-northern"
+  ],
+  "GB": [
+   "https://www.daera-ni.gov.uk/articles/travelling-pets",
+   "https://www.gov.uk/taking-your-pet-abroad"
+  ],
+  "GD": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-grenada"
+  ],
+  "GE": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-georgia"
+  ],
+  "GF": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-french-guyana"
+  ],
+  "GH": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-ghana"
+  ],
+  "GN": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-guinea"
+  ],
+  "GP": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-france",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-guadeloupe"
+  ],
+  "GT": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-guatemala"
+  ],
+  "GY": [
+   "https://agriculture.gov.gy/?p=1995"
+  ],
+  "ID": [
+   "https://karantinaindonesia.go.id/",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-indonesia"
+  ],
+  "IE": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-finland-malta-ireland-including-northern"
+  ],
+  "IL": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-israel"
+  ],
+  "IM": [
+   "https://gov.im/categories/travel-traffic-and-motoring/travelling-with-pets"
+  ],
+  "IN": [
+   "https://indiainatlanta.gov.in/eoial_pages/Mjk5",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-india"
+  ],
+  "IQ": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-iraq"
+  ],
+  "IT": [
+   "http://www.salute.gov.it/portale/temi/p2_6.jsp?lingua=italiano&id=4278&area=cani&menu=viaggiare"
+  ],
+  "JE": [
+   "https://www.gov.je/Industry/PetsAndLivestock/PetMovements/pages/pettravelscheme.aspx"
+  ],
+  "JM": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-jamaica"
+  ],
+  "JP": [
+   "https://www.maff.go.jp/aqs/english/animal/dog/index.html"
+  ],
+  "KE": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-kenya"
+  ],
+  "KG": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-kyrgyzstan"
+  ],
+  "KN": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-st-kitts-nevis"
+  ],
+  "KR": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-korea",
+   "https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_007-8.jsp",
+   "https://www.qia.go.kr/english/html/Community_plaza/listqiaEngFaqAnswerWebAction.do"
+  ],
+  "KW": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-kuwait"
+  ],
+  "KY": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-cayman-islands"
+  ],
+  "KZ": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-kazakhstan"
+  ],
+  "LB": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-lebanon"
+  ],
+  "LC": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-st-lucia"
+  ],
+  "LK": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-sri-lanka"
+  ],
+  "MA": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-morocco"
+  ],
+  "ME": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-montenegro"
+  ],
+  "MF": [
+   "https://www.aphis.usda.gov/pet-travel/pet-travel-united-states-st-maarten-st-martin",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-france"
+  ],
+  "MH": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-marshall-islands"
+  ],
+  "MK": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-north-macedonia"
+  ],
+  "ML": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-mali"
+  ],
+  "MN": [
+   "https://www.aphis.usda.gov/pet-travel/pet-travel-united-states-mongolia"
+  ],
+  "MO": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-macao",
+   "https://www.gov.mo/en/news/402620/"
+  ],
+  "MQ": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-france",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-martinique"
+  ],
+  "MS": [
+   "https://www.gov.ms/government/ministries/ministry-of-agriculture-lands-housing-environment/department-of-agriculture/"
+  ],
+  "MT": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-finland-malta-ireland-including-northern"
+  ],
+  "MU": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-mauritius"
+  ],
+  "MX": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-mexico"
+  ],
+  "MY": [
+   "https://animalpassport.dvs.gov.my/portal-main/article-content?id=547a0544-1743-11ef-ba49-fa163eda1aa9",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-malaysia"
+  ],
+  "MZ": [
+   "https://aimnews.org/2024/04/02/governo-interdita-importacao-de-caes-perigosos/",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-mozambique"
+  ],
+  "NA": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-namibia"
+  ],
+  "NG": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-nigeria"
+  ],
+  "NI": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-nicaragua"
+  ],
+  "NO": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-finland-malta-ireland-including-northern"
+  ],
+  "NZ": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-new-zealand"
+  ],
+  "PA": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-panama"
+  ],
+  "PE": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-peru"
+  ],
+  "PF": [
+   "https://www.mes-demarches.gov.pf/commencer/import-chien-chat-avion"
+  ],
+  "PH": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-philippines",
+   "https://www.bai.gov.ph/Stakeholders/PetImport"
+  ],
+  "PT": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-portugal"
+  ],
+  "PY": [
+   "https://senacsa.gov.py/servicios/sanidad-animal-identidad-y-trazabilidad/cuarentena/viajar-con-mascotas/"
+  ],
+  "RE": [
+   "https://www.service-public.gouv.fr/particuliers/vosdroits/F21374"
+  ],
+  "RS": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-serbia"
+  ],
+  "RU": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-russian-federation"
+  ],
+  "SA": [
+   "https://naama.sa",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-saudi-arabia"
+  ],
+  "SG": [
+   "https://avs.nparks.gov.sg/about-us/our-centres/changi-animal-plant-quarantine-station/",
+   "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/export/dogs-and-cats/",
+   "https://avs.nparks.gov.sg/pets/importing-exporting-a-pet/import/dogs-and-cats/",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-singapore"
+  ],
+  "SN": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-senegal"
+  ],
+  "SX": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-st-maarten"
+  ],
+  "TC": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-turks-caico-islands"
+  ],
+  "TG": [
+   "https://direct.aphis.usda.gov/pet-travel/pet-travel-united-states-togo"
+  ],
+  "TH": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-thailand"
+  ],
+  "TR": [
+   "https://vskn.tarimorman.gov.tr/adnanmenderes/Duyuru/3/Yolcu-Beraberi-Kedi-Kopek-Seyahati",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-turkey"
+  ],
+  "TT": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-trinidad-tobago"
+  ],
+  "TW": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-taiwan"
+  ],
+  "TZ": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-tanzania"
+  ],
+  "UA": [
+   "https://dpss.gov.ua/news/vvezennia-domashnikh-tvaryn-v-ukrainu",
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-ukraine"
+  ],
+  "US": [
+   "https://www.aphis.usda.gov/regionalization-evaluation-services/region-health-status"
+  ],
+  "UY": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-uruguay",
+   "https://www.gub.uy/tramites/solicitud-ingreso-mascotas-uruguay"
+  ],
+  "UZ": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-uzbekistan"
+  ],
+  "VC": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-st-vincent-grenadines"
+  ],
+  "VE": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-venezuela"
+  ],
+  "VG": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-british-virgin-islands"
+  ],
+  "WS": [
+   "https://maf.gov.ws/biosecurity/"
+  ],
+  "ZA": [
+   "https://www.aphis.usda.gov/pet-travel/us-to-another-country-export/pet-travel-us-south-africa"
+  ]
+ },
  "failed": {
   "http://en.dld.go.th/index.php/en/pet-travel-menu/exportation-animal-animal-products": "timed out",
   "http://en.dld.go.th/index.php/en/pet-travel-menu/importation-animal-animal-products": "timed out",
   "http://www.ansvsa.ro/?pag=903": "<urlopen error [Errno 101] Network is unreachable>",
-  "http://www.ldc.gov.lv/lv/majas_dzivnieku_registresanas_kartiba/informacija_par_registresanu/": "HTTP Error 404: Not Found",
   "http://www.minagric.gr/index.php/en/citizen-menu/pets-menu": "HTTP Error 403: Forbidden",
   "http://www.svssr.sk/zvierata/spolocenske.php": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.svssr.sk'. (_ssl.c:1010)>",
   "https://agricultureservices.gov.mt/en/vrd/Pages/travelPet.aspx": "<urlopen error [Errno -2] Name or service not known>",
@@ -13,30 +385,41 @@
   "https://fmard.gov.ng/permits/": "HTTP Error 525: <none>",
   "https://hukoomi.gov.qa/en/articles/pets-and-animal-control": "HTTP Error 403: Forbidden",
   "https://micor.agriculture.gov.au/live-animals/Pages/bangladesh/dogs.aspx": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/Pages/vanuatu/cats.aspx": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/iran/cats": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/iran/dogs": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/jordan/cats": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/jordan/dogs": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/papua_new_guinea/cats": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/papua_new_guinea/dogs": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/samoa/cats": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/samoa/dogs": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/solomon_islands/cats": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/solomon_islands/dogs": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/tonga/cats": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/tonga/dogs": "The read operation timed out",
+  "https://micor.agriculture.gov.au/live-animals/vanuatu/dogs": "The read operation timed out",
+  "https://onboard.hku.hk/?p=3547": "HTTP Error 500: Internal Server Error",
   "https://vmvt.lrv.lt/en/animal-health/travelling-with-pets/cats-dogs-or-ferrets-from-all-other-non-eu-countries-high-risk-countries/": "HTTP Error 403: Forbidden",
   "https://vmvt.lt/animal-health/travelling-pets?language=en": "HTTP Error 403: Forbidden",
+  "https://washington.mofa.go.ug/node/271": "The read operation timed out",
   "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs": "The read operation timed out",
   "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/frequently-asked-questions": "The read operation timed out",
   "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/live-cats-dogs-arriving-private-chartered-flights": "The read operation timed out",
   "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/how-to-import/step-by-step-guides/category-3-step-by-step-guide-for-dogs": "The read operation timed out",
   "https://www.agriculture.gov.au/biosecurity-trade/cats-dogs/rabies-neutralising-antibody": "The read operation timed out",
-  "https://www.andersen.af.mil/About-Us/Fact-Sheets/Display/Article/414480/shipping-your-pets/": "HTTP Error 403: Forbidden",
-  "https://www.bai.gov.ph/oci-faq": "HTTP Error 404: Not Found",
-  "https://www.blv.admin.ch/blv/en/home/tiere/reisen-mit-heimtieren.html": "HTTP Error 500: Internal Server Error",
   "https://www.chileatiende.gob.cl/fichas/2602-autorizacion-sanitaria-para-ingresar-a-chile-con-perros-gatos-y-hurones": "HTTP Error 403: Forbidden",
+  "https://www.gov.bw/business-compliance-agriculture-animal-husbandry/issuance-import-permit-live-animals-animal": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>",
   "https://www.gov.il/en/service/import_pets_cats_dogs": "HTTP Error 403: Forbidden",
   "https://www.mapa.gob.es/en/ganaderia/temas/comercio-exterior-ganadero/desplazamiento-animales-compania/default.aspx": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>",
   "https://www.moa.gov.jm/content/protocol-export-dogs-and-cats": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
   "https://www.naqia.gov.pg/": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>",
   "https://www.nda.gov.za/index.php/publication/423-import-export-policy-unit": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
   "https://www.nda.gov.za/index.php/publication/439-animal-health": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-  "https://www.pettravel.com/immigration/Rwanda.cfm": "HTTP Error 404: Not Found",
-  "https://www.pettravel.com/immigration/Zimbabwe.cfm": "HTTP Error 404: Not Found",
+  "https://www.norden.org/da/info-norden/rejse-med-hund-eller-kat-til-groenland": "HTTP Error 403: Forbidden",
   "https://www.pettravel.gov.ie": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pettravel.gov.ie'. (_ssl.c:1010)>",
   "https://www.regjeringen.no/en/aktuelt/travelling-with-dogs-to-norway/id3047847/": "HTTP Error 403: Forbidden",
-  "https://www.sainthelena.gov.sh/documents/Dog-and-Cat-Imports-from-SA-April-2013": "The read operation timed out",
-  "https://www.sainthelena.gov.sh/public-services/veterinary/": "The read operation timed out",
-  "https://www.sainthelena.gov.sh/st-helena/government/portfolios/environment-natural-resources-planning/biosecurity/": "The read operation timed out",
-  "https://www.servizz.gov.mt/en/services/web-02315": "HTTP Error 403: Forbidden"
+  "https://www.servizz.gov.mt/en/services/web-02315": "HTTP Error 403: Forbidden",
+  "https://www.sintmaartengov.org/services/Pages/Animals.aspx": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
  }
 }
